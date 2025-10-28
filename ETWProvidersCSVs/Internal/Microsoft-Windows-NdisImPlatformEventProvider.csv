@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Received NetPnPEvent {NetPnpEvent} from Member {Member},{NetPnpEvent} | {Member}
 1,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received NetPnPEvent {NetPnpEvent} from Member {Member},{NetPnpEvent} | {Member}
 1,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Received NetPnPEvent {NetPnpEvent} from Member {Member},{NetPnpEvent} | {Member}
+1,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received NetPnPEvent {NetPnpEvent} from Member {Member},{NetPnpEvent} | {Member}
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
 2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
+2,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Nic {Adapter} is transitioning into a new power state {PowerState},{Adapter} | {PowerState}
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
@@ -725,6 +727,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
 3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
+3,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Member {Adapter} is doing a status indication. StatusCode = {StatusBufferLength},{Adapter} | {StatusBufferLength}
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
@@ -967,6 +970,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
 4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
+4,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Member {Adapter} is indicating a new link state. Link State Buffer = {StatusBuffer},{Adapter} | {StatusBuffer}
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
@@ -1209,6 +1213,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
 5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
+5,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Oid {Oid} on TeamNic {Adapter} failed due to invalid port number. Oid Buffer = {OidBuffer},{Oid} | {Adapter} | {OidBuffer}
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
@@ -1451,6 +1456,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
 6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
+6,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Forwarding of OID {Oid} from TeamNic {TeamNic} due to Member {Member} failed.  Status = {Status},{Oid} | {TeamNic} | {Member} | {Status}
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
@@ -1693,6 +1699,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
+7,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Querying for OID {Oid} on TeamNic {Adapter} failed. OidBuffer is {OidBuffer} failed.  Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
@@ -1935,6 +1942,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
 8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
+8,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on Member {Adapter}. Status = {Status},{Adapter} | {Status}
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
@@ -2177,6 +2185,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
 9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
+9,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set OID_GEN_CURRENT_LOOKAHEAD on TeamNic {Adapter}. Status = {Status},{Adapter} | {Status}
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
@@ -2419,6 +2428,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
 10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
+10,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,New Packet Filters for TeamNic {TeamNic} are {PacketFilter},{TeamNic} | {PacketFilter}
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
@@ -2661,6 +2671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
 11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
+11,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received new per-port Packet Filters {PacketFilter} for TeamNic {TeamNic} and Member {Member},{PacketFilter} | {TeamNic} | {Member}
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
@@ -2903,6 +2914,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
 12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
+12,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set OID_GEN_CURRENT_PACKET_FILTER on Member {Adapter}.  Status = {Status},{Adapter} | {Status}
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
@@ -3145,6 +3157,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
+13,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed OID_802_3_MULTICAST_LIST on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
@@ -3387,6 +3400,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
+14,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed OID_OFFLOAD_ENCAPSULATION on Member {Member} while processing the Oid on TeamNic {TeamNic}. Status = {Status},{Member} | {TeamNic} | {Status}
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
@@ -3629,6 +3643,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
+15,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set OID {Oid} on TeamNic {Adapter}. Buffer is {OidBuffer} . Status = {Status},{Oid} | {Adapter} | {OidBuffer} | {Status}
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
@@ -3871,6 +3886,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
 16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
+16,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Recalculating Packet Filters on Member {Adapter} failed. Status = {Status},{Adapter} | {Status}
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
@@ -4113,6 +4129,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
 17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
+17,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed Sending as TeamNic {Adapter} is not available,{Adapter}
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4355,6 +4372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+18,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Aborted Sending on TeamNic {Adapter},{Adapter}
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Aborted Sending on TeamNic {Adapter},{Adapter}
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Aborted Sending on TeamNic {Adapter},{Adapter}
@@ -4597,6 +4615,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Aborted Sending on TeamNic {Adapter},{Adapter}
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Aborted Sending on TeamNic {Adapter},{Adapter}
 19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Aborted Sending on TeamNic {Adapter},{Adapter}
+19,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Aborted Sending on TeamNic {Adapter},{Adapter}
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Member {Adapter} is not ready to receive.,{Adapter}
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Member {Adapter} is not ready to receive.,{Adapter}
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Member {Adapter} is not ready to receive.,{Adapter}
@@ -4839,6 +4858,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Member {Adapter} is not ready to receive.,{Adapter}
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Member {Adapter} is not ready to receive.,{Adapter}
 20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Member {Adapter} is not ready to receive.,{Adapter}
+20,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Member {Adapter} is not ready to receive.,{Adapter}
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
@@ -5081,6 +5101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
 21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
+21,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Aborting receive on TeamNic {Adapter} as it is not ready.,{Adapter}
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
@@ -5323,6 +5344,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
 22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
+22,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,No matching TeamNic found for packets received from member {Adapter}.,{Adapter}
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
@@ -5565,6 +5587,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
+23,0,Warning,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Aborting sending queued NBLs on TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Binding to member adapter {Adapter}.,{Adapter}
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Binding to member adapter {Adapter}.,{Adapter}
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Binding to member adapter {Adapter}.,{Adapter}
@@ -5807,6 +5830,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Binding to member adapter {Adapter}.,{Adapter}
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Binding to member adapter {Adapter}.,{Adapter}
 24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Binding to member adapter {Adapter}.,{Adapter}
+24,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Binding to member adapter {Adapter}.,{Adapter}
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Unbinding from member adapter {Adapter}.,{Adapter}
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Unbinding from member adapter {Adapter}.,{Adapter}
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Unbinding from member adapter {Adapter}.,{Adapter}
@@ -6049,6 +6073,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unbinding from member adapter {Adapter}.,{Adapter}
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unbinding from member adapter {Adapter}.,{Adapter}
 25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unbinding from member adapter {Adapter}.,{Adapter}
+25,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unbinding from member adapter {Adapter}.,{Adapter}
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
@@ -6291,6 +6316,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
 26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
+26,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Binding to member adapter {Adapter} failed. Status = {Status}. Potential reason could be inadequate capabilities.,{Adapter} | {Status}
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
@@ -6533,6 +6559,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
+27,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
@@ -6775,6 +6802,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
 28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
+28,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating internal binding between TeamNic {TeamNic} and Member {Member} failed. Status = {Status},{TeamNic} | {Member} | {Status}
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
@@ -7017,6 +7045,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
+29,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removed internal binding between TeamNic {TeamNic} and Member {Member}.,{TeamNic} | {Member}
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
@@ -7259,6 +7288,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
 30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
+30,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Allocating Port failed for Member {TeamNic} on TeamNic {Member}; Status = {Status}.,{TeamNic} | {Member} | {Status}
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating team {Team}.,{Team}
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating team {Team}.,{Team}
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating team {Team}.,{Team}
@@ -7501,6 +7531,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating team {Team}.,{Team}
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating team {Team}.,{Team}
 31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating team {Team}.,{Team}
+31,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating team {Team}.,{Team}
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
@@ -7743,6 +7774,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
 32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
+32,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating team {Team} failed; Status = {Status}.,{Team} | {Status}
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removed team {Team}.,{Team}
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removed team {Team}.,{Team}
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removed team {Team}.,{Team}
@@ -7985,6 +8017,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed team {Team}.,{Team}
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed team {Team}.,{Team}
 33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Removed team {Team}.,{Team}
+33,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removed team {Team}.,{Team}
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Added Member {Member} to team {Team}.,{Member} | {Team}
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Added Member {Member} to team {Team}.,{Member} | {Team}
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Added Member {Member} to team {Team}.,{Member} | {Team}
@@ -8227,6 +8260,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Added Member {Member} to team {Team}.,{Member} | {Team}
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Added Member {Member} to team {Team}.,{Member} | {Team}
 34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Added Member {Member} to team {Team}.,{Member} | {Team}
+34,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Added Member {Member} to team {Team}.,{Member} | {Team}
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Added Member {Member} from team {Team}.,{Member} | {Team}
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Added Member {Member} from team {Team}.,{Member} | {Team}
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Added Member {Member} from team {Team}.,{Member} | {Team}
@@ -8469,6 +8503,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Added Member {Member} from team {Team}.,{Member} | {Team}
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Added Member {Member} from team {Team}.,{Member} | {Team}
 35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Added Member {Member} from team {Team}.,{Member} | {Team}
+35,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Added Member {Member} from team {Team}.,{Member} | {Team}
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
@@ -8711,6 +8746,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
 36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
+36,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Added TeamNic {TeamNic} to team {Team}.,{TeamNic} | {Team}
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
@@ -8953,6 +8989,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
 37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
+37,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removed TeamNic {TeamNic} from team {Team}.,{TeamNic} | {Team}
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
@@ -9195,6 +9232,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
 38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
+38,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating TeamNic {TeamNic} for Team {Team}.,{TeamNic} | {Team}
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
@@ -9437,6 +9475,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
 39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
+39,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating TeamNic {TeamNic} for Team {Team} failed; Status = {Status}.,{TeamNic} | {Team} | {Status}
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removed TeamNic {Adapter}.,{Adapter}
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removed TeamNic {Adapter}.,{Adapter}
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removed TeamNic {Adapter}.,{Adapter}
@@ -9679,6 +9718,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed TeamNic {Adapter}.,{Adapter}
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed TeamNic {Adapter}.,{Adapter}
 40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Removed TeamNic {Adapter}.,{Adapter}
+40,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removed TeamNic {Adapter}.,{Adapter}
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
@@ -9921,6 +9961,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
+41,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Indicated new task offload hardware capabilities for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
@@ -10163,6 +10204,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
+42,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Indicated new task offload current config for TeamNic {TeamNic}. StatusBuffer = {Buffer}.,{TeamNic} | {Buffer}
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
@@ -10405,6 +10447,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
 43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
+43,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TeamNic {Adapter} indicated link state change. StatusBuffer = {StatusBuffer}.,{Adapter} | {StatusBuffer}
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
@@ -10647,6 +10690,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
+44,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Support MacOptions for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
@@ -10889,6 +10933,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
+45,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Support MtuSize for TeamNic {TeamNic} reduced from {OldValue} to {NewValue} due to cached capabilities of a member which is currently not bound to the team,{TeamNic} | {OldValue} | {NewValue}
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,TeamNic {Adapter} being initialized.,{Adapter}
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,TeamNic {Adapter} being initialized.,{Adapter}
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,TeamNic {Adapter} being initialized.,{Adapter}
@@ -11131,6 +11176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TeamNic {Adapter} being initialized.,{Adapter}
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TeamNic {Adapter} being initialized.,{Adapter}
 46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,TeamNic {Adapter} being initialized.,{Adapter}
+46,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TeamNic {Adapter} being initialized.,{Adapter}
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
@@ -11373,6 +11419,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
 47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
+47,0,Error,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TeamNic {Adapter} failed to Initialize; Status = {Status}.,{Adapter} | {Status}
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,TeamNic {Adapter} halted.,{Adapter}
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,TeamNic {Adapter} halted.,{Adapter}
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,TeamNic {Adapter} halted.,{Adapter}
@@ -11615,3 +11662,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TeamNic {Adapter} halted.,{Adapter}
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TeamNic {Adapter} halted.,{Adapter}
 48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,TeamNic {Adapter} halted.,{Adapter}
+48,0,Information,Microsoft-Windows-NdisImPlatform/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TeamNic {Adapter} halted.,{Adapter}

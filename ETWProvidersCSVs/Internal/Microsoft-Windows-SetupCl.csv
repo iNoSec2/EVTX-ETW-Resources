@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
 1,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
 1,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
+1,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
 1,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
 1,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl statistic ({Name}): {Description} = {Statistic}.,{Name} | {Description} | {Statistic}
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
+2,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 2,0,Error,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
+3,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 3,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{SourceFunction}@{SourceLine} : {Message},{SourceFunction} | {SourceLine} | {Message}
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 5,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 6,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+7,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 7,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+8,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 8,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+9,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 9,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 10,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+11,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 11,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
+12,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
 12,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl has started processing system registry hive: {HiveName}.,{HiveName}
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
+13,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
 13,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl has finished processing system registry hive: {HiveName}.,{HiveName}
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+14,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 14,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+15,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 15,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl will replace all instances of SID: [{SID}].,{SID}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
+16,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
 16,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl will replace all instances of SID: [{SID}].,{SID}
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl will rewrite the old SID to: [{SID}].,{SID}
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
+17,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
 17,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl will rewrite the old SID to: [{SID}].,{SID}
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl will replace all instances of path: [{Path}].,{Path}
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl will replace all instances of path: [{Path}].,{Path}
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl will replace all instances of path: [{Path}].,{Path}
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl will replace all instances of path: [{Path}].,{Path}
+18,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl will replace all instances of path: [{Path}].,{Path}
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl will replace all instances of path: [{Path}].,{Path}
 18,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl will replace all instances of path: [{Path}].,{Path}
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,SetupCl will rewrite the old path to: [{Path}].,{Path}
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
+19,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
 19,0,Information,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SetupCl will rewrite the old path to: [{Path}].,{Path}
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+20,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 20,0,Information,Microsoft-Windows-SetupCl/Analytic,,Start,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows 8,8,Pro,1970/01/01,9200.0,,
+21,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Stop,keyPerformance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 21,0,Information,Microsoft-Windows-SetupCl/Analytic,,Stop,keyPerformance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Error: {Message} (status = 0x{Status}),{Message} | {Status}
@@ -5365,6 +5386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
+22,0,Error,Microsoft-Windows-SetupCl/Analytic,SetupCl task,,keyDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
 22,0,Error,Microsoft-Windows-SetupCl/Analytic,,,keyDiagnostic,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Error: {Message} (status = 0x{Status}),{Message} | {Status}
 23,0,Information,Microsoft-Windows-SetupCl/Analytic,SetupCl task,Start,keyPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,

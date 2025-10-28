@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 0,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Entering Function {FunctionName},{FunctionName}
 0,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Entering Function {FunctionName},{FunctionName}
 0,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Entering Function {FunctionName},{FunctionName}
+0,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Entering Function {FunctionName},{FunctionName}
 0,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Entering Function {FunctionName},{FunctionName}
 0,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Entering Function {FunctionName},{FunctionName}
 1,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Exiting Function {FunctionName},{FunctionName}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Exiting Function {FunctionName},{FunctionName}
 1,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Exiting Function {FunctionName},{FunctionName}
 1,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Exiting Function {FunctionName},{FunctionName}
+1,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Exiting Function {FunctionName},{FunctionName}
 1,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Exiting Function {FunctionName},{FunctionName}
 1,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Exiting Function {FunctionName},{FunctionName}
 2,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
 2,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
 2,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
+2,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
 2,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
 2,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{FunctionName} failed with return code {LastError},{FunctionName} | {LastError}
 3,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{FunctionName} returned {LastError},{FunctionName} | {LastError}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
 3,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
 3,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
+3,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
 3,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
 3,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{FunctionName} returned {LastError},{FunctionName} | {LastError}
 4,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 5,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 6,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 6,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 7,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 7,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+7,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 7,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 8,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 8,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 9,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Total number of TrustRoot Found {Number},{Number}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Total number of TrustRoot Found {Number},{Number}
 9,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Total number of TrustRoot Found {Number},{Number}
 9,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Total number of TrustRoot Found {Number},{Number}
+9,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Total number of TrustRoot Found {Number},{Number}
 9,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Total number of TrustRoot Found {Number},{Number}
 9,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Total number of TrustRoot Found {Number},{Number}
 10,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
 10,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
 10,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
+10,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
 10,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
 10,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Target name is {TargetName}; HostName is {HostName},{TargetName} | {HostName}
 11,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
 11,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
 11,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
+11,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
 11,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
 11,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,PSTGetCertificate called; number of select criteria are {NumOfCriteria}; bIsClient parameter is {bClient},{NumOfCriteria} | {bClient}
 12,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Opening Machine Store? Value: {Number},{Number}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Opening Machine Store? Value: {Number},{Number}
 12,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Opening Machine Store? Value: {Number},{Number}
 12,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Opening Machine Store? Value: {Number},{Number}
+12,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Opening Machine Store? Value: {Number},{Number}
 12,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Opening Machine Store? Value: {Number},{Number}
 12,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Opening Machine Store? Value: {Number},{Number}
 13,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 13,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 13,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+13,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 13,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 13,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 14,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Unable to find Provider From Certificate: Error {LastError},{LastError}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
 14,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
 14,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
+14,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
 14,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
 14,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Unable to find Provider From Certificate: Error {LastError},{LastError}
 15,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Calling LRPC cert renewal Interface {psz},{psz}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Calling LRPC cert renewal Interface {psz},{psz}
 15,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Calling LRPC cert renewal Interface {psz},{psz}
 15,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Calling LRPC cert renewal Interface {psz},{psz}
+15,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Calling LRPC cert renewal Interface {psz},{psz}
 15,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Calling LRPC cert renewal Interface {psz},{psz}
 15,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Calling LRPC cert renewal Interface {psz},{psz}
 16,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 16,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 16,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+16,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 16,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 17,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 17,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 17,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+17,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 17,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 17,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 18,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 18,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 18,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+18,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 18,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 18,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 19,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,GetCertificates returning {Number} certificates,{Number}
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,GetCertificates returning {Number} certificates,{Number}
 19,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,GetCertificates returning {Number} certificates,{Number}
 19,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,GetCertificates returning {Number} certificates,{Number}
+19,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,GetCertificates returning {Number} certificates,{Number}
 19,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,GetCertificates returning {Number} certificates,{Number}
 19,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,GetCertificates returning {Number} certificates,{Number}
 20,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 20,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 20,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+20,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 20,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 20,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 21,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5365,6 +5386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 21,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 21,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+21,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 21,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 21,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 22,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5609,6 +5631,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 22,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 22,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+22,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 22,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 22,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 23,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5853,6 +5876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 23,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 23,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+23,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 23,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 23,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 24,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Cert Subject name is {psz},{psz}
@@ -6097,6 +6121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Cert Subject name is {psz},{psz}
 24,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Cert Subject name is {psz},{psz}
 24,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Cert Subject name is {psz},{psz}
+24,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Cert Subject name is {psz},{psz}
 24,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Cert Subject name is {psz},{psz}
 24,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Cert Subject name is {psz},{psz}
 25,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,UserName is {psz},{psz}
@@ -6341,6 +6366,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,UserName is {psz},{psz}
 25,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,UserName is {psz},{psz}
 25,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,UserName is {psz},{psz}
+25,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,UserName is {psz},{psz}
 25,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,UserName is {psz},{psz}
 25,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,UserName is {psz},{psz}
 26,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to Connect to {psz} ,{psz}
@@ -6585,6 +6611,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to Connect to {psz} ,{psz}
 26,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to Connect to {psz} ,{psz}
 26,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to Connect to {psz} ,{psz}
+26,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to Connect to {psz} ,{psz}
 26,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to Connect to {psz} ,{psz}
 26,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to Connect to {psz} ,{psz}
 27,0,Warning,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
@@ -6829,6 +6856,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,0,Warning,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
 27,0,Warning,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
 27,0,Warning,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
+27,0,Warning,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
 27,0,Warning,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
 27,0,Warning,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,CProviderEntry::ReadInfoFromRegistry LRPC Entrypoint is missing for provider {Provider}. Error code {LastError},{Provider} | {LastError}
 28,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to Open Provider Root Key {Number},{Number}
@@ -7073,6 +7101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to Open Provider Root Key {Number},{Number}
 28,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to Open Provider Root Key {Number},{Number}
 28,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to Open Provider Root Key {Number},{Number}
+28,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to Open Provider Root Key {Number},{Number}
 28,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to Open Provider Root Key {Number},{Number}
 28,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to Open Provider Root Key {Number},{Number}
 29,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to Query Provider Root Key {Number},{Number}
@@ -7317,6 +7346,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to Query Provider Root Key {Number},{Number}
 29,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to Query Provider Root Key {Number},{Number}
 29,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to Query Provider Root Key {Number},{Number}
+29,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to Query Provider Root Key {Number},{Number}
 29,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to Query Provider Root Key {Number},{Number}
 29,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to Query Provider Root Key {Number},{Number}
 30,0,Warning,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
@@ -7561,6 +7591,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,0,Warning,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
 30,0,Warning,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
 30,0,Warning,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
+30,0,Warning,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
 30,0,Warning,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
 30,0,Warning,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to Query SubKey {SubKey}; Error {LastError},{SubKey} | {LastError}
 31,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
@@ -7805,6 +7836,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
 31,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
 31,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
+31,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
 31,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
 31,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Invalid Provider GUID {SubKey}. {LastError},{SubKey} | {LastError}
 32,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
@@ -8049,6 +8081,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
 32,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
 32,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
+32,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
 32,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
 32,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,CertVerifyCertificateChainPolicy Failed Status is {LastError}; ChainIndex {ChainIndex}; lElementIndex {lElementIndex},{LastError} | {ChainIndex} | {lElementIndex}
 33,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to open LSA Registry Root Key {Number},{Number}
@@ -8293,6 +8326,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to open LSA Registry Root Key {Number},{Number}
 33,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to open LSA Registry Root Key {Number},{Number}
 33,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to open LSA Registry Root Key {Number},{Number}
+33,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to open LSA Registry Root Key {Number},{Number}
 33,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to open LSA Registry Root Key {Number},{Number}
 33,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to open LSA Registry Root Key {Number},{Number}
 34,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -8537,6 +8571,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 34,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 34,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+34,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 34,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 34,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 35,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
@@ -8781,6 +8816,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
 35,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
 35,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
+35,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
 35,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
 35,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to open {StoreName} certificate store. Error {LastError},{StoreName} | {LastError}
 36,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
@@ -9025,6 +9061,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
 36,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
 36,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
+36,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
 36,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
 36,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to validate certificate. Hash length doesn't match. Source hash Length {Source}; calculated hash length {Calculated},{Source} | {Calculated}
 37,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9269,6 +9306,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 37,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 37,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+37,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 37,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 37,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 38,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9513,6 +9551,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 38,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 38,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+38,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 38,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 38,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 39,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
@@ -9757,6 +9796,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 39,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 39,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
+39,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 39,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 39,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The client name doesn't match the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 40,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The client name is {psz},{psz}
@@ -10001,6 +10041,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The client name is {psz},{psz}
 40,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The client name is {psz},{psz}
 40,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,The client name is {psz},{psz}
+40,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The client name is {psz},{psz}
 40,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The client name is {psz},{psz}
 40,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The client name is {psz},{psz}
 41,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
@@ -10245,6 +10286,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 41,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 41,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
+41,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 41,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 41,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The client name matched the UPN. UPN is {UPN}; client name is {ClientName},{UPN} | {ClientName}
 42,0,Information,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10489,6 +10531,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 42,0,Information,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 42,0,Information,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 42,0,Information,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+42,0,Information,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 42,0,Information,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 42,0,Information,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 43,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10733,6 +10776,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 43,0,Error,Operation log,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 43,0,Error,Operation log,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 43,0,Error,Operation log,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+43,0,Error,Operation log,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 43,0,Error,Operation log,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 43,0,Error,Operation log,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 44,0,Error,Operation log,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,

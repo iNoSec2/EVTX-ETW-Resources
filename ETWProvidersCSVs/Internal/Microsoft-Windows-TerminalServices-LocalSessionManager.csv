@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 2,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 3,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 4,0,Warning,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 5,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 6,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 7,0,Verbose,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 8,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{message},{message}
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{message},{message}
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{message},{message}
 9,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 10,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Start,PerfInstrumentation,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows 8,8,Pro,1970/01/01,9200.0,,
+11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 11,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic,LogonProcessing,Stop,PerfInstrumentation,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
+16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
 16,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Local Multi-User session manager failed to start. The relevant status code was {Param1}.,{Param1}
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
+17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
 17,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Service start failed. The relevant status code was {Param1}.,{Param1}
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 18,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
+19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
 19,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Registering with Service Control Manager to monitor Remote Desktop Service status failed with {Param1}; retry in ten minutes.,{Param1}
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
+20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
 20,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Attempt to send {messageName} message to Windows video subsystem failed. The relevant status code was {errorCode}.,{messageName} | {errorCode}
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
+21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 21,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Services: Session logon succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
+22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 22,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Services: Shell start notification received:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
+23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
 23,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Services: Session logoff succeeded:User: {User}Session ID: {SessionID},{User} | {SessionID}
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
+24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 24,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Services: Session has been disconnected:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
+25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 25,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Remote Desktop Services: Session reconnection succeeded:User: {User}Session ID: {SessionID}Source Network Address: {Address},{User} | {SessionID} | {Address}
 32,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Plugin {messageName} has been successfully initialized,{messageName}
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Plugin {messageName} has been successfully initialized,{messageName}
 32,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plugin {messageName} has been successfully initialized,{messageName}
 32,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Plugin {messageName} has been successfully initialized,{messageName}
+32,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plugin {messageName} has been successfully initialized,{messageName}
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
@@ -5363,6 +5384,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
 33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
+33,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plugin {messageName} failed to initialize; error code {errorCode},{messageName} | {errorCode}
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5605,6 +5627,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+34,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
@@ -5847,6 +5870,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
 35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
+35,0,Information,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The client process ID {Param1} could not complete the session change notification event sent by the Remote Desktop service. The Remote Desktop service will not send any more session change notifications.,{Param1}
 36,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,An error occurred when transitioning from {StateName} in response to {EventName}. (ErrorCode {ErrorCode}),{StateName} | {EventName} | {ErrorCode}
 36,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,An error occurred when transitioning from {StateName} in response to {EventName}. (ErrorCode {ErrorCode}),{StateName} | {EventName} | {ErrorCode}
 36,0,Error,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,An error occurred when transitioning from {StateName} in response to {EventName}. (ErrorCode {ErrorCode}),{StateName} | {EventName} | {ErrorCode}

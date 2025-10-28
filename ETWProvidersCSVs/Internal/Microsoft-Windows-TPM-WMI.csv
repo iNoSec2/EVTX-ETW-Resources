@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 513,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 513,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 513,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+513,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 513,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 513,0,Information,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 513,0,win:Informational,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 514,0,Warning,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode}Check that your computer is connected to the domain.  If your computer is connected to the domain; have your Domain Administrator check that the Active Directory schema is appropriate for backup of Windows 8 TPM Owner Authorization information and that the current Computer object has write permission to the TPM object.  Installations of Windows Server 2008 R2 or before need a schema extension in order to be ready for backup of Windows 8 TPM Owner Authorization information.  Consult online documentation for more information about setting up Active Directory Domain Services for TPM.,{ErrorCode}
 514,0,Warning,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode}Check that your computer is connected to the domain.  If your computer is connected to the domain; have your Domain Administrator check that the Active Directory schema is appropriate for backup of Windows 8 TPM Owner Authorization information and that the current Computer object has write permission to the TPM object.  Installations of Windows Server 2008 R2 or before need a schema extension in order to be ready for backup of Windows 8 TPM Owner Authorization information.  Consult online documentation for more information about setting up Active Directory Domain Services for TPM.,{ErrorCode}
 514,0,Warning,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode}Check that your computer is connected to the domain.  If your computer is connected to the domain; have your Domain Administrator check that the Active Directory schema is appropriate for backup of Windows 8 TPM Owner Authorization information and that the current Computer object has write permission to the TPM object.  Installations of Windows Server 2008 R2 or before need a schema extension in order to be ready for backup of Windows 8 TPM Owner Authorization information.  Consult online documentation for more information about setting up Active Directory Domain Services for TPM.,{ErrorCode}
+514,0,Warning,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode}Check that your computer is connected to the domain.  If your computer is connected to the domain; have your Domain Administrator check that the Active Directory schema is appropriate for backup of Windows 8 TPM Owner Authorization information and that the current Computer object has write permission to the TPM object.  Installations of Windows Server 2008 R2 or before need a schema extension in order to be ready for backup of Windows 8 TPM Owner Authorization information.  Consult online documentation for more information about setting up Active Directory Domain Services for TPM.,{ErrorCode}
 514,0,Warning,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode},{ErrorCode}
 514,0,Warning,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode},{ErrorCode}
 514,0,win:Warning,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to backup TPM Owner Authorization information to Active Directory Domain Services.Errorcode: {ErrorCode},{ErrorCode}
@@ -1821,6 +1823,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 769,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TPM Owner Authorization configuration changed from '{Old OS Managed Auth Level}' to '{New OS Managed Auth Level}'.,
 769,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TPM Owner Authorization configuration changed from '{Old OS Managed Auth Level}' to '{New OS Managed Auth Level}'.,
 769,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,TPM Owner Authorization configuration changed from '{Old OS Managed Auth Level}' to '{New OS Managed Auth Level}'.,
+769,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TPM Owner Authorization configuration changed from '{Old OS Managed Auth Level}' to '{New OS Managed Auth Level}'.,
 769,0,Information,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1025,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1025,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -2064,6 +2067,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1025,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1025,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1025,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1025,0,Information,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1026,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
 1026,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
@@ -2307,6 +2311,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
 1026,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
 1026,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
+1026,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Trusted Platform Module (TPM) hardware on this computer cannot be provisioned for use automatically.  To set up the TPM interactively use the TPM management console (Start->tpm.msc) and use the action to make the TPM ready.Error: {Error Code}Additional Information: {Status Information},
 1026,0,Information,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1027,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1027,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -2550,6 +2555,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1027,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1027,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1027,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1027,0,Information,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1028,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1028,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,

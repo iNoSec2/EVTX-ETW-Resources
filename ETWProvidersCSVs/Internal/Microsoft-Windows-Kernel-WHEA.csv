@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Warning,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A non-fatal hardware error occurred.,
 1,0,Warning,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A non-fatal hardware error occurred.,
 1,0,Warning,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A non-fatal hardware error occurred.,
+1,0,Warning,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A non-fatal hardware error occurred.,
 1,0,Warning,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A non-fatal hardware error occurred.,
 1,0,Warning,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,A non-fatal hardware error occurred.,
 1,0,win:Warning,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,A non-fatal hardware error occurred.,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A fatal hardware error occurred.,
 2,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A fatal hardware error occurred.,
 2,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A fatal hardware error occurred.,
+2,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A fatal hardware error occurred.,
 2,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A fatal hardware error occurred.,
 2,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,A fatal hardware error occurred.,
 2,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,A fatal hardware error occurred.,
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A non-fatal hardware error occurred.,
 3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A non-fatal hardware error occurred.,
 3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,A non-fatal hardware error occurred.,
+3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A non-fatal hardware error occurred.,
 3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A non-fatal hardware error occurred.,
 3,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,A non-fatal hardware error occurred.,
 3,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,A non-fatal hardware error occurred.,
@@ -976,6 +979,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A fatal hardware error occurred.,
 4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A fatal hardware error occurred.,
 4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,A fatal hardware error occurred.,
+4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A fatal hardware error occurred.,
 4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A fatal hardware error occurred.,
 4,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,A fatal hardware error occurred.,
 4,0,win:Error,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,A fatal hardware error occurred.,
@@ -1221,6 +1225,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
 5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
 5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
+5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
 5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
 5,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
 5,0,win:Informational,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,WHEA successfully initialized.   {ErrorSourceCount} error sources are active   Error record format version is {ErrorRecordFormat}.,{ErrorSourceCount} | {ErrorRecordFormat}
@@ -1466,6 +1471,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 6,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 6,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
+6,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 6,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 6,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 6,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
@@ -1711,6 +1717,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
+7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 7,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
 7,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a memory hierarchy error. Trasaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Request Type: {RequestType} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {RequestType} | {Address}
@@ -1956,6 +1963,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 8,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 8,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
+8,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 8,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 8,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 8,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
@@ -2201,6 +2209,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
+9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 9,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
 9,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a TLB error. Transaction Type: {TransactionType} Memory Hierarchy Level: {MemHierarchyLvl} Address: {Address},{TransactionType} | {MemHierarchyLvl} | {Address}
@@ -2446,6 +2455,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 10,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 10,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
+10,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 10,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 10,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 10,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
@@ -2691,6 +2701,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
+11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 11,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 11,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a Bus or Interconnect error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
@@ -2936,6 +2947,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 12,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 12,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
+12,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 12,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 12,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 12,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
@@ -3181,6 +3193,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
+13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 13,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
 13,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a Bus or Interconnect timeout error. Memory Hierarchy Level: {MemHierarchyLvl} Participation: {Participation} Request Type: {RequestType} Memory/IO: {MemorIO} Address: {Address},{MemHierarchyLvl} | {Participation} | {RequestType} | {MemorIO} | {Address}
@@ -3426,6 +3439,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal internal watchdog timer error.,
 14,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal internal watchdog timer error.,
 14,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal internal watchdog timer error.,
+14,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal internal watchdog timer error.,
 14,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal internal watchdog timer error.,
 14,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal internal watchdog timer error.,
 14,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal internal watchdog timer error.,
@@ -3671,6 +3685,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal microcode ROM parity error.,
 15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal microcode ROM parity error.,
 15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal microcode ROM parity error.,
+15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal microcode ROM parity error.,
 15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal microsoft ROM parity error.,
 15,0,Error,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal microsoft ROM parity error.,
 15,0,win:Error,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal microsoft ROM parity error.,
@@ -3916,6 +3931,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
 16,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
 16,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
+16,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
 16,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
 16,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
 16,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal condition. A processor received an external signal that an unrecoverable error has occurred.,
@@ -4161,6 +4177,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Machine Check Event reported is a fatal functional redundancy check error.,
 17,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Machine Check Event reported is a fatal functional redundancy check error.,
 17,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Machine Check Event reported is a fatal functional redundancy check error.,
+17,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Machine Check Event reported is a fatal functional redundancy check error.,
 17,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Machine Check Event reported is a fatal functional redundancy check error.,
 17,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Machine Check Event reported is a fatal functional redundancy check error.,
 17,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Machine Check Event reported is a fatal functional redundancy check error.,
@@ -4406,6 +4423,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 18,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 18,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
+18,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 18,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 18,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 18,0,win:Error,System,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,PCI Express reported a fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
@@ -4651,6 +4669,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 10,1507,Pro,2015/07/29,10240.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 8,8,Pro,1970/01/01,9200.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
+19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 19,0,Warning,Microsoft-Windows-Kernel-WHEA/Errors,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
 19,0,win:Warning,Microsoft-Windows-Kernel-WHEA,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,PCI Express reported a non-fatal error. Device Identifier: Bus {SourceIdBus} Device {SourceIdDev} Function {SourceIdFun} Uncorrectable Error Status: {UncorrectableErrorStatus} Correctable Error Status: {CorrectableErrorStatus} Header Log: {HeaderLog0} {HeaderLog1} {HeaderLog2} {HeaderLog3},{SourceIdBus} | {SourceIdDev} | {SourceIdFun} | {UncorrectableErrorStatus} | {CorrectableErrorStatus} | {HeaderLog0} | {HeaderLog1} | {HeaderLog2} | {HeaderLog3}
@@ -4896,6 +4915,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 10,1507,Pro,2015/07/29,10240.0,WHEA Event,
 20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WHEA Event,
 20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8,8,Pro,1970/01/01,9200.0,WHEA Event,
+20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WHEA Event,
 20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WHEA Event,
 20,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 7,SP1,Ultimate,1970/01/01,7601.0,WHEA Event,
 20,0,win:Informational,Microsoft-Windows-Kernel-WHEA,,,WHEA Error Events,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,WHEA Event,
@@ -5149,6 +5169,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 10,1507,Pro,2015/07/29,10240.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
 31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
 31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8,8,Pro,1970/01/01,9200.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
+31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
 31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
 31,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The memory page located at physical address {PhysicalAddress} {Pending} {PlatformDirected} {Uncorrected}. {Persisted},{PhysicalAddress} | {Pending} | {PlatformDirected} | {Uncorrected} | {Persisted}
 32,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5393,6 +5414,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 32,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 32,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+32,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 33,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 33,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 33,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5635,6 +5657,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 33,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 33,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+33,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 34,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 34,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 34,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5877,6 +5900,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 34,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 34,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+34,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 35,0,Information,,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 35,0,Information,,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 35,0,Information,,,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6119,6 +6143,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Information,,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 35,0,Information,,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 35,0,Information,,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+35,0,Information,,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 36,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 36,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 36,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6361,6 +6386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 36,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 36,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+36,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 37,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 37,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 37,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6603,6 +6629,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 37,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 37,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+37,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 38,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 38,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 38,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6845,6 +6872,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 38,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 38,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+38,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 39,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 39,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 39,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -7087,6 +7115,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 39,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 39,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+39,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 40,0,Information,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 40,0,Information,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 40,0,Information,,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -7329,6 +7358,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 40,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 40,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+40,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 41,0,Information,System,,,WHEA Error Events,Windows 11,24H2,Pro,2024/10/2,26100.1742,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
 41,0,Information,System,,,WHEA Error Events,Windows 11,22H2,Pro,2022/12/20,22621.963,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
 41,0,Information,System,,,WHEA Error Events,Windows 11,22H2,Pro,2022/11/15,22621.819,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
@@ -7571,6 +7601,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 10,1507,Pro,2015/07/29,10240.0,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
 41,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
 41,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows 8,8,Pro,1970/01/01,9200.0,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
+41,0,Information,Microsoft-Windows-Kernel-WHEA/Errors,,,WHEA Error Events,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A processs was terminated due to an uncorrected hardware error. Process ID: {ProcessId} Image name: {ProcessName},{ProcessId} | {ProcessName}
 42,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,WHEA Event Log Entries,Windows 11,24H2,Pro,2024/10/2,26100.1742,WHEA event log entry,
 42,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,WHEA Event Log Entries,Windows 11,22H2,Pro,2022/12/20,22621.963,WHEA event log entry,
 42,0,Information,Microsoft-Windows-Kernel-WHEA/Operational,,,WHEA Event Log Entries,Windows 11,22H2,Pro,2022/11/15,22621.819,WHEA event log entry,

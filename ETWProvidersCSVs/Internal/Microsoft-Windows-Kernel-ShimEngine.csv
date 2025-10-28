@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,1,Error,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,1,Error,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1,1,Error,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1,1,Error,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+2,1,Information,Microsoft-Windows-Kernel-ShimEngine/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
@@ -725,6 +727,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
 3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
+3,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{ShimCount} shim(s) were applied to driver [{DriverName}].Shim(s) source: {ShimSource}.Shim GUID(s): {AppliedGuids}.,{ShimCount} | {DriverName} | {ShimSource} | {AppliedGuids}
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
@@ -967,6 +970,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
 4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
+4,1,Information,Microsoft-Windows-Kernel-ShimEngine/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Flags [{Flags}] were applied to device [{DeviceName}] - class [{DeviceClass}].Flags source: {FlagSource}.,{Flags} | {DeviceName} | {DeviceClass} | {FlagSource}
 5,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Operational,,,SkipDriverUnloadGeneral,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 5,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Operational,,,SkipDriverUnloadGeneral,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 5,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Operational,,,SkipDriverUnloadGeneral,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1689,6 +1693,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1931,6 +1936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8,8,Pro,1970/01/01,9200.0,,
+11,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2173,6 +2179,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8,8,Pro,1970/01/01,9200.0,,
+12,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2415,6 +2422,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 10,1507,Pro,2015/07/29,10240.0,,
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 8,8,Pro,1970/01/01,9200.0,,
+13,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2657,6 +2665,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 10,1507,Pro,2015/07/29,10240.0,,
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows 8,8,Pro,1970/01/01,9200.0,,
+14,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePool,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2899,6 +2908,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 8,8,Pro,1970/01/01,9200.0,,
+15,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3141,6 +3151,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 10,1507,Pro,2015/07/29,10240.0,,
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows 8,8,Pro,1970/01/01,9200.0,,
+16,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeGeneral,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3383,6 +3394,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows 8,8,Pro,1970/01/01,9200.0,,
+17,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopeIrps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3625,6 +3637,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8,8,Pro,1970/01/01,9200.0,,
+18,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3867,6 +3880,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8,8,Pro,1970/01/01,9200.0,,
+19,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4109,6 +4123,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows 8,8,Pro,1970/01/01,9200.0,,
+20,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4351,6 +4366,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 10,1507,Pro,2015/07/29,10240.0,,
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8,8,Pro,1970/01/01,9200.0,,
+21,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4593,6 +4609,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 10,1507,Pro,2015/07/29,10240.0,,
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8,8,Pro,1970/01/01,9200.0,,
+22,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4835,6 +4852,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 10,1507,Pro,2015/07/29,10240.0,,
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8,8,Pro,1970/01/01,9200.0,,
+23,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5077,3 +5095,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 10,1507,Pro,2015/07/29,10240.0,,
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows 8,8,Pro,1970/01/01,9200.0,,
+24,1,Verbose,Microsoft-Windows-Kernel-ShimEngine/Diagnostic,,,DriverScopePower,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,

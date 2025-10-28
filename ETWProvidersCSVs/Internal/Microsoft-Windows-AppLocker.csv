@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID policy conversion failed. Status {Status}.,{Status}
 8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID policy conversion failed. Status {Status}.,{Status}
 8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID policy conversion failed. Status {Status}.,{Status}
+8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID policy conversion failed. Status {Status}.,{Status}
 8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID policy conversion failed. Status {Status}.,{Status}
 8000,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID policy conversion failed. Status {Status}.,{Status}
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 8001,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
+8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8002,0,Information,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
+8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8003,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
+8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8004,0,Error,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
+8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8005,0,Information,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
+8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8006,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
+8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8007,0,Error,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 8,8,Pro,1970/01/01,9200.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
+8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8008,0,Warning,Microsoft-Windows-AppLocker/EXE and DLL,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 8,8,Pro,1970/01/01,9200.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
+8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8009,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{FilePathBuffer}: AppLocker component not available on this SKU.,{FilePathBuffer}
 8010,0,Information,,SrpPolicyConversion,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8010,0,Information,,SrpPolicyConversion,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8010,0,Information,,SrpPolicyConversion,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8010,0,Information,,SrpPolicyConversion,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8010,0,Information,,SrpPolicyConversion,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2923,6 +2934,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8011,0,Information,,SrpPolicyConversion,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8011,0,Information,,SrpPolicyConversion,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3165,6 +3177,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8012,0,Error,,SrpPolicyConversion,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8012,0,Error,,SrpPolicyConversion,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3407,6 +3420,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8013,0,Information,,SrpPolicyRuleSort,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8013,0,Information,,SrpPolicyRuleSort,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3649,6 +3663,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8014,0,Information,,SrpPolicyRuleSort,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3891,6 +3906,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8015,0,Information,,SrpPolicyHitCountJoin,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4133,6 +4149,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8016,0,Information,,SrpPolicyHitCountJoin,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4375,6 +4392,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8017,0,Information,,SrpPolicyLoad,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8017,0,Information,,SrpPolicyLoad,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4617,6 +4635,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8018,0,Information,,SrpPolicyLoad,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8018,0,Information,,SrpPolicyLoad,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4859,6 +4878,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8019,0,Error,,SrpPolicyLoad,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8019,0,Error,,SrpPolicyLoad,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
@@ -5101,6 +5121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
+8020,0,Information,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run.,{PolicyNameLength}
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
@@ -5343,6 +5364,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
+8021,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
@@ -5585,6 +5607,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
+8022,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
@@ -5827,6 +5850,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
 8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
+8023,0,Information,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to be installed.,{PolicyNameLength}
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
@@ -6069,6 +6093,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
+8024,0,Warning,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was allowed to run but would have been prevented from running if the AppLocker policy were enforced.,{PolicyNameLength}
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
@@ -6311,6 +6336,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8,8,Pro,1970/01/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
+8025,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{PolicyNameLength}1 was prevented from running.,{PolicyNameLength}
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6553,6 +6579,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8026,0,Error,Microsoft-Windows-AppLocker/Packaged app-Deployment,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6795,6 +6822,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8027,0,Error,Microsoft-Windows-AppLocker/Packaged app-Execution,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8028,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{FilePath} was allowed to run but would have been prevented if the Config CI policy were enforced.,{FilePath}
 8028,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{FilePath} was allowed to run but would have been prevented if the Config CI policy were enforced.,{FilePath}
 8028,0,Warning,Microsoft-Windows-AppLocker/MSI and Script,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{FilePath} was allowed to run but would have been prevented if the Config CI policy were enforced.,{FilePath}

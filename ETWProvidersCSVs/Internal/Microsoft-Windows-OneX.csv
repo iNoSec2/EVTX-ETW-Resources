@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows 10,1507,Pro,2015/07/29,10240.0,OneXDestroySupplicantPort,
 1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OneXDestroySupplicantPort,
 1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows 8,8,Pro,1970/01/01,9200.0,OneXDestroySupplicantPort,
+1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,OneXDestroySupplicantPort,
 1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,OneXDestroySupplicantPort,
 1,0,Information,Microsoft-Windows-OneX/Diagnostic,API,,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,OneXDestroySupplicantPort,
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,OneXStartAuthentication,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,OneXStartAuthentication,
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OneXStartAuthentication,
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,OneXStartAuthentication,
+2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,OneXStartAuthentication,
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,OneXStartAuthentication,
 2,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Start,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,OneXStartAuthentication,
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,OneXStopAuthentication,
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,OneXStopAuthentication,
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OneXStopAuthentication,
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,OneXStopAuthentication,
+3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,OneXStopAuthentication,
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,OneXStopAuthentication,
 3,0,Information,Microsoft-Windows-OneX/Diagnostic,API,Stop,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,OneXStopAuthentication,
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
+4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
 4,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): EAP error WinError={WinError}; ReasonCode={ReasonCode}; EapMethod(Type={EAPMethodType}); RootCause is {RootCauseString},{PortId} | {WinError} | {ReasonCode} | {EAPMethodType} | {RootCauseString}
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
+5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
 5,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Account is disabled and user is non-domain joined. Authentication will be tried with alternate credentials profile.,{PortId}
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
+6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
 6,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): EAP failure indication with error code {WinError} and reason code {ReasonCode},{PortId} | {WinError} | {ReasonCode}
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
+7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
 7,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Saving updated user data of size ({UserDataSize}),{PortId} | {UserDataSize}
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
+8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
 8,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Saving updated connection data of size ({UserDataSize}),{PortId} | {UserDataSize}
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Successfully received UI Response,{PortId}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Successfully received UI Response,{PortId}
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Successfully received UI Response,{PortId}
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Successfully received UI Response,{PortId}
+9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Successfully received UI Response,{PortId}
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Successfully received UI Response,{PortId}
 9,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Successfully received UI Response,{PortId}
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
+10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
 10,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): EapProcessPacketValidityAndGetResult returned action {Response},{PortId} | {Response}
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): EAP requested authentication restart,{PortId}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): EAP requested authentication restart,{PortId}
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): EAP requested authentication restart,{PortId}
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): EAP requested authentication restart,{PortId}
+11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): EAP requested authentication restart,{PortId}
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): EAP requested authentication restart,{PortId}
 11,0,Warning,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): EAP requested authentication restart,{PortId}
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
+12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
 12,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): EapHostPeerInitialize failed; error {ErrorCode},{Context} | {ErrorCode}
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
+13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
 13,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): EapHostPeerEndSession failed; error {ErrorCode},{Context} | {ErrorCode}
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
+14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 14,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): OneXGeneratePacketEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
+15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 15,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): OneXGeneratePeerAuthRestartedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
+16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
 16,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): EapHostPeerGetAuthStatus failed; error {ErrorCode},{Context} | {ErrorCode}
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
+17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
 17,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): MSMUIRequest failed; error {ErrorCode},{Context} | {ErrorCode}
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
+18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
 18,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): CompareSessionUserWithOwner failed; error {ErrorCode},{Context} | {ErrorCode}
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
+19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
 19,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): ProcessEapHostTLV failed; error {ErrorCode},{Context} | {ErrorCode}
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
+20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
 20,0,Error,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Cannot send UI Request (code={UIRequestCode}) to MSM since UI is disabled for the port,{PortId} | {UIRequestCode}
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
+21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
 21,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): Error {ErrorCode} in calling WTSQueryUserToken. Proposing machine authentication.,{Context} | {ErrorCode}
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -5365,6 +5386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
+22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
 22,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): SupplicantGetUserTokenFromRuntimeState failed; error {ErrorCode},{Context} | {ErrorCode}
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
@@ -5609,6 +5631,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
+23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
 23,0,Error,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): The auth mode is User only but an appropriate user can't be found,{PortId}
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -5853,6 +5876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
+24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
 24,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): CompareOneXCredentials failed; error {ErrorCode},{Context} | {ErrorCode}
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
@@ -6097,6 +6121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
+25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
 25,0,Warning,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): Failed to conditionally send Eapol start packet. Ignoring error {WarningCode},{Context} | {WarningCode}
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
@@ -6341,6 +6366,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
+26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 26,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({Context}): OneXGenerateForceAuthenticatedEvent failed; error {ErrorCode},{Context} | {ErrorCode}
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
@@ -6585,6 +6611,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
+27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
 27,0,Error,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,OneXValidateProfile failed; error {ErrorCode}; reason code {Context},{ErrorCode} | {Context}
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
@@ -6829,6 +6856,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
+28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
 28,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP,Windows 7,SP1,Ultimate,1970/01/01,7601.0,EAP dll requested to show UI; but the UI for the port is not allowed with current credentials,
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,The EAP method does not support key derivation and will not be used for discovery,
@@ -7073,6 +7101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,The EAP method does not support key derivation and will not be used for discovery,
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The EAP method does not support key derivation and will not be used for discovery,
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,The EAP method does not support key derivation and will not be used for discovery,
+29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The EAP method does not support key derivation and will not be used for discovery,
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The EAP method does not support key derivation and will not be used for discovery,
 29,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The EAP method does not support key derivation and will not be used for discovery,
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,The EAP method does not support mutual authentication and will not be used for discovery,
@@ -7317,6 +7346,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,The EAP method does not support mutual authentication and will not be used for discovery,
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The EAP method does not support mutual authentication and will not be used for discovery,
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,The EAP method does not support mutual authentication and will not be used for discovery,
+30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The EAP method does not support mutual authentication and will not be used for discovery,
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The EAP method does not support mutual authentication and will not be used for discovery,
 30,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The EAP method does not support mutual authentication and will not be used for discovery,
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
@@ -7561,6 +7591,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
+31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
 31,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Done with creating discovery profiles. Created {ProfilesCount} profiles,{ProfilesCount}
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
@@ -7805,6 +7836,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
+32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
 32,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Created a 1X profile for discovery with eapType={EAPMethodType} and AuthMode={AuthMode},{EAPMethodType} | {AuthMode}
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
@@ -8049,6 +8081,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
+33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
 33,0,Information,Microsoft-Windows-OneX/Diagnostic,Profile,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The EAP method {EAPMethodType} is not allowed for media type {MediaType} and will not be used for discovery,{EAPMethodType} | {MediaType}
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
@@ -8293,6 +8326,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
+34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 34,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Successfully sent UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received a session change event ({ChangeType}),{ChangeType}
@@ -8537,6 +8571,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Received a session change event ({ChangeType}),{ChangeType}
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received a session change event ({ChangeType}),{ChangeType}
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Received a session change event ({ChangeType}),{ChangeType}
+35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received a session change event ({ChangeType}),{ChangeType}
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Received a session change event ({ChangeType}),{ChangeType}
 35,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Received a session change event ({ChangeType}),{ChangeType}
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
@@ -8781,6 +8816,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
+36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
 36,0,Information,Microsoft-Windows-OneX/Diagnostic,Port,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Finished initializing a new port with id={PortId} and friendly name={FriendlyName},{PortId} | {FriendlyName}
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
@@ -9025,6 +9061,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
+37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
 37,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): MPPE-Send/Recv-Keys have been derived by supplicant,{PortId}
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
@@ -9269,6 +9306,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
+38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 38,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Sending UI Request (code={UIRequestCode}) to MSM,{PortId} | {UIRequestCode}
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
@@ -9513,6 +9551,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
+39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
 39,0,Information,Microsoft-Windows-OneX/Diagnostic,MSM,,Profile,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Asking MSM to delete user data for user token,{PortId}
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
@@ -9757,6 +9796,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
+40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 40,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Received an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Sent an Eapol start packet,{PortId}
@@ -10001,6 +10041,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Sent an Eapol start packet,{PortId}
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Sent an Eapol start packet,{PortId}
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Sent an Eapol start packet,{PortId}
+41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Sent an Eapol start packet,{PortId}
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Sent an Eapol start packet,{PortId}
 41,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Sent an Eapol start packet,{PortId}
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
@@ -10245,6 +10286,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
+42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
 42,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): The supplicant is configured to not send an Eapol start packet,{PortId}
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
@@ -10489,6 +10531,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
+43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
 43,0,Warning,Microsoft-Windows-OneX/Diagnostic,MSM,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Restarting authentication due to reason = {Reason},{PortId} | {Reason}
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Authentication Starting,{PortId}
@@ -10733,6 +10776,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Authentication Starting,{PortId}
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Authentication Starting,{PortId}
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Authentication Starting,{PortId}
+44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Authentication Starting,{PortId}
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Authentication Starting,{PortId}
 44,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Start,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Authentication Starting,{PortId}
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Authentication Completed,{PortId}
@@ -10977,6 +11021,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Authentication Completed,{PortId}
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Authentication Completed,{PortId}
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Authentication Completed,{PortId}
+45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Authentication Completed,{PortId}
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Authentication Completed,{PortId}
 45,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,Stop,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Authentication Completed,{PortId}
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
@@ -11221,6 +11266,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
+46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
 46,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Time taken for this authentication = {TimeTaken} ms,{PortId} | {TimeTaken}
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
@@ -11465,6 +11511,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
+47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
 47,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): 802.1X user identified. auth identity = {AuthIdentity}; sessionId = {SessionId}; username={Username}; domain={Domain},{PortId} | {AuthIdentity} | {SessionId} | {Username} | {Domain}
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
@@ -11709,6 +11756,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
+48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
 48,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Stopping the current 802.1X authentication,{PortId}
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
@@ -11953,6 +12001,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
+49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
 49,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Starting a new 802.1X authentication ({Reason}),{PortId} | {Reason}
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
@@ -12197,6 +12246,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
+50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
 50,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Alternate credentials will be used for this profile,{PortId}
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): This is a discovery profile being attempted,{PortId}
@@ -12441,6 +12491,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
+51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
 51,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): This is a discovery profile being attempted,{PortId}
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Trying timely configuration,{PortId}
@@ -12685,6 +12736,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Trying timely configuration,{PortId}
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Trying timely configuration,{PortId}
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Trying timely configuration,{PortId}
+52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Trying timely configuration,{PortId}
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Trying timely configuration,{PortId}
 52,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Trying timely configuration,{PortId}
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
@@ -12929,6 +12981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
+53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
 53,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Completed the 802.1X authentication successfully,{PortId}
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
@@ -13173,6 +13226,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
+54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
 54,0,Information,Microsoft-Windows-OneX/Diagnostic,Supplicant,,Supplicant,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Completed the 802.1X authentication because no authenticator was found,{PortId}
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
@@ -13417,6 +13471,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
+55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
 55,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,EAP OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): The session id ({SessionId}) received with the UI response is different than the session id for which the request was sent ({UIRequestSessionId}). Discarding this response,{PortId} | {SessionId} | {UIRequestSessionId}
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
@@ -13661,6 +13716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
+56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
 56,0,Warning,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): A pending UI request exists size={Size}; sessionId={SessionId},{PortId} | {Size} | {SessionId}
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
@@ -13905,6 +13961,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
+57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
 57,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): User auth proposed for sessionId={SessionId} ({Reason}),{PortId} | {SessionId} | {Reason}
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
@@ -14149,6 +14206,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
+58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
 58,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,User,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): The machine is in app server mode. Proposing machine auth,{PortId}
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
@@ -14393,6 +14451,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
+59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
 59,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,EapHostPeerInvokeInteractiveUI failed; Error = {WinError} Reason = {ReasonCode},{WinError} | {ReasonCode}
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 11,24H2,Pro,2024/10/2,26100.1742,No EAP Cred fields to display,
@@ -14637,6 +14696,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 10,1507,Pro,2015/07/29,10240.0,No EAP Cred fields to display,
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8.1,8.1,Pro,1970/01/01,9600.0,No EAP Cred fields to display,
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8,8,Pro,1970/01/01,9200.0,No EAP Cred fields to display,
+60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,No EAP Cred fields to display,
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,No EAP Cred fields to display,
 60,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,No EAP Cred fields to display,
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creds conversion failed (error={ErrorCode}),{ErrorCode}
@@ -14881,6 +14941,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 10,1507,Pro,2015/07/29,10240.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8,8,Pro,1970/01/01,9200.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
+61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
 61,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Creds conversion failed (error={ErrorCode}),{ErrorCode}
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 11,24H2,Pro,2024/10/2,26100.1742,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
@@ -15125,6 +15186,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 10,1507,Pro,2015/07/29,10240.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8.1,8.1,Pro,1970/01/01,9600.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 8,8,Pro,1970/01/01,9200.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
+62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
 62,0,Error,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,EapHostPeerQueryInteractiveUIInputFields failed (error={ErrorCode}),{ErrorCode}
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 11,24H2,Pro,2024/10/2,26100.1742,Displaying the change password dialog - {Result},{Result}
@@ -15369,6 +15431,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 10,1507,Pro,2015/07/29,10240.0,Displaying the change password dialog - {Result},{Result}
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Displaying the change password dialog - {Result},{Result}
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 8,8,Pro,1970/01/01,9200.0,Displaying the change password dialog - {Result},{Result}
+63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Displaying the change password dialog - {Result},{Result}
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Displaying the change password dialog - {Result},{Result}
 63,0,Information,Microsoft-Windows-OneX/Diagnostic,User,,OneXUI,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Displaying the change password dialog - {Result},{Result}
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
@@ -15613,6 +15676,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
+64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 64,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Sending an EAP packet length={PacketLength}; type={PacketType}; identifier={Identifier}; eapType={EapMethodType},{PortId} | {PacketLength} | {PacketType} | {Identifier} | {EapMethodType}
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
@@ -15857,6 +15921,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
+65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket LwtDiagnostic,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
 65,0,Information,Microsoft-Windows-OneX/Diagnostic,EAP,,EAP EAPPacket,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Port({PortId}): Identity being sent in the ResponseId packet is {Identity},{PortId} | {Identity}
 66,0,Information,Microsoft-Windows-OneX/Operational,EAP,,EAP,Windows 11,24H2,Pro,2024/10/2,26100.1742,Port:({PortId}): Saving/Updating master copy of user dataSupplicantIsUsingExplicitCreds:({ExplicitCredentials}),{PortId} | {ExplicitCredentials}
@@ -16821,6 +16886,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
 60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
 60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
+60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
 60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
 60001,0,Error,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Error: {ErrorCode} Location: {Location} Context: {Context},{ErrorCode} | {Location} | {Context}
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
@@ -17065,6 +17131,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
+60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
 60002,0,Warning,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Warning: {WarningCode} Location: {Location} Context: {Context},{WarningCode} | {Location} | {Context}
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
@@ -17309,6 +17376,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
+60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
 60003,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Transitioned to State: {NextState} Context: {Context},{NextState} | {Context}
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
@@ -17553,6 +17621,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
+60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
 60004,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Updated Context: {Context} Update Reason: {UpdateReasonCode},{Context} | {UpdateReasonCode}
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
@@ -17797,6 +17866,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
+60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60101,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
@@ -18041,6 +18111,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
+60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60102,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,SourceAddress: {SourceAddress} SourcePort: {SourcePort} DestinationAddress: {DestinationAddress} DestinationPort: {DestinationPort} Protocol: {Protocol} ReferenceContext: {ReferenceContext},{SourceAddress} | {SourcePort} | {DestinationAddress} | {DestinationPort} | {Protocol} | {ReferenceContext}
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
@@ -18285,5 +18356,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
+60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}
 60103,0,Information,Microsoft-Windows-OneX/Diagnostic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Interface Guid: {IfGuid} IfIndex: {IfIndex} Interface Luid: {IfLuid} ReferenceContext: {ReferenceContext},{IfGuid} | {IfIndex} | {IfLuid} | {ReferenceContext}

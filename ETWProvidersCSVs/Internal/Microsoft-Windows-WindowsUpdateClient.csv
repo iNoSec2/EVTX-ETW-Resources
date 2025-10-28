@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows 10,1507,Pro,2015/07/29,10240.0,,
 16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows 8,8,Pro,1970/01/01,9200.0,,
+16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 16,0,Warning,System,Automatic Updates,Check for Updates,Connection,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 16,0,win:Warning,System,Automatic Updates,Check for Updates,Connection,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,System,Automatic Updates,Download,Download Success,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
 17,0,Information,System,Automatic Updates,Download,Download Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
 17,0,Information,System,Automatic Updates,Download,Download Success,Windows 8,8,Pro,1970/01/01,9200.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
+17,0,Information,System,Automatic Updates,Download,Download Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
 17,0,Information,System,Automatic Updates,Download,Download Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
 17,0,Information,System,Automatic Updates,Download,Download Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
 17,0,win:Informational,System,Automatic Updates,Download,Download Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Installation Ready: The following updates are downloaded and ready for installation. To install the updates; an administrator should log on to this computer and Windows will prompt with further instructions: {updatelist},{updatelist}
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Information,System,Automatic Updates,Download,Download Success,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
 18,0,Information,System,Automatic Updates,Download,Download Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
 18,0,Information,System,Automatic Updates,Download,Download Success,Windows 8,8,Pro,1970/01/01,9200.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
+18,0,Information,System,Automatic Updates,Download,Download Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
 18,0,Information,System,Automatic Updates,Download,Download Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
 18,0,Information,System,Automatic Updates,Download,Download Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
 18,0,win:Informational,System,Automatic Updates,Download,Download Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Installation Ready: The following updates are downloaded and ready for installation. This computer is currently scheduled to install these updates on {schedinstalldate} at {schedinstalltime}: {updatelist},{schedinstalldate} | {schedinstalltime} | {updatelist}
@@ -976,6 +979,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows 8,8,Pro,1970/01/01,9200.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
+19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,0,Information,System,Windows Update Agent,Installation,Installation Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,0,win:Informational,System,Windows Update Agent,Installation,Installation Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
@@ -1221,6 +1225,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,1,Information,System,Windows Update Agent,Installation,Installation Success,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,1,Information,System,Windows Update Agent,Installation,Installation Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 19,1,Information,System,Windows Update Agent,Installation,Installation Success,Windows 8,8,Pro,1970/01/01,9200.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
+19,1,Information,System,Windows Update Agent,Installation,Installation Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Successful: Windows successfully installed the following update: {updateTitle},{updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 11,24H2,Pro,2024/10/2,26100.1742,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 11,22H2,Pro,2022/12/20,22621.963,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 11,22H2,Pro,2022/11/15,22621.819,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
@@ -1463,6 +1468,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 8,8,Pro,1970/01/01,9200.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
+20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,0,win:Error,System,Windows Update Agent,Installation,Installation Failure,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
@@ -1708,6 +1714,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,1,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,1,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 20,1,Error,System,Windows Update Agent,Installation,Installation Failure,Windows 8,8,Pro,1970/01/01,9200.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
+20,1,Error,System,Windows Update Agent,Installation,Installation Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation Failure: Windows failed to install the following update with error {errorCode}: {updateTitle}.,{errorCode} | {updateTitle}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 11,24H2,Pro,2024/10/2,26100.1742,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 11,22H2,Pro,2022/12/20,22621.963,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 11,22H2,Pro,2022/11/15,22621.819,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
@@ -1950,6 +1957,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 10,1507,Pro,2015/07/29,10240.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 8,8,Pro,1970/01/01,9200.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
+21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
 21,0,win:Informational,System,Automatic Updates,Reboot,Reboot,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Restart Required: To complete the installation of the following updates; the computer must be restarted. Until this computer has been restarted; Windows cannot search for or download new updates: {updatelist},{updatelist}
@@ -2195,6 +2203,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 10,1507,Pro,2015/07/29,10240.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
 22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
 22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 8,8,Pro,1970/01/01,9200.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
+22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
 22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
 22,0,Information,System,Automatic Updates,Reboot,Reboot,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
 22,0,win:Informational,System,Automatic Updates,Reboot,Reboot,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Restart Required: To complete the installation of the following updates; the computer will be restarted within {restarttime} minutes: {updatelist},{restarttime} | {updatelist}
@@ -2440,6 +2449,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 10,1507,Pro,2015/07/29,10240.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 8,8,Pro,1970/01/01,9200.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
+23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,0,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,0,win:Informational,System,Windows Update Agent,Uninstallation,Installation Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
@@ -2685,6 +2695,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,1,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 10,1507,Pro,2015/07/29,10240.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,1,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 23,1,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows 8,8,Pro,1970/01/01,9200.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
+23,1,Information,System,Windows Update Agent,Uninstallation,Installation Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Uninstallation Successful: Windows successfully uninstalled the following update: {updateTitle},{updateTitle}
 24,0,Error,System,Windows Update Agent,Uninstallation,Failure Uninstallation,Windows 11,24H2,Pro,2024/10/2,26100.1742,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Failure Uninstallation,Windows 11,22H2,Pro,2022/12/20,22621.963,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Failure Uninstallation,Windows 11,22H2,Pro,2022/11/15,22621.819,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
@@ -2927,6 +2938,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 8,8,Pro,1970/01/01,9200.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
+24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,0,win:Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
@@ -3172,6 +3184,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,1,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,1,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 24,1,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows 8,8,Pro,1970/01/01,9200.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
+24,1,Error,System,Windows Update Agent,Uninstallation,Installation Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Uninstallation Failure: Windows failed to uninstall the following update with error {errorCode}: {updatelist},{errorCode} | {updatelist}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 11,24H2,Pro,2024/10/2,26100.1742,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 11,22H2,Pro,2022/12/20,22621.963,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 11,22H2,Pro,2022/11/15,22621.819,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
@@ -3414,6 +3427,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
+25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,0,win:Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
@@ -3659,6 +3673,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,1,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,1,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 25,1,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
+25,1,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update failed to check for updates with error {errorCode}.,{errorCode}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 11,24H2,Pro,2024/10/2,26100.1742,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 11,22H2,Pro,2022/12/20,22621.963,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 11,22H2,Pro,2022/11/15,22621.819,Windows Update successfully found {updateCount} updates.,{updateCount}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
+26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
 26,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
 26,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
@@ -4146,6 +4162,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update successfully found {updateCount} updates.,{updateCount}
 26,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
+26,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Check for Updates,Check for Updates Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update sucessfully found {updateCount} updates.,{updateCount}
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4388,6 +4405,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 10,1507,Pro,2015/07/29,10240.0,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 8,8,Pro,1970/01/01,9200.0,,
+27,0,Information,System,Windows Update Agent,State Change,State,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 27,0,Information,System,Windows Update Agent,State Change,State,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 27,0,win:Informational,System,Windows Update Agent,State Change,State,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,0,Information,System,Windows Update Agent,State Change,State,Windows 10,1507,Pro,2015/07/29,10240.0,,
 28,0,Information,System,Windows Update Agent,State Change,State,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 28,0,Information,System,Windows Update Agent,State Change,State,Windows 8,8,Pro,1970/01/01,9200.0,,
+28,0,Information,System,Windows Update Agent,State Change,State,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 28,0,Information,System,Windows Update Agent,State Change,State,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 28,0,Information,System,Windows Update Agent,State Change,State,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 28,0,win:Informational,System,Windows Update Agent,State Change,State,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -4878,6 +4897,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 10,1507,Pro,2015/07/29,10240.0,,
 29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 8,8,Pro,1970/01/01,9200.0,,
+29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 29,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 29,0,win:Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -5123,6 +5143,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 10,1507,Pro,2015/07/29,10240.0,,
 30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 8,8,Pro,1970/01/01,9200.0,,
+30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 30,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 30,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Connection,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -5368,6 +5389,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update failed to download an update.,
 31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update failed to download an update.,
 31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update failed to download an update.,
+31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update failed to download an update.,
 31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows Update failed to download an update.,
 31,0,Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windows Update failed to download an update.,
 31,0,win:Error,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Failure,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Windows Update failed to download an update.,
@@ -5853,6 +5875,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Information,System,Windows Update Agent,State Change,Connection,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
 32,0,Information,System,Windows Update Agent,State Change,Connection,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
 32,0,Information,System,Windows Update Agent,State Change,Connection,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
+32,0,Information,System,Windows Update Agent,State Change,Connection,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
 32,0,Information,System,Windows Update Agent,State Change,Connection,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
 32,0,Information,System,Windows Update Agent,State Change,Connection,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
 32,0,win:Informational,System,Windows Update Agent,State Change,Connection,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Windows Update cannot connect to the server. Please check the connection to server {serverName}.,{serverName}
@@ -6098,6 +6121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Information,System,Windows Update Agent,State Change,Connection,Windows 10,1507,Pro,2015/07/29,10240.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
 33,0,Information,System,Windows Update Agent,State Change,Connection,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
 33,0,Information,System,Windows Update Agent,State Change,Connection,Windows 8,8,Pro,1970/01/01,9200.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
+33,0,Information,System,Windows Update Agent,State Change,Connection,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
 33,0,Information,System,Windows Update Agent,State Change,Connection,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
 33,0,Information,System,Windows Update Agent,State Change,Connection,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
 33,0,win:Informational,System,Windows Update Agent,State Change,Connection,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Windows Update was unable to connect to proxy server {serverName} because valid credentials (user name and password) were required; but were either not available or were incorrect. Please check your proxy credentials; and then try searching again for updates.,{serverName}
@@ -6343,6 +6367,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
 34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
 34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 8,8,Pro,1970/01/01,9200.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
+34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
 34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
 34,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
 34,0,win:Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The Windows Update Client Core component failed to install a self-update with error {errorCode}.,{errorCode}
@@ -6588,6 +6613,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
 35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
 35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 8,8,Pro,1970/01/01,9200.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
+35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
 35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
 35,0,Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
 35,0,win:Warning,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Failure SelfUpdate,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The Windows Update Client Auxillary component failed to install a self-update with error {errorCode}.,{errorCode}
@@ -6833,6 +6859,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 8,8,Pro,1970/01/01,9200.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
+36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 36,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 36,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The Windows Update Client Core component was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
@@ -7078,6 +7105,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 8,8,Pro,1970/01/01,9200.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
+37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 37,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
 37,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,SelfUpdate,Success SelfUpdate,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The Windows Update Client Auxillary was successfully updated from version {version1} to version {version2}.,{version1} | {version2}
@@ -7323,6 +7351,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 10,1507,Pro,2015/07/29,10240.0,,
 38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 8,8,Pro,1970/01/01,9200.0,,
+38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 38,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 38,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -7568,6 +7597,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 10,1507,Pro,2015/07/29,10240.0,,
 39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 8,8,Pro,1970/01/01,9200.0,,
+39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 39,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 39,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,State Service,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -7813,6 +7843,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 10,1507,Pro,2015/07/29,10240.0,An update was detected.,
 40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An update was detected.,
 40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 8,8,Pro,1970/01/01,9200.0,An update was detected.,
+40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An update was detected.,
 40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An update was detected.,
 40,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 7,SP1,Ultimate,1970/01/01,7601.0,An update was detected.,
 40,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,An update was detected.,
@@ -8058,6 +8089,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 10,1507,Pro,2015/07/29,10240.0,An update was detected.,
 40,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An update was detected.,
 40,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows 8,8,Pro,1970/01/01,9200.0,An update was detected.,
+40,1,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,State Change,Check for Updates,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An update was detected.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 11,24H2,Pro,2024/10/2,26100.1742,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 11,22H2,Pro,2022/12/20,22621.963,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 11,22H2,Pro,2022/11/15,22621.819,An update was downloaded.,
@@ -8300,6 +8332,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 10,1507,Pro,2015/07/29,10240.0,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 8,8,Pro,1970/01/01,9200.0,An update was downloaded.,
+41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An update was downloaded.,
 41,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows 7,SP1,Ultimate,1970/01/01,7601.0,An update was downloaded.,
 41,0,win:Informational,Microsoft-Windows-WindowsUpdateClient/Operational,Windows Update Agent,Download,Download Success,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,An update was downloaded.,
@@ -8785,6 +8818,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows 10,1507,Pro,2015/07/29,10240.0,There has been a change in the health of Windows Update.,
 42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows 8.1,8.1,Pro,1970/01/01,9600.0,There has been a change in the health of Windows Update.,
 42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows 8,8,Pro,1970/01/01,9200.0,There has been a change in the health of Windows Update.,
+42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,There has been a change in the health of Windows Update.,
 42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,There has been a change in the health of Windows Update.,
 42,0,Information,Microsoft-Windows-WindowsUpdateClient/Operational,Automatic Updates,Other,State Health,Windows 7,SP1,Ultimate,1970/01/01,7601.0,There has been a change in the health of Windows Update.,
 43,0,Information,System,Windows Update Agent,Installation,Installation Started,Windows 11,24H2,Pro,2024/10/2,26100.1742,Installation Started: Windows has started installing the following update: {updateTitle},{updateTitle}
@@ -9992,6 +10026,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 101,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 101,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+101,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -10234,6 +10269,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+102,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -10476,6 +10512,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+103,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -10718,6 +10755,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+104,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -10960,6 +10998,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+105,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -11202,6 +11241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+106,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -11444,6 +11484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+107,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -11686,6 +11727,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+108,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -11928,6 +11970,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+109,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -12170,6 +12213,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+110,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -12412,6 +12456,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+111,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -12654,6 +12699,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+112,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -12896,6 +12942,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+113,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -13138,6 +13185,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+114,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -13380,6 +13428,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+115,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -13622,6 +13671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+116,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -13864,6 +13914,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+118,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -14106,6 +14157,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+119,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -14348,6 +14400,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+120,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -14590,6 +14643,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+121,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -14832,6 +14886,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+122,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -15074,6 +15129,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+123,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -15316,6 +15372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+124,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -15558,6 +15615,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+125,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -15800,6 +15858,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+126,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -16042,6 +16101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+127,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -16284,6 +16344,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+128,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -16526,6 +16587,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+129,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -16768,6 +16830,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+130,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -17010,6 +17073,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,,
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,,
+131,4,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 200,0,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 200,0,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 200,0,Information,Microsoft-Windows-WindowsUpdateClient/Analytic,Windows Update Agent,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,

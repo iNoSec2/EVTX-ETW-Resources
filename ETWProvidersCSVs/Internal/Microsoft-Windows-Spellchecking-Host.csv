@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 0,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed instantiating third-party spellchecking provider: CLSID {clsid}; HRESULT {hresult}.,{clsid} | {hresult}
 0,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed instantiating third-party spellchecking provider: CLSID {clsid}; HRESULT {hresult}.,{clsid} | {hresult}
 0,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed instantiating third-party spellchecking provider: CLSID {clsid}; HRESULT {hresult}.,{clsid} | {hresult}
+0,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed instantiating third-party spellchecking provider: CLSID {clsid}; HRESULT {hresult}.,{clsid} | {hresult}
 1,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
 1,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
 1,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
 1,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
 1,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
+1,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed instantiating third-party spellchecker: Language tag {string}; HRESULT {hresult}.,{string} | {hresult}
 2,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
 2,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
 2,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
@@ -725,6 +727,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
 2,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
 2,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
+2,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed initializing wordlist {Wordlist} in third-party spellchecker with Language tag {String}; HRESULT {Hresult}. The spellchecker will remain available.,{Wordlist} | {String} | {Hresult}
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
@@ -967,6 +970,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows 8,8,Pro,1970/01/01,9200.0,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
+3,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Host started initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
@@ -1209,3 +1213,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
 4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}
+4,0,Information,Microsoft Windows Spell Checking Host Analytic Channel,,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Host finished initializing third-party provider with wordlist {Wordlist}.,{Wordlist}

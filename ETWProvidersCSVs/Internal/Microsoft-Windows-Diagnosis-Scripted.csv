@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
 1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
 1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
+1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
 1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
 1,0,Information,Microsoft-Windows-Diagnosis-Scripted/Admin,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine executed a diagnostic package located at {PackagePath} with ID {PackageId}.,{PackagePath} | {PackageId}
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
+101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 101,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine started initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
+102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 102,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine completed initializing a diagnostic package located at {PackagePath}.,{PackagePath}
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
+103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
 103,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine started diagnosing the diagnostic package {PackageId}.,{PackageId}
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
+104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
 104,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine completed diagnosing the diagnostic package {PackageId}.,{PackageId}
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
+105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 105,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine started running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
+106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 106,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine completed running the resolution {ResolutionId} in the diagnostic package {PackageId}.,{ResolutionId} | {PackageId}
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
+107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
 107,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine started verifying the diagnostic package {PackageId}.,{PackageId}
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
+108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
 108,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine completed verifying the diagnostic package {PackageId}.,{PackageId}
 201,0,Warning,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine has encountered an error {Status}.,{Status}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 201,0,Warning,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
 201,0,Warning,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
 201,0,Warning,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
+201,0,Warning,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
 201,0,Error,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
 201,0,Error,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine has encountered an error {Status}.,{Status}
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
+301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
 301,0,Error,Microsoft-Windows-Diagnosis-Scripted/Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The scripted diagnostic engine has encountered an error in function {FunctionName}; line {LineNumber}: {ErrorCode}.,{FunctionName} | {LineNumber} | {ErrorCode}
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
+401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
 401,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Rootcause {RootCauseId} was detected in package {PackageId}.,{RootCauseId} | {PackageId}
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
+402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
 402,0,Information,Microsoft-Windows-Diagnosis-Scripted/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Rootcause {RootCauseId} was resolved in package {PackageId}.,{RootCauseId} | {PackageId}
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1000,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1002,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_HOST,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1004,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1006,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SERIALIZE,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1008,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1010,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_INITIALIZE,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1012,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1014,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_VALIDATE,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5365,6 +5386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1016,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5609,6 +5631,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1018,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_SCRIPT,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -5853,6 +5876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1020,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -6097,5 +6121,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1022,0,Information,Microsoft-Windows-Diagnosis-Scripted/Analytic,SCRIPTED_DIAGNOSTICS_TASK_TRUST,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,

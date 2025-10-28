@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1073741825,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
 1073741825,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
 1073741825,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
+1073741825,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
 1073741825,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
 1073741825,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} failed to download certificates for {StoreName} store from {LdapStore} ({ErrorCode}). {ErrorMsg},{Context} | {StoreName} | {LdapStore} | {ErrorCode} | {ErrorMsg}
 1073741826,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Automatic certificate enrollment for {Context} started.,{Context}
@@ -489,6 +490,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1073741830,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
 1073741830,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
 1073741830,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
+1073741830,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
 1073741830,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
 1073741830,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
@@ -733,6 +735,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147483663,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
+2147483663,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
 2147483663,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Automatic certificate enrollment for {Context} failed to contact the active directory ({ErrorCode}). {ErrorMsg} Enrollment will not be performed.,{Context} | {ErrorCode} | {ErrorMsg}
@@ -978,6 +981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147483712,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
 2147483712,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
 2147483712,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
+2147483712,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
 2147483712,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
 2147483712,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
 2147483712,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate for {Context} with Thumbprint {ObjId} is about to expire or already expired.,{Context} | {ObjId}
@@ -1224,6 +1228,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3221225474,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} started.,{Context}
 3221225474,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} started.,{Context}
 3221225474,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} started.,{Context}
+3221225474,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} started.,{Context}
 3221225474,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} started.,{Context}
 3221225474,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} started.,{Context}
 3221225475,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Automatic certificate enrollment for {Context} completed.,{Context}
@@ -1468,6 +1473,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3221225475,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} completed.,{Context}
 3221225475,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} completed.,{Context}
 3221225475,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} completed.,{Context}
+3221225475,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} completed.,{Context}
 3221225475,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} completed.,{Context}
 3221225475,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} completed.,{Context}
 3221225476,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
@@ -1712,6 +1718,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3221225476,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
 3221225476,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
 3221225476,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
+3221225476,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
 3221225476,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
 3221225476,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} invoked the enrollment API.,{Context}
 3221225477,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
@@ -1956,6 +1963,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3221225477,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
 3221225477,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
 3221225477,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
+3221225477,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
 3221225477,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
 3221225477,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Automatic certificate enrollment for {Context} returned from the enrollment API.,{Context}
 3221225478,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Automatic certificate enrollment for {Context} failed ({ErrorCode}) {ErrorMsg}.,{Context} | {ErrorCode} | {ErrorMsg}

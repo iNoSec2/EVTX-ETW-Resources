@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10001,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
 10001,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
 10001,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
+10001,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
 10001,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
 10001,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
 10001,0,win:Informational,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The following application attempted to veto the shutdown: {AppName}.,{AppName}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10002,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The following application was terminated because it was hung: {AppName}.,{AppName}
 10002,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The following application was terminated because it was hung: {AppName}.,{AppName}
 10002,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,The following application was terminated because it was hung: {AppName}.,{AppName}
+10002,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The following application was terminated because it was hung: {AppName}.,{AppName}
 10002,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The following application was terminated because it was hung: {AppName}.,{AppName}
 10002,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The following application was terminated because it was hung: {AppName}.,{AppName}
 10002,0,win:Informational,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The following application was terminated because it was hung: {AppName}.,{AppName}
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12001,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12001,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,win:Start,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -976,6 +979,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12001,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12001,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12001,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12001,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1218,6 +1222,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12002,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12002,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,win:Stop,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1463,6 +1468,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12002,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12002,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12002,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12002,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12003,0,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12003,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1950,6 +1957,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12003,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12003,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12003,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12003,1,Information,Microsoft-Windows-Winsrv/Analytic,ThreadShutdown_SentMessage,,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2192,6 +2200,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12005,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12005,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,win:Start,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12005,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12005,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12005,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12005,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2679,6 +2689,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12006,0,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12006,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,win:Stop,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2924,6 +2935,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12006,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12006,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12006,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12006,1,Information,Microsoft-Windows-Winsrv/Analytic,TerminateProcess,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3166,6 +3178,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12007,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12007,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,win:Start,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -3411,6 +3424,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12007,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12007,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12007,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12007,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3653,6 +3667,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 12008,0,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 12008,0,win:Informational,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,win:Stop,Perf,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -3898,6 +3913,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12008,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12008,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12008,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12008,1,Information,Microsoft-Windows-Winsrv/Analytic,WaitForProcess,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4140,6 +4156,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12009,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Start,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4382,6 +4399,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows 8,8,Pro,1970/01/01,9200.0,,
+12010,1,Information,Microsoft-Windows-Winsrv/Analytic,ShutdownProcess,Stop,Perf,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12011,1,Information,Microsoft-Windows-Winsrv/Analytic,NotificationEvent,Start,Perf,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12011,1,Information,Microsoft-Windows-Winsrv/Analytic,NotificationEvent,Start,Perf,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12011,1,Information,Microsoft-Windows-Winsrv/Analytic,NotificationEvent,Start,Perf,Windows 11,22H2,Pro,2022/11/15,22621.819,,

@@ -1,29 +1,54 @@
 Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition,Date,Build,Event Message,Event Fields
 2,0,Verbose,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+2,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 3,0,Verbose,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+3,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 4,0,Warning,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+4,0,Warning,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 5,0,Error,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+5,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 6,0,Verbose,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+6,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 7,0,Verbose,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+7,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 8,0,Error,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+8,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 9,0,Error,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+9,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 10,0,Error,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+10,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 11,0,Error,Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,{message},{message}
+11,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 96,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+96,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 100,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+100,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 101,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+101,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 256,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for session {Param1} and the user account {Param2}\{Param3}. The error code is {Param4}.,{Param1} | {Param2} | {Param3} | {Param4}
+256,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for session {Param1} and the user account {Param2}\{Param3}. The error code is {Param4}.,{Param1} | {Param2} | {Param3} | {Param4}
 257,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for session {Param2}. The error code is {Param1}.,{Param2} | {Param1}
+257,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for session {Param2}. The error code is {Param1}.,{Param2} | {Param1}
 258,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for the user acccount {Param1}\{Param2} due to a security error.,{Param1} | {Param2}
+258,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not schedule a package registration for the user acccount {Param1}\{Param2} due to a security error.,{Param1} | {Param2}
 259,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not register the package named {Param1} for the user account {Param2}\{Param3}. The error code is {Param4}.,{Param1} | {Param2} | {Param3} | {Param4}
+259,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not register the package named {Param1} for the user account {Param2}\{Param3}. The error code is {Param4}.,{Param1} | {Param2} | {Param3} | {Param4}
 260,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent successfully registered the package named {Param1} for the user account {Param2}\{Param3}.,{Param1} | {Param2} | {Param3}
+260,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent successfully registered the package named {Param1} for the user account {Param2}\{Param3}.,{Param1} | {Param2} | {Param3}
 261,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not retrieve user information from session {Param2}. The package will not be updated. The error code is {Param1}.,{Param2} | {Param1}
+261,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not retrieve user information from session {Param2}. The package will not be updated. The error code is {Param1}.,{Param2} | {Param1}
 1280,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent started registering the package named {Param1} for the user account {Param2}\{Param3}.,{Param1} | {Param2} | {Param3}
+1280,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent started registering the package named {Param1} for the user account {Param2}\{Param3}.,{Param1} | {Param2} | {Param3}
 1281,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent successfully registered the package named {Param1} for the user account {Param2}\{Param3}. The registration took {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
+1281,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent successfully registered the package named {Param1} for the user account {Param2}\{Param3}. The registration took {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
 1282,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not register the package named {Param1} for the user account {Param2}\{Param3}. The status is {Param4}. The registration attempt took {Param5} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4} | {Param5}
+1282,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not register the package named {Param1} for the user account {Param2}\{Param3}. The status is {Param4}. The registration attempt took {Param5} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4} | {Param5}
 1283,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent retrieved {Param1} packages for the user account {Param2}\{Param3} in {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
+1283,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent retrieved {Param1} packages for the user account {Param2}\{Param3} in {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
 1284,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent registered {Param1} packages for the user account {Param2}\{Param3} in {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
+1284,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent registered {Param1} packages for the user account {Param2}\{Param3} in {Param4} milliseconds.,{Param1} | {Param2} | {Param3} | {Param4}
 1286,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent recovery request for the user account {Param1}\{Param2} failed with the following error code: {Param3}.,{Param1} | {Param2} | {Param3}
+1286,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent recovery request for the user account {Param1}\{Param2} failed with the following error code: {Param3}.,{Param1} | {Param2} | {Param3}
 1287,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
 1287,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
 1287,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
@@ -266,6 +291,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1287,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
 1287,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
 1287,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
+1287,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A profile deletion triggered the Windows All-User Install Agent to uninstall all packages for the user profile {Param1}.,{Param1}
 1288,0,Error,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
 1288,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
 1288,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
@@ -508,17 +534,29 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1288,0,Error,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
 1288,0,Error,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
 1288,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
+1288,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not remove {PackageMoniker} packages during the profile deletion of the user profile {UserSid}. The error code is {Error}.,{PackageMoniker} | {UserSid} | {Error}
 1289,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent detected an invalid user SID {UserSid}. All packages associated with this user SID will be unregistered. The error code is {Error}.,{UserSid} | {Error}
+1289,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent detected an invalid user SID {UserSid}. All packages associated with this user SID will be unregistered. The error code is {Error}.,{UserSid} | {Error}
 1290,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not unregister an application. The error code is {Error}.,{Error}
+1290,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not unregister an application. The error code is {Error}.,{Error}
 1291,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent cannot determine if user SID {UserSid} is a valid user account. The error code is {Error}.,{UserSid} | {Error}
+1291,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent cannot determine if user SID {UserSid} is a valid user account. The error code is {Error}.,{UserSid} | {Error}
 1292,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent cannot determine if user SID {UserSid} is a valid user account. The Windows All-User Install Agent will try again later.,{UserSid}
+1292,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent cannot determine if user SID {UserSid} is a valid user account. The Windows All-User Install Agent will try again later.,{UserSid}
 1293,0,Warning,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent detected that the user account {DomainName}\{AccountName} has been assigned a temporary or mandatory profile. Ensure that packages can be registered for temporary or mandatory profiles by using Group Policy.,{DomainName} | {AccountName}
+1293,0,Warning,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent detected that the user account {DomainName}\{AccountName} has been assigned a temporary or mandatory profile. Ensure that packages can be registered for temporary or mandatory profiles by using Group Policy.,{DomainName} | {AccountName}
 1294,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of recovery action; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
+1294,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of recovery action; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
 1295,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of new or updated application; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
+1295,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of new or updated application; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
 1296,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of user has been assigned a temporary or mandatory profile; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
+1296,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent starts package registration for user account {DomainName}\{AccountName} because of user has been assigned a temporary or mandatory profile; detail code is {DetailCode}.,{DomainName} | {AccountName} | {DetailCode}
 1297,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not update timestamp for user user account {DomainName}\{AccountName}. The error code is {Error}.,{DomainName} | {AccountName} | {Error}
+1297,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not update timestamp for user user account {DomainName}\{AccountName}. The error code is {Error}.,{DomainName} | {AccountName} | {Error}
 1298,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Start the Windows All-User Install Agent to update packages for the user on session {SessId}. The detail code is {DetailCode}.,{SessId} | {DetailCode}
+1298,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Start the Windows All-User Install Agent to update packages for the user on session {SessId}. The detail code is {DetailCode}.,{SessId} | {DetailCode}
 1299,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1299,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1300,0,Error,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
 1300,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
 1300,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
@@ -761,6 +799,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1300,0,Error,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
 1300,0,Error,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
 1300,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
+1300,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not delete the registered packages after the profile was deleted for user SID {UserSid}. Error code: {Error}.  Additional information: {location}.,{UserSid} | {Error} | {location}
 1301,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
 1301,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
 1301,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
@@ -1003,6 +1042,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1301,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
 1301,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
 1301,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
+1301,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent detected an attempt to delete a temporary or mandatory profile for user SID {Param1}. Package information for the user will be reset.,{Param1}
 1302,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
 1302,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
 1302,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
@@ -1245,6 +1285,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1302,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
 1302,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
 1302,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
+1302,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent will delete {NumberOfPackages} packages for user SID {UserSid} because the profile was deleted.,{NumberOfPackages} | {UserSid}
 1303,0,Error,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
 1303,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
 1303,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
@@ -1487,6 +1528,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1303,0,Error,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
 1303,0,Error,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
 1303,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
+1303,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not retrieve a list of packages for user SID {UserSid}. The error code is {Error}.,{UserSid} | {Error}
 1304,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
 1304,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
 1304,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
@@ -1729,6 +1771,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1304,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
 1304,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
 1304,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
+1304,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent will delete package {Package} for user SID {UserSid} because the profile was deleted.,{Package} | {UserSid}
 1305,0,Error,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
 1305,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
 1305,0,Error,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
@@ -1971,6 +2014,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1305,0,Error,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
 1305,0,Error,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
 1305,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
+1305,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,GetApplicability API failed to determine status of package {Package}. The error code is {Error}.,{Package} | {Error}
 1306,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
 1306,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
 1306,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
@@ -2213,6 +2257,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1306,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
 1306,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
 1306,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
+1306,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,GetApplicability API has determined that package {Package} is either NotInstallable or RequiresReinstall. The detail code is {Error}.,{Package} | {Error}
 1307,0,Information,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
 1307,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
 1307,0,Information,Admin,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
@@ -2455,10 +2500,18 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1307,0,Information,Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
 1307,0,Information,Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
 1307,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
+1307,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Dependent Package {Package} is already installed; registration will be skipped.,{Package}
 1312,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Package registration is not required for user account {Param1}\{Param2}.,{Param1} | {Param2}
+1312,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Package registration is not required for user account {Param1}\{Param2}.,{Param1} | {Param2}
 1313,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent is no longer waiting to register a package for user account {Param1}\{Param2}. The error code is {Param3}.,{Param1} | {Param2} | {Param3}
+1313,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent is no longer waiting to register a package for user account {Param1}\{Param2}. The error code is {Param3}.,{Param1} | {Param2} | {Param3}
 1314,0,Information,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent is waiting to register a package for user account {Param1}\{Param2}.,{Param1} | {Param2}
+1314,0,Information,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent is waiting to register a package for user account {Param1}\{Param2}.,{Param1} | {Param2}
 1536,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not update the registration status for the package named {AppXPackage} for the user account {UserDomain}\{UserAccount}. The error code is {Error}.,{AppXPackage} | {UserDomain} | {UserAccount} | {Error}
+1536,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not update the registration status for the package named {AppXPackage} for the user account {UserDomain}\{UserAccount}. The error code is {Error}.,{AppXPackage} | {UserDomain} | {UserAccount} | {Error}
 1537,0,Error,Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows All-User Install Agent could not to retrieve a list of packages for the user account {UserDomain}\{UserAccount}. The error code is {Error}.,{UserDomain} | {UserAccount} | {Error}
+1537,0,Error,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows All-User Install Agent could not to retrieve a list of packages for the user account {UserDomain}\{UserAccount}. The error code is {Error}.,{UserDomain} | {UserAccount} | {Error}
 8192,0,,Analytic,RDS.Task.Server.AppxPerfTrack,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8192,0,,Analytic,RDS.Task.Server.AppxPerfTrack,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8193,0,,Analytic,RDS.Task.Server.AppxPerfTrack,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8193,0,,Analytic,RDS.Task.Server.AppxPerfTrack,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,

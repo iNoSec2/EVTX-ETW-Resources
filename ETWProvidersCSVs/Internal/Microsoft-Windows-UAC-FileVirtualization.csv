@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to register with Filter Manager.,
 2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to register with Filter Manager.,
 2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to register with Filter Manager.,
+2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to register with Filter Manager.,
 2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to register with Filter Manager.,
 2000,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to register with Filter Manager.,
 2000,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to register with Filter Manager.,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to read the settings.,
 2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to read the settings.,
 2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to read the settings.,
+2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to read the settings.,
 2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to read the settings.,
 2001,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to read the settings.,
 2001,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to read the settings.,
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to read the file list.,
 2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to read the file list.,
 2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to read the file list.,
+2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to read the file list.,
 2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to read the file list.,
 2002,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to read the file list.,
 2002,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to read the file list.,
@@ -976,6 +979,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to initialize security.,
 2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to initialize security.,
 2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to initialize security.,
+2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to initialize security.,
 2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to initialize security.,
 2003,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to initialize security.,
 2003,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to initialize security.,
@@ -1221,6 +1225,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to start filtering.,
 2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to start filtering.,
 2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to start filtering.,
+2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to start filtering.,
 2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to start filtering.,
 2004,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to start filtering.,
 2004,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to start filtering.,
@@ -1466,6 +1471,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set up the instance for a volume.,
 2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set up the instance for a volume.,
 2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set up the instance for a volume.,
+2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set up the instance for a volume.,
 2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to set up the instance for a volume.,
 2005,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to set up the instance for a volume.,
 2005,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to set up the instance for a volume.,
@@ -1711,6 +1717,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to query the virtualization mode.,
 2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to query the virtualization mode.,
 2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to query the virtualization mode.,
+2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to query the virtualization mode.,
 2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to query the virtualization mode.,
 2006,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to query the virtualization mode.,
 2006,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to query the virtualization mode.,
@@ -1956,6 +1963,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to query virtual store file information.,
 2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to query virtual store file information.,
 2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to query virtual store file information.,
+2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to query virtual store file information.,
 2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to query virtual store file information.,
 2007,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to query virtual store file information.,
 2007,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to query virtual store file information.,
@@ -2201,6 +2209,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to select which file to create.,
 2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to select which file to create.,
 2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to select which file to create.,
+2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to select which file to create.,
 2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to select which file to create.,
 2008,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to select which file to create.,
 2008,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to select which file to create.,
@@ -2446,6 +2455,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to create a stream handle context.,
 2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to create a stream handle context.,
 2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to create a stream handle context.,
+2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create a stream handle context.,
 2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to create a stream handle context.,
 2009,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to create a stream handle context.,
 2009,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to create a stream handle context.,
@@ -2691,6 +2701,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set the stream handle context.,
 2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set the stream handle context.,
 2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set the stream handle context.,
+2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set the stream handle context.,
 2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to set the stream handle context.,
 2010,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to set the stream handle context.,
 2010,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to set the stream handle context.,
@@ -2936,6 +2947,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to perform the administrator access check.,
 2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to perform the administrator access check.,
 2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to perform the administrator access check.,
+2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to perform the administrator access check.,
 2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to perform the administrator access check.,
 2011,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to perform the administrator access check.,
 2011,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to perform the administrator access check.,
@@ -3181,6 +3193,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to prepare for delayed virtualization.,
 2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to prepare for delayed virtualization.,
 2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to prepare for delayed virtualization.,
+2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to prepare for delayed virtualization.,
 2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to prepare for delayed virtualization.,
 2012,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to prepare for delayed virtualization.,
 2012,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to prepare for delayed virtualization.,
@@ -3426,6 +3439,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to perform delayed virtualization.,
 2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to perform delayed virtualization.,
 2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to perform delayed virtualization.,
+2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to perform delayed virtualization.,
 2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to perform delayed virtualization.,
 2013,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to perform delayed virtualization.,
 2013,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to perform delayed virtualization.,
@@ -3671,6 +3685,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to switch one or more delayed file objects.,
 2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to switch one or more delayed file objects.,
 2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to switch one or more delayed file objects.,
+2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to switch one or more delayed file objects.,
 2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to switch one or more delayed file objects.,
 2014,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to switch one or more delayed file objects.,
 2014,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to switch one or more delayed file objects.,
@@ -3916,6 +3931,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to create the virtual file path.,
 2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to create the virtual file path.,
 2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to create the virtual file path.,
+2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create the virtual file path.,
 2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to create the virtual file path.,
 2015,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to create the virtual file path.,
 2015,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to create the virtual file path.,
@@ -4161,6 +4177,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to copy the file into the virtual store.,
 2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to copy the file into the virtual store.,
 2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to copy the file into the virtual store.,
+2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to copy the file into the virtual store.,
 2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to copy the file into the virtual store.,
 2016,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to copy the file into the virtual store.,
 2016,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to copy the file into the virtual store.,
@@ -4406,6 +4423,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to perform the merged directory query.,
 2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to perform the merged directory query.,
 2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to perform the merged directory query.,
+2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to perform the merged directory query.,
 2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to perform the merged directory query.,
 2017,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to perform the merged directory query.,
 2017,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to perform the merged directory query.,
@@ -4651,6 +4669,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to query information for the file object.,
 2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to query information for the file object.,
 2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to query information for the file object.,
+2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to query information for the file object.,
 2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to query information for the file object.,
 2018,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to query information for the file object.,
 2018,0,win:Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to query information for the file object.,
@@ -4896,6 +4915,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2019,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to check target file for WRP protection.,
 2019,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to check target file for WRP protection.,
 2019,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to check target file for WRP protection.,
+2019,0,Error,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to check target file for WRP protection.,
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
@@ -5138,6 +5158,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
+4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
 4000,0,win:Informational,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Virtual file '{FileNameBuffer}' created.,{FileNameBuffer}
@@ -5383,6 +5404,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
 4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
 4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
+4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
 4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
 4001,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
 4001,0,win:Informational,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Virtual file '{FileNameBuffer}' renamed to '{TargetFileNameBuffer}',{FileNameBuffer} | {TargetFileNameBuffer}
@@ -5628,6 +5650,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
 4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
 4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
+4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
 4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
 4002,0,Information,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
 4002,0,win:Informational,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Virtual delete of file '{FileNameBuffer}' requested.,{FileNameBuffer}
@@ -5873,6 +5896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
 5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
 5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
+5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
 5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
 5000,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
 5000,0,win:Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Operation on file '{FileNameBuffer}' excluded from virtualization.,{FileNameBuffer}
@@ -6118,6 +6142,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
 5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
 5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
+5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
 5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
 5002,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
 5002,0,win:Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Delayed virtual file '{FileNameBuffer}' not virtualized.,{FileNameBuffer}
@@ -6363,6 +6388,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5003,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Access was denied on WRP file '{FileNameBuffer}',{FileNameBuffer}
 5003,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Access was denied on WRP file '{FileNameBuffer}',{FileNameBuffer}
 5003,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Access was denied on WRP file '{FileNameBuffer}',{FileNameBuffer}
+5003,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Access was denied on WRP file '{FileNameBuffer}',{FileNameBuffer}
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
@@ -6605,3 +6631,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
 5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}
+5004,0,Verbose,Microsoft-Windows-UAC-FileVirtualization/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Access was denied to delete file '{FileNameBuffer}',{FileNameBuffer}

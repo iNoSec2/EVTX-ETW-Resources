@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 0,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 0,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 0,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+0,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Initialize wordlist request sent to provider ,
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,Initialize wordlist request sent to provider ,
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,Initialize wordlist request sent to provider ,
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,Initialize wordlist request sent to provider ,
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Initialize wordlist request sent to provider ,
 1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,Initialize wordlist request sent to provider ,
+1,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Initialize wordlist request sent to provider ,
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Initialize wordlist request returned from provider ,
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,Initialize wordlist request returned from provider ,
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,Initialize wordlist request returned from provider ,
@@ -725,6 +727,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,Initialize wordlist request returned from provider ,
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Initialize wordlist request returned from provider ,
 2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,Initialize wordlist request returned from provider ,
+2,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Initialize wordlist request returned from provider ,
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -967,6 +970,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+3,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1209,6 +1213,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1451,6 +1456,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1693,6 +1699,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1935,6 +1942,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+7,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2177,6 +2185,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Get Suggestions,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2419,6 +2428,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+9,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2661,6 +2671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2903,6 +2914,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+11,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3145,6 +3157,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+12,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3387,6 +3400,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+13,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3629,6 +3643,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+14,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16,0,Warning,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
 16,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
 16,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
@@ -3871,6 +3886,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Warning,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
 16,0,Warning,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
 16,0,Warning,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
+16,0,Warning,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,File {First} is not Unicode (UTF-16LE). It has been moved to {Second}.,{First} | {Second}
 17,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
 17,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
 17,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
@@ -4113,6 +4129,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
 17,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
 17,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
+17,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,File {string} is not Unicode (UTF-16LE). Unable to rename it. This will block spell checkers from using wordlists in this directory.,{string}
 18,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{string} is not a directory. Please remove or rename.,{string}
 18,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{string} is not a directory. Please remove or rename.,{string}
 18,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{string} is not a directory. Please remove or rename.,{string}
@@ -4355,6 +4372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{string} is not a directory. Please remove or rename.,{string}
 18,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{string} is not a directory. Please remove or rename.,{string}
 18,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,{string} is not a directory. Please remove or rename.,{string}
+18,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{string} is not a directory. Please remove or rename.,{string}
 19,0,Error,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Unable to create directory {string}.,{string}
 19,0,Error,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Unable to create directory {string}.,{string}
 19,0,Error,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Unable to create directory {string}.,{string}
@@ -4597,6 +4615,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unable to create directory {string}.,{string}
 19,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unable to create directory {string}.,{string}
 19,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unable to create directory {string}.,{string}
+19,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unable to create directory {string}.,{string}
 20,0,Warning,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
 20,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
 20,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
@@ -4839,6 +4858,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Warning,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
 20,0,Warning,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
 20,0,Warning,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
+20,0,Warning,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Attempt to initialize {wordlist} wordlist in {languageTag} spell checker failed. This could be due to a bug with the spell checker. The spell checker will remain available.,{wordlist} | {languageTag}
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5081,6 +5101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+21,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5323,6 +5344,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+22,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Options,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Initialize wordlist from files request sent to provider ,
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,Initialize wordlist from files request sent to provider ,
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,Initialize wordlist from files request sent to provider ,
@@ -5565,6 +5587,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,Initialize wordlist from files request sent to provider ,
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Initialize wordlist from files request sent to provider ,
 23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,Initialize wordlist from files request sent to provider ,
+23,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Initialize wordlist from files request sent to provider ,
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Initialize wordlist from files request returned from provider ,
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,Initialize wordlist from files request returned from provider ,
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,Initialize wordlist from files request returned from provider ,
@@ -5807,6 +5830,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,Initialize wordlist from files request returned from provider ,
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Initialize wordlist from files request returned from provider ,
 24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,Initialize wordlist from files request returned from provider ,
+24,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Initialize wordlist from files request returned from provider ,
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6049,6 +6073,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+25,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6291,6 +6316,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+26,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 27,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 27,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 27,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
@@ -6533,6 +6559,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 27,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 27,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
+27,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to launch the watcher thread for changes in user wordlists and spell checking options: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 28,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 28,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 28,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
@@ -6775,6 +6802,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 28,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 28,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
+28,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to watch for user wordlist changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 29,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 29,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 29,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
@@ -7017,6 +7045,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 29,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 29,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
+29,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to watch for spell checking option changes: {hr}. Spell checking will remain available; but no changes will be reported.,{hr}
 30,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 30,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 30,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -7259,6 +7288,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 30,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 30,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+30,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 31,0,Error,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
 31,0,Error,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
 31,0,Error,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
@@ -7501,6 +7531,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
 31,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
 31,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
+31,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to update {wordlist} user custom wordlist: {hr}. Spell checking will remain available; but this user wordlist will not be updated.,{wordlist} | {hr}
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -7743,6 +7774,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows 8,8,Pro,1970/01/01,9200.0,,
+32,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Send,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -7985,6 +8017,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows 8,8,Pro,1970/01/01,9200.0,,
+33,0,Information,Microsoft Windows Spell Checking Facility Analytic Channel,Spell checking,Receive,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 34,0,Warning,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to add '{First}' to the text prediction language model. Language tag - {Second}; HRESULT - {hr}. The word has still been added to the spell checker custom dictionary.,{First} | {Second} | {hr}
 34,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to add '{First}' to the text prediction language model. Language tag - {Second}; HRESULT - {hr}. The word has still been added to the spell checker custom dictionary.,{First} | {Second} | {hr}
 34,0,Warning,Application,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to add '{First}' to the text prediction language model. Language tag - {Second}; HRESULT - {hr}. The word has still been added to the spell checker custom dictionary.,{First} | {Second} | {hr}

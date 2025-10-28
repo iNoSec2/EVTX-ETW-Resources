@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API is called.,{api}
 1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API is called.,{api}
 1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API is called.,{api}
+1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API is called.,{api}
 1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API is called.,{api}
 1,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Enter,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API is called.,{api}
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows 11,24H2,Pro,2024/10/2,26100.1742,{api} API returned.,{api}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API returned.,{api}
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API returned.,{api}
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API returned.,{api}
+2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API returned.,{api}
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API returned.,{api}
 2,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncSuccess,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API returned.,{api}
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows 11,24H2,Pro,2024/10/2,26100.1742,{api} API failed by {result},{api} | {result}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API failed by {result},{api} | {result}
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API failed by {result},{api} | {result}
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API failed by {result},{api} | {result}
+3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API failed by {result},{api} | {result}
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API failed by {result},{api} | {result}
 3,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitSyncFailure,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API failed by {result},{api} | {result}
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows 11,24H2,Pro,2024/10/2,26100.1742,{api} API is pending completion.,{api}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API is pending completion.,{api}
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API is pending completion.,{api}
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API is pending completion.,{api}
+4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API is pending completion.,{api}
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API is pending completion.,{api}
 4,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API Pending,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API is pending completion.,{api}
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows 11,24H2,Pro,2024/10/2,26100.1742,{api} API completed.,{api}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API completed.,{api}
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API completed.,{api}
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API completed.,{api}
+5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API completed.,{api}
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API completed.,{api}
 5,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncSuccess,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API completed.,{api}
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows 11,24H2,Pro,2024/10/2,26100.1742,{api} API failed to complete by {result},{api} | {result}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows 10,1507,Pro,2015/07/29,10240.0,{api} API failed to complete by {result},{api} | {result}
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{api} API failed to complete by {result},{api} | {result}
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows 8,8,Pro,1970/01/01,9200.0,{api} API failed to complete by {result},{api} | {result}
+6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{api} API failed to complete by {result},{api} | {result}
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{api} API failed to complete by {result},{api} | {result}
 6,0,Error,Microsoft-Windows-WebServices/Tracing,APIs,API ExitAsyncFailure,API,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{api} API failed to complete by {result},{api} | {result}
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows 11,24H2,Pro,2024/10/2,26100.1742,Error occurred: {error} - {errorString},{error} | {errorString}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows 10,1507,Pro,2015/07/29,10240.0,Error occurred: {error} - {errorString},{error} | {errorString}
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error occurred: {error} - {errorString},{error} | {errorString}
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows 8,8,Pro,1970/01/01,9200.0,Error occurred: {error} - {errorString},{error} | {errorString}
+7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Error occurred: {error} - {errorString},{error} | {errorString}
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Error occurred: {error} - {errorString},{error} | {errorString}
 7,0,Error,Microsoft-Windows-WebServices/Tracing,Errors,Error,Error,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Error occurred: {error} - {errorString},{error} | {errorString}
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows 11,24H2,Pro,2024/10/2,26100.1742,{operation} IO operation started.,{operation}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows 10,1507,Pro,2015/07/29,10240.0,{operation} IO operation started.,{operation}
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{operation} IO operation started.,{operation}
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows 8,8,Pro,1970/01/01,9200.0,{operation} IO operation started.,{operation}
+8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{operation} IO operation started.,{operation}
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{operation} IO operation started.,{operation}
 8,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Started,IO,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{operation} IO operation started.,{operation}
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows 11,24H2,Pro,2024/10/2,26100.1742,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows 10,1507,Pro,2015/07/29,10240.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows 8,8,Pro,1970/01/01,9200.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
+9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
 9,0,Information,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Completed,IO,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{operation} IO operation completed; {size} bytes transferred.,{operation} | {size}
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows 11,24H2,Pro,2024/10/2,26100.1742,{operation} IO operation failed: {error},{operation} | {error}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows 10,1507,Pro,2015/07/29,10240.0,{operation} IO operation failed: {error},{operation} | {error}
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{operation} IO operation failed: {error},{operation} | {error}
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows 8,8,Pro,1970/01/01,9200.0,{operation} IO operation failed: {error},{operation} | {error}
+10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{operation} IO operation failed: {error},{operation} | {error}
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{operation} IO operation failed: {error},{operation} | {error}
 10,0,Error,Microsoft-Windows-WebServices/Tracing,IO Operations,IO Failed,IO,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{operation} IO operation failed: {error},{operation} | {error}
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows 11,24H2,Pro,2024/10/2,26100.1742,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows 10,1507,Pro,2015/07/29,10240.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows 8,8,Pro,1970/01/01,9200.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
+11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
 11,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Binary,BinaryMessage,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Sending message - bin  (id: {correlationId}): {message},{correlationId} | {message}
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows 10,1507,Pro,2015/07/29,10240.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows 8,8,Pro,1970/01/01,9200.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
+12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
 12,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Binary,BinaryMessage,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Received message - bin (id: {correlationId}): {message},{correlationId} | {message}
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows 8,8,Pro,1970/01/01,9200.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
+13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
 13,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending  Message - Text,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Sending message        (id: {correlationId}): {message},{correlationId} | {message}
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received message       (id: {correlationId}): {message},{correlationId} | {message}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows 8,8,Pro,1970/01/01,9200.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
+14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
 14,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message - Text,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Received message       (id: {correlationId}): {message},{correlationId} | {message}
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Sending Message Start  (id: {correlationId}),{correlationId}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Sending Message Start  (id: {correlationId}),{correlationId}
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending Message Start  (id: {correlationId}),{correlationId}
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows 8,8,Pro,1970/01/01,9200.0,Sending Message Start  (id: {correlationId}),{correlationId}
+15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sending Message Start  (id: {correlationId}),{correlationId}
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Sending Message Start  (id: {correlationId}),{correlationId}
 15,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Start,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Sending Message Start  (id: {correlationId}),{correlationId}
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Sending Message Stop   (id: {correlationId}),{correlationId}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Sending Message Stop   (id: {correlationId}),{correlationId}
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending Message Stop   (id: {correlationId}),{correlationId}
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows 8,8,Pro,1970/01/01,9200.0,Sending Message Stop   (id: {correlationId}),{correlationId}
+16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sending Message Stop   (id: {correlationId}),{correlationId}
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Sending Message Stop   (id: {correlationId}),{correlationId}
 16,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Sending Message  Stop,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Sending Message Stop   (id: {correlationId}),{correlationId}
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received Message Start (id: {correlationId}),{correlationId}
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Received Message Start (id: {correlationId}),{correlationId}
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received Message Start (id: {correlationId}),{correlationId}
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows 8,8,Pro,1970/01/01,9200.0,Received Message Start (id: {correlationId}),{correlationId}
+17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received Message Start (id: {correlationId}),{correlationId}
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Received Message Start (id: {correlationId}),{correlationId}
 17,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Start,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Received Message Start (id: {correlationId}),{correlationId}
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received Message Stop  (id: {correlationId}),{correlationId}
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Received Message Stop  (id: {correlationId}),{correlationId}
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received Message Stop  (id: {correlationId}),{correlationId}
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows 8,8,Pro,1970/01/01,9200.0,Received Message Stop  (id: {correlationId}),{correlationId}
+18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received Message Stop  (id: {correlationId}),{correlationId}
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Received Message Stop  (id: {correlationId}),{correlationId}
 18,0,Verbose,Microsoft-Windows-WebServices/Tracing,Message Exchange,Received Message Stop,Message,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Received Message Stop  (id: {correlationId}),{correlationId}
 19,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Sending HTTP headers,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Sending following HTTP headers: {length},{length}
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Sending HTTP headers,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Sending following HTTP headers: {length},{length}
 19,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Sending HTTP headers,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending following HTTP headers: {length},{length}
 19,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Sending HTTP headers,Message,Windows 8,8,Pro,1970/01/01,9200.0,Sending following HTTP headers: {length},{length}
+19,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Sending HTTP headers,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sending following HTTP headers: {length},{length}
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 11,24H2,Pro,2024/10/2,26100.1742,Receiving following HTTP headers: {length},{length}
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 11,22H2,Pro,2022/12/20,22621.963,Receiving following HTTP headers: {length},{length}
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 11,22H2,Pro,2022/11/15,22621.819,Receiving following HTTP headers: {length},{length}
@@ -4875,6 +4894,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 10,1507,Pro,2015/07/29,10240.0,Receiving following HTTP headers: {length},{length}
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Receiving following HTTP headers: {length},{length}
 20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows 8,8,Pro,1970/01/01,9200.0,Receiving following HTTP headers: {length},{length}
+20,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Receiving HTTP headers,Message,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Receiving following HTTP headers: {length},{length}
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 11,24H2,Pro,2024/10/2,26100.1742,Trace: {traceString},{traceString}
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 11,22H2,Pro,2022/12/20,22621.963,Trace: {traceString},{traceString}
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 11,22H2,Pro,2022/11/15,22621.819,Trace: {traceString},{traceString}
@@ -5117,3 +5137,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 10,1507,Pro,2015/07/29,10240.0,Trace: {traceString},{traceString}
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Trace: {traceString},{traceString}
 21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows 8,8,Pro,1970/01/01,9200.0,Trace: {traceString},{traceString}
+21,0,Information,Microsoft-Windows-WebServices/Tracing,APIs,Trace,Error,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Trace: {traceString},{traceString}

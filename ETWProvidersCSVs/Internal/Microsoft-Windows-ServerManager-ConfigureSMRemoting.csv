@@ -49,6 +49,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 256,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -GET begins,
 256,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -GET begins,
 256,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -GET begins,
+256,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -GET begins,
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -GET ends,
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -GET ends,
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -GET ends,
@@ -99,6 +100,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -GET ends,
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -GET ends,
 257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -GET ends,
+257,0,Information,Debug,Configure-SMRemoting.exe -GET,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -GET ends,
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE begins,
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE begins,
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE begins,
@@ -149,6 +151,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE begins,
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE begins,
 512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE begins,
+512,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE begins,
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE ends,
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE ends,
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE ends,
@@ -199,6 +202,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE ends,
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE ends,
 513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE ends,
+513,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE ends,
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
@@ -249,6 +253,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
 514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
+514,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE invokes PowerShell.exe Enable-PSRemoting,
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
@@ -299,6 +304,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
 515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
+515,0,Information,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE completes PowerShell.exe Enable-PSRemoting,
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
@@ -349,6 +355,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
 516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
+516,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting reported error {ErrorCode},{ErrorCode}
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
@@ -399,6 +406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
 517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
+517,0,Error,Debug,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE Enable-PSRemoting execution failed with errorcode {ErrorCode},{ErrorCode}
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -DISABLE begins,
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -DISABLE begins,
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -DISABLE begins,
@@ -449,6 +457,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -DISABLE begins,
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -DISABLE begins,
 768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -DISABLE begins,
+768,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -DISABLE begins,
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -DISABLE ends,
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -DISABLE ends,
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -DISABLE ends,
@@ -499,6 +508,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -DISABLE ends,
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -DISABLE ends,
 769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -DISABLE ends,
+769,0,Information,Debug,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -DISABLE ends,
 1024,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
 1024,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
 1024,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
@@ -549,6 +559,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
 1024,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
 1024,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
+1024,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe writes to STDOUT: {ptzMessage},{ptzMessage}
 1025,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
 1025,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
 1025,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
@@ -599,6 +610,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
 1025,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
 1025,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
+1025,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe writes to STDERR: {ptzMessage},{ptzMessage}
 1026,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
 1026,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
 1026,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
@@ -649,6 +661,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
 1026,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
 1026,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
+1026,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WinRM API invoked: action {Action} parameters {Parameters},{Action} | {Parameters}
 1027,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
 1027,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
 1027,0,Information,Debug,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
@@ -699,6 +712,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
 1027,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
 1027,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
+1027,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WinRM API return: action {Action} parameters {Parameters} ErrorCode {ErrorCode} result {Result},{Action} | {Parameters} | {ErrorCode} | {Result}
 1281,0,Warning,Operational,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
 1281,0,Warning,Operational,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
 1281,0,Warning,Operational,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
@@ -749,6 +763,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1281,0,Warning,Operational,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
 1281,0,Warning,Operational,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
 1281,0,Warning,Operational,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
+1281,0,Warning,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The testability key HKLM\\SOFTWARE\\Microsoft\\ServerManager\\Testability is present. This registry key is for debugging purposes only and can override the normal behavior of Configure-SMRemoting.exe. It is recommended to delete this key.,
 1282,0,Error,Operational,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
 1282,0,Error,Operational,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
 1282,0,Error,Operational,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
@@ -799,6 +814,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1282,0,Error,Operational,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
 1282,0,Error,Operational,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
 1282,0,Error,Operational,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
+1282,0,Error,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe failed due to an internal error. Error: {ptzMessage},{ptzMessage}
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
@@ -849,6 +865,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
 1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
+1283,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE failed to enable the WinRM service. Error: {ptzMessage},{ptzMessage}
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
@@ -899,6 +916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
 1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
+1284,0,Error,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE failed to enable remoting. Error: {ptzMessage},{ptzMessage}
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
@@ -949,6 +967,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
 1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
+1285,0,Error,Operational,Configure-SMRemoting.exe -DISABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -DISABLE failed to disable remoting. Error: {ptzMessage},{ptzMessage}
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
@@ -999,6 +1018,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
 1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
+1286,0,Information,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE generated this message while enabling PowerShell remoting: {ptzMessage},{ptzMessage}
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
@@ -1049,3 +1069,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
 1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}
+1287,0,Warning,Operational,Configure-SMRemoting.exe -ENABLE,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configure-SMRemoting.exe -ENABLE enabled remoting; but generated this error message while attempting to enable PowerShell remoting: {ptzMessage},{ptzMessage}

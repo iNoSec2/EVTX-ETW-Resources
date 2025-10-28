@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -484,6 +485,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -727,6 +729,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -970,6 +973,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -1213,6 +1217,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -1456,6 +1461,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -1699,6 +1705,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -1942,6 +1949,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -2185,6 +2193,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 9,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -2428,6 +2437,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 10,0,Information,Microsoft Windows ELS Hyphenation Analytic Channel,,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 11,0,Warning,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Lexicon {String} not found. Using fallback hyphenator.,{String}
 11,0,Warning,,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Lexicon {String} not found. Using fallback hyphenator.,{String}
@@ -2671,4 +2681,5 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Warning,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Lexicon {String} not found. Using fallback hyphenator.,{String}
 11,0,Warning,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Lexicon {String} not found. Using fallback hyphenator.,{String}
 11,0,Warning,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Lexicon {String} not found. Using fallback hyphenator.,{String}
+11,0,Warning,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Lexicon {String} not found. Using fallback hyphenator.,{String}
 11,0,Warning,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Lexicon {String} not found. Using fallback hyphenator.,{String}

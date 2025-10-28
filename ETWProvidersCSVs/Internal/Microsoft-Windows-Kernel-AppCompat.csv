@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-Kernel-AppCompat/General,,,RegWrpAccessDenied,Windows 10,1507,Pro,2015/07/29,10240.0,The executable {ExecutablePath} received an access denied error when trying to modify the registry key {RegistryPath}.,{ExecutablePath} | {RegistryPath}
 1,0,Information,Microsoft-Windows-Kernel-AppCompat/General,,,RegWrpAccessDenied,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The executable {ExecutablePath} received an access denied error when trying to modify the registry key {RegistryPath}.,{ExecutablePath} | {RegistryPath}
 1,0,Information,Microsoft-Windows-Kernel-AppCompat/General,,,RegWrpAccessDenied,Windows 8,8,Pro,1970/01/01,9200.0,The executable {ExecutablePath} received an access denied error when trying to modify the registry key {RegistryPath}.,{ExecutablePath} | {RegistryPath}
+1,0,Information,Microsoft-Windows-Kernel-AppCompat/General,,,RegWrpAccessDenied,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The executable {ExecutablePath} received an access denied error when trying to modify the registry key {RegistryPath}.,{ExecutablePath} | {RegistryPath}
 2,0,Information,Microsoft-Windows-Kernel-AppCompat/Performance,CompatCacheInit,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 2,0,Information,Microsoft-Windows-Kernel-AppCompat/Performance,CompatCacheInit,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 2,0,Information,Microsoft-Windows-Kernel-AppCompat/Performance,CompatCacheInit,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,

@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
 4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
 4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
+4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
 4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
 4001,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID failed to compute {FilePathBuffer} process attributes. Status {Status}.,{FilePathBuffer} | {Status}
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,AppID Driver failed to start. Status {Status}.,{Status}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID Driver failed to start. Status {Status}.,{Status}
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID Driver failed to start. Status {Status}.,{Status}
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID Driver failed to start. Status {Status}.,{Status}
+4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID Driver failed to start. Status {Status}.,{Status}
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID Driver failed to start. Status {Status}.,{Status}
 4002,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID Driver failed to start. Status {Status}.,{Status}
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,AppID Service failed to start. Status {Status}.,{Status}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID Service failed to start. Status {Status}.,{Status}
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID Service failed to start. Status {Status}.,{Status}
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID Service failed to start. Status {Status}.,{Status}
+4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID Service failed to start. Status {Status}.,{Status}
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID Service failed to start. Status {Status}.,{Status}
 4003,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID Service failed to start. Status {Status}.,{Status}
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
+4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
 4004,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID Service is called to verify {FilePathBuffer} signature. Status {Status}.,{FilePathBuffer} | {Status}
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,AppID certificate store verification failed. Status {Status}.,{Status}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID certificate store verification failed. Status {Status}.,{Status}
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID certificate store verification failed. Status {Status}.,{Status}
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID certificate store verification failed. Status {Status}.,{Status}
+4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID certificate store verification failed. Status {Status}.,{Status}
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,AppID certificate store verification failed. Status {Status}.,{Status}
 4005,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,AppID certificate store verification failed. Status {Status}.,{Status}
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4006,0,Information,Microsoft-Windows-AppID/Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4007,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,AppID encountered a failure from discache.sys. Status {Status}.,{Status}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4007,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,AppID encountered a failure from discache.sys. Status {Status}.,{Status}
 4007,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AppID encountered a failure from discache.sys. Status {Status}.,{Status}
 4007,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,AppID encountered a failure from discache.sys. Status {Status}.,{Status}
+4007,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AppID encountered a failure from discache.sys. Status {Status}.,{Status}
 4008,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Function call error: {CallingFunctionName} called {FunctionCallName} which returned unsuccessfully (Error code: {Status}).,{CallingFunctionName} | {FunctionCallName} | {Status}
 4008,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Function call error: {CallingFunctionName} called {FunctionCallName} which returned unsuccessfully (Error code: {Status}).,{CallingFunctionName} | {FunctionCallName} | {Status}
 4008,0,Error,Microsoft-Windows-AppID/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Function call error: {CallingFunctionName} called {FunctionCallName} which returned unsuccessfully (Error code: {Status}).,{CallingFunctionName} | {FunctionCallName} | {Status}

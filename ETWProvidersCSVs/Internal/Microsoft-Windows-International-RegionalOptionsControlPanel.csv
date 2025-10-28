@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
 15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
 15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
+15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
 15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
 15000,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed their user locale to '{LocaleName}'.,{LocaleName}
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
+15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
 15001,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user reset all customizations for the user locale '{LocaleName}' to the system default.,{LocaleName}
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
+15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
 15002,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed the user locale setting '{LCType}' to '{Data}'.,{LCType} | {Data}
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
+15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
 15003,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed their alternate sort to '{LocaleName}'.,{LocaleName}
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user changed their calendar to '{String}'.,{String}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed their calendar to '{String}'.,{String}
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed their calendar to '{String}'.,{String}
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed their calendar to '{String}'.,{String}
+15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed their calendar to '{String}'.,{String}
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed their calendar to '{String}'.,{String}
 15004,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed their calendar to '{String}'.,{String}
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user changed their TwoDigitYearMax to {String}.,{String}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed their TwoDigitYearMax to {String}.,{String}
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed their TwoDigitYearMax to {String}.,{String}
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed their TwoDigitYearMax to {String}.,{String}
+15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed their TwoDigitYearMax to {String}.,{String}
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed their TwoDigitYearMax to {String}.,{String}
 15005,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed their TwoDigitYearMax to {String}.,{String}
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user changed their location preference (GeoID) to {Value}.,{Value}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user changed their location preference (GeoID) to {Value}.,{Value}
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user changed their location preference (GeoID) to {Value}.,{Value}
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user changed their location preference (GeoID) to {Value}.,{Value}
+15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user changed their location preference (GeoID) to {Value}.,{Value}
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user changed their location preference (GeoID) to {Value}.,{Value}
 15006,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user changed their location preference (GeoID) to {Value}.,{Value}
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The system locale was changed to '{LocaleName}'.,{LocaleName}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
+15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
 15007,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The system locale was changed to '{LocaleName}'.,{LocaleName}
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,,
+15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 15008,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,,
+15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 15009,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
+15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
 15010,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user has changed their UI Language to '{LocaleName}'.,{LocaleName}
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
+15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
 15011,0,Information,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The user has changed their UI Language fallback order to '{LocaleName}'.,{LocaleName}
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
+16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16000,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to change UI Language to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
+16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16001,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to change UI Language fallback order to '{LocaleName}'. Status code is: {StatusCode}.,{LocaleName} | {StatusCode}
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
+16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
 16002,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The system locale could not be changed to '{LocaleName}'.,{LocaleName}
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3901,5 +3916,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 8,8,Pro,1970/01/01,9200.0,,
+16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 16003,0,Error,Operational,Region and Language control panel,RLOUI operations,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,

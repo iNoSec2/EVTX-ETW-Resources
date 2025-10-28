@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{Message},{Message}
 1,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Message},{Message}
 1,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,{Message},{Message}
+1,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Message},{Message}
 1,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Message},{Message}
 1,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{Message},{Message}
 1,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,{Message},{Message}
@@ -493,6 +494,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 201,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to initialize Server Application:  {Message},{Message}
 201,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to initialize Server Application:  {Message},{Message}
 201,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to initialize Server Application:  {Message},{Message}
+201,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to initialize Server Application:  {Message},{Message}
 201,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to initialize Server Application:  {Message},{Message}
 201,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to initialize Server Application:  {Message},{Message}
 201,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to initialize Server Application:  {Message},{Message}
@@ -738,6 +740,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 202,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to initialize Server Application,
 202,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to initialize Server Application,
 202,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to initialize Server Application,
+202,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to initialize Server Application,
 202,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to initialize Server Application,
 202,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to initialize Server Application,
 202,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to initialize Server Application,
@@ -983,6 +986,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 203,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server Control has no memory for reader reference object,
 203,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server Control has no memory for reader reference object,
 203,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server Control has no memory for reader reference object,
+203,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server Control has no memory for reader reference object,
 203,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server Control has no memory for reader reference object,
 203,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Server Control has no memory for reader reference object,
 203,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Server Control has no memory for reader reference object,
@@ -1228,6 +1232,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 204,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server Control failed to create shutdown event: {Message},{Message}
 204,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server Control failed to create shutdown event: {Message},{Message}
 204,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server Control failed to create shutdown event: {Message},{Message}
+204,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server Control failed to create shutdown event: {Message},{Message}
 204,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server Control failed to create shutdown event: {Message},{Message}
 204,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Server Control failed to create shutdown event: {Message},{Message}
 204,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Server Control failed to create shutdown event: {Message},{Message}
@@ -1473,6 +1478,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 205,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader object has duplicate name: {Reader},{Reader}
 205,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader object has duplicate name: {Reader},{Reader}
 205,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader object has duplicate name: {Reader},{Reader}
+205,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader object has duplicate name: {Reader},{Reader}
 205,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader object has duplicate name: {Reader},{Reader}
 205,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader object has duplicate name: {Reader},{Reader}
 205,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader object has duplicate name: {Reader},{Reader}
@@ -1718,6 +1724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 206,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to create global reader change event,
 206,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to create global reader change event,
 206,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to create global reader change event,
+206,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create global reader change event,
 206,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to create global reader change event,
 206,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to create global reader change event,
 206,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Failed to create global reader change event,
@@ -1968,6 +1975,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 306,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Command Dispatch sees reader in invalid state,
 306,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Command Dispatch sees reader in invalid state,
 306,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Command Dispatch sees reader in invalid state,
+306,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Command Dispatch sees reader in invalid state,
 306,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Command Dispatch sees reader in invalid state,
 306,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Command Dispatch sees reader in invalid state,
 306,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Command Dispatch sees reader in invalid state,
@@ -2216,6 +2224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 401,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader shutdown exception from eject smart card command,
 401,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader shutdown exception from eject smart card command,
 401,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader shutdown exception from eject smart card command,
+401,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader shutdown exception from eject smart card command,
 401,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader shutdown exception from eject smart card command,
 401,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader shutdown exception from eject smart card command,
 401,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader shutdown exception from eject smart card command,
@@ -2461,6 +2470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 402,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader disconnect encountered invalid availability status,
 402,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader disconnect encountered invalid availability status,
 402,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader disconnect encountered invalid availability status,
+402,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader disconnect encountered invalid availability status,
 402,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader disconnect encountered invalid availability status,
 402,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader disconnect encountered invalid availability status,
 402,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader disconnect encountered invalid availability status,
@@ -2706,6 +2716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 403,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader disconnect encountered invalid availability status,
 403,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader disconnect encountered invalid availability status,
 403,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader disconnect encountered invalid availability status,
+403,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader disconnect encountered invalid availability status,
 403,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader disconnect encountered invalid availability status,
 403,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader disconnect encountered invalid availability status,
 403,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader disconnect encountered invalid availability status,
@@ -2951,6 +2962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 406,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader object cannot Identify Device,
 406,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader object cannot Identify Device,
 406,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader object cannot Identify Device,
+406,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader object cannot Identify Device,
 406,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader object cannot Identify Device,
 406,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader object cannot Identify Device,
 406,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader object cannot Identify Device,
@@ -3196,6 +3208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 410,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader connect encountered invalid availability status,
 410,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader connect encountered invalid availability status,
 410,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader connect encountered invalid availability status,
+410,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader connect encountered invalid availability status,
 410,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader connect encountered invalid availability status,
 410,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader connect encountered invalid availability status,
 410,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader connect encountered invalid availability status,
@@ -3441,6 +3454,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 411,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader disconnect encountered invalid availability status,
 411,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader disconnect encountered invalid availability status,
 411,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader disconnect encountered invalid availability status,
+411,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader disconnect encountered invalid availability status,
 411,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader disconnect encountered invalid availability status,
 411,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader disconnect encountered invalid availability status,
 411,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader disconnect encountered invalid availability status,
@@ -3686,6 +3700,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 412,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader free encountered invalid availability status,
 412,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader free encountered invalid availability status,
 412,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader free encountered invalid availability status,
+412,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader free encountered invalid availability status,
 412,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader free encountered invalid availability status,
 412,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader free encountered invalid availability status,
 412,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader free encountered invalid availability status,
@@ -3932,6 +3947,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 502,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Initialization of Service Status Critical Section failed,
 502,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Initialization of Service Status Critical Section failed,
 502,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Initialization of Service Status Critical Section failed,
+502,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Initialization of Service Status Critical Section failed,
 502,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Initialization of Service Status Critical Section failed,
 502,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Initialization of Service Status Critical Section failed,
 502,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Initialization of Service Status Critical Section failed,
@@ -4178,6 +4194,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 504,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
 504,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
 504,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
+504,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
 504,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
 504,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
 504,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Resource Manager cannot create shutdown event flag:  {Message},{Message}
@@ -4424,6 +4441,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 506,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
 506,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
 506,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
+506,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
 506,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
 506,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
 506,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager failed to register service:  {Message},{Message}
@@ -4669,6 +4687,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 507,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,No memory available for Service Status Critical Section,
 507,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,No memory available for Service Status Critical Section,
 507,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,No memory available for Service Status Critical Section,
+507,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,No memory available for Service Status Critical Section,
 507,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,No memory available for Service Status Critical Section,
 507,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,No memory available for Service Status Critical Section,
 507,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,No memory available for Service Status Critical Section,
@@ -4914,6 +4933,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 508,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 508,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 508,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+508,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 508,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 508,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 508,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -5159,6 +5179,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 509,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 509,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 509,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+509,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 509,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 509,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 509,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -5404,6 +5425,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 510,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 510,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 510,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
+510,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 510,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 510,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 510,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
@@ -5649,6 +5671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 511,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 511,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 511,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+511,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 511,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 511,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 511,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -5894,6 +5917,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 512,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 512,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 512,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
+512,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 512,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 512,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 512,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
@@ -6139,6 +6163,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 513,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 513,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 513,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+513,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 513,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 513,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 513,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -6384,6 +6409,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 514,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
 514,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
 514,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
+514,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
 514,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
 514,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
 514,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager failed to add reader {Reader}: {Message},{Reader} | {Message}
@@ -6629,6 +6655,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 515,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
 515,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
 515,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
+515,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
 515,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
 515,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
 515,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager failed to declare state:  {Message},{Message}
@@ -6874,6 +6901,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 516,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
 516,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
 516,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
+516,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
 516,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
 516,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
 516,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager Failed to declare shutdown:  {Message},{Message}
@@ -7119,6 +7147,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 517,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
 517,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
 517,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
+517,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
 517,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
 517,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
 517,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception attempting to add reader {Message},{Message}
@@ -7364,6 +7393,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 518,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 518,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 518,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+518,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 518,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 518,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 518,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -7611,6 +7641,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 521,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 521,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 521,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
+521,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 521,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 521,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 521,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
@@ -7856,6 +7887,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 522,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 522,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 522,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
+522,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 522,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 522,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
 522,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received unexpected exception from PnP event {Message},{Message}
@@ -8101,6 +8133,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 523,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 523,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 523,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
+523,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 523,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 523,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
 523,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Resource Manager received NULL handle from PnP event {Message},{Message}
@@ -8346,6 +8379,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 602,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
 602,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
 602,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
+602,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
 602,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
 602,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
 602,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,WDM Reader driver initialization cannot open reader device:  {Reader},{Reader}
@@ -8591,6 +8625,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 603,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
 603,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
 603,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
+603,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
 603,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
 603,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
 603,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,WDM Reader driver initialization has no memory available to control device {Reader},{Reader}
@@ -8836,6 +8871,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 604,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server control cannot set reader removal event:  {Message},{Message}
 604,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server control cannot set reader removal event:  {Message},{Message}
 604,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server control cannot set reader removal event:  {Message},{Message}
+604,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server control cannot set reader removal event:  {Message},{Message}
 604,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server control cannot set reader removal event:  {Message},{Message}
 604,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Server control cannot set reader removal event:  {Message},{Message}
 604,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Server control cannot set reader removal event:  {Message},{Message}
@@ -9081,6 +9117,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 605,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader object failed to create overlapped event:  {Message},{Message}
 605,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader object failed to create overlapped event:  {Message},{Message}
 605,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader object failed to create overlapped event:  {Message},{Message}
+605,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader object failed to create overlapped event:  {Message},{Message}
 605,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader object failed to create overlapped event:  {Message},{Message}
 605,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader object failed to create overlapped event:  {Message},{Message}
 605,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader object failed to create overlapped event:  {Message},{Message}
@@ -9326,6 +9363,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 606,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader object failed to create removal event:  {Message},{Message}
 606,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader object failed to create removal event:  {Message},{Message}
 606,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader object failed to create removal event:  {Message},{Message}
+606,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader object failed to create removal event:  {Message},{Message}
 606,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader object failed to create removal event:  {Message},{Message}
 606,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader object failed to create removal event:  {Message},{Message}
 606,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader object failed to create removal event:  {Message},{Message}
@@ -9571,6 +9609,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 607,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader object failed to start monitor thread:  {Message},{Message}
 607,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader object failed to start monitor thread:  {Message},{Message}
 607,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader object failed to start monitor thread:  {Message},{Message}
+607,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader object failed to start monitor thread:  {Message},{Message}
 607,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader object failed to start monitor thread:  {Message},{Message}
 607,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader object failed to start monitor thread:  {Message},{Message}
 607,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader object failed to start monitor thread:  {Message},{Message}
@@ -9816,6 +9855,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 608,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader monitor failed to create power down timer: {Message},{Message}
 608,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader monitor failed to create power down timer: {Message},{Message}
 608,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader monitor failed to create power down timer: {Message},{Message}
+608,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader monitor failed to create power down timer: {Message},{Message}
 608,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader monitor failed to create power down timer: {Message},{Message}
 608,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader monitor failed to create power down timer: {Message},{Message}
 608,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader monitor failed to create power down timer: {Message},{Message}
@@ -10061,6 +10101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 609,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader monitor failed to create overlapped event:  {Message},{Message}
 609,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader monitor failed to create overlapped event:  {Message},{Message}
 609,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader monitor failed to create overlapped event:  {Message},{Message}
+609,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader monitor failed to create overlapped event:  {Message},{Message}
 609,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader monitor failed to create overlapped event:  {Message},{Message}
 609,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader monitor failed to create overlapped event:  {Message},{Message}
 609,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader monitor failed to create overlapped event:  {Message},{Message}
@@ -10306,6 +10347,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 610,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 610,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 610,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
+610,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 610,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 610,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message}  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 610,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Reader '{Reader}' rejected IOCTL {IOCTL}: {Message},{Reader} | {IOCTL} | {Message}
@@ -10551,6 +10593,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 611,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Reader initialization failed,
 611,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Reader initialization failed,
 611,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Reader initialization failed,
+611,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Reader initialization failed,
 611,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Reader initialization failed,
 611,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Reader initialization failed,
 611,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Smart Card Reader initialization failed,
@@ -10796,6 +10839,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 612,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
 612,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
 612,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
+612,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
 612,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
 612,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
 612,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader insertion monitor error retry threshold reached:  {Message},{Message}
@@ -11041,6 +11085,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 615,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
 615,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
 615,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
+615,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
 615,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
 615,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
 615,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader removal monitor error retry threshold reached:  {Message},{Message}
@@ -11286,6 +11331,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 616,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
 616,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
 616,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
+616,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
 616,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
 616,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
 616,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader monitor '{Reader}' received uncaught error code:  {Message},{Reader} | {Message}
@@ -11531,6 +11577,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 617,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
 617,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
 617,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
+617,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
 617,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
 617,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
 617,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Reader monitor '{Reader}' exception -- exiting thread,{Reader}
@@ -11776,6 +11823,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 618,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
 618,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
 618,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
+618,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
 618,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
 618,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager encountered an unrecoverable internal error.,
 619,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
@@ -12020,6 +12068,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 619,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 619,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 619,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
+619,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 619,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 619,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Reader '{Reader}' has not responded to IOCTL {IOCTL} in {Message} seconds.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{Reader} | {IOCTL} | {Message} | {CommandHeader}
 620,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
@@ -12264,6 +12313,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 620,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
 620,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
 620,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
+620,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
 620,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
 620,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Smart Card Resource Manager was unable to cancel IOCTL {IOCTL} for reader '{Reader}': {Message}  The reader may no longer be responding.  If this error persists; your smart card or reader may not be functioning correctly.Command Header: {CommandHeader},{IOCTL} | {Reader} | {Message} | {CommandHeader}
 621,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Server Control failed to access start event: {Message},{Message}
@@ -12508,6 +12558,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 621,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server Control failed to access start event: {Message},{Message}
 621,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server Control failed to access start event: {Message},{Message}
 621,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server Control failed to access start event: {Message},{Message}
+621,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server Control failed to access start event: {Message},{Message}
 621,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server Control failed to access start event: {Message},{Message}
 621,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Server Control failed to access start event: {Message},{Message}
 622,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Server Control failed to access stop event: {Message},{Message}
@@ -12752,6 +12803,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 622,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server Control failed to access stop event: {Message},{Message}
 622,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server Control failed to access stop event: {Message},{Message}
 622,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server Control failed to access stop event: {Message},{Message}
+622,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server Control failed to access stop event: {Message},{Message}
 622,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server Control failed to access stop event: {Message},{Message}
 622,0,,,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Server Control failed to access stop event: {Message},{Message}
 623,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The card in Smart Card Reader '{Reader}' has been reset because an application held an exclusive transaction on the card for {Timeout} seconds without activity.  If this error persists; the application may not be functioning correctly.Process ID: {PID},{Reader} | {Timeout} | {PID}
@@ -12996,6 +13048,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 623,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The card in Smart Card Reader '{Reader}' has been reset because an application held an exclusive transaction on the card for {Timeout} seconds without activity.  If this error persists; the application may not be functioning correctly.Process ID: {PID},{Reader} | {Timeout} | {PID}
 623,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The card in Smart Card Reader '{Reader}' has been reset because an application held an exclusive transaction on the card for {Timeout} seconds without activity.  If this error persists; the application may not be functioning correctly.Process ID: {PID},{Reader} | {Timeout} | {PID}
 623,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The card in Smart Card Reader '{Reader}' has been reset because an application held an exclusive transaction on the card for {Timeout} seconds without activity.  If this error persists; the application may not be functioning correctly.Process ID: {PID},{Reader} | {Timeout} | {PID}
+623,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The card in Smart Card Reader '{Reader}' has been reset because an application held an exclusive transaction on the card for {Timeout} seconds without activity.  If this error persists; the application may not be functioning correctly.Process ID: {PID},{Reader} | {Timeout} | {PID}
 2148532225,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,An internal consistency check failed.,
 2148532226,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The action was cancelled by an SCardCancel request.,
 2148532227,0,,,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,The supplied handle was invalid.,

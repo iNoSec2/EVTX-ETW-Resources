@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Start,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,win:Start,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 2,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,Stop,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 2,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:ExecuteImage,win:Stop,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 3,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Start,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 3,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,win:Start,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -976,6 +979,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,Stop,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:InitializeRegistry,win:Stop,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1221,6 +1225,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 5,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Start,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,win:Start,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1466,6 +1471,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 6,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,Stop,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 6,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:SetupExecuteList,win:Stop,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1711,6 +1717,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 7,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Start,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 7,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,win:Start,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -1956,6 +1963,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 8,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,Stop,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 8,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteList,win:Stop,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2201,6 +2209,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 9,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Start,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 9,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,win:Start,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2446,6 +2455,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 10,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,Stop,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 10,0,win:Informational,Microsoft-Windows-Subsys-SMSS/Operational,smss:ProcessFileRenames,win:Stop,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2691,6 +2701,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows 8,8,Pro,1970/01/01,9200.0,,
+11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 11,0,Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 11,0,win:Verbose,Microsoft-Windows-Subsys-SMSS/Operational,smss:FileRename,,smss:Diagnostics,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -2936,6 +2947,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
 12,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
 12,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
+12,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
 12,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
 12,0,Error,System,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,The crash dump file could not be created due to a lack of free space on the destination drive. Increasing the amount of free space on the destination drive may help prevent this error.,
 13,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has started.,{CurrentRunLevel} | {TargetRunLevel}
@@ -3180,6 +3192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has started.,{CurrentRunLevel} | {TargetRunLevel}
 13,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has started.,{CurrentRunLevel} | {TargetRunLevel}
 13,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has started.,{CurrentRunLevel} | {TargetRunLevel}
+13,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has started.,{CurrentRunLevel} | {TargetRunLevel}
 14,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
 14,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
 14,0,Information,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
@@ -3422,6 +3435,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
 14,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
 14,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
+14,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level has ended successfully.,{CurrentRunLevel} | {TargetRunLevel}
 15,0,Error,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 15,0,Error,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 15,0,Error,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
@@ -3664,6 +3678,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 15,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 15,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
+15,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was failed by {AgentName} with the following error: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 16,0,Warning,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 16,0,Warning,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 16,0,Warning,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
@@ -3906,6 +3921,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Warning,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 16,0,Warning,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 16,0,Warning,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
+16,0,Warning,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A run level switch from the {CurrentRunLevel} level to the {TargetRunLevel} level was succeeded by {AgentName} with the following warning: {Error}For more details; please refer to events logged by this agent.,{CurrentRunLevel} | {TargetRunLevel} | {AgentName} | {Error}
 17,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A platform binary was successfully executed.,
 17,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,A platform binary was successfully executed.,
 17,0,Information,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,A platform binary was successfully executed.,
@@ -4148,6 +4164,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A platform binary was successfully executed.,
 17,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A platform binary was successfully executed.,
 17,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,A platform binary was successfully executed.,
+17,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A platform binary was successfully executed.,
 18,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,An attempt to execute a platform binary failed with error code {Status}.,{Status}
 18,0,Information,System,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,An attempt to execute a platform binary failed with error code {Status}.,{Status}
 18,0,Information,System,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,An attempt to execute a platform binary failed with error code {Status}.,{Status}
@@ -4390,6 +4407,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,An attempt to execute a platform binary failed with error code {Status}.,{Status}
 18,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An attempt to execute a platform binary failed with error code {Status}.,{Status}
 18,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,An attempt to execute a platform binary failed with error code {Status}.,{Status}
+18,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An attempt to execute a platform binary failed with error code {Status}.,{Status}
 19,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteNoPnpSyncList,Start,smss:Diagnostics,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 19,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteNoPnpSyncList,Start,smss:Diagnostics,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 19,0,Information,Microsoft-Windows-Subsys-SMSS/Operational,smss:BootExecuteNoPnpSyncList,Start,smss:Diagnostics,Windows 11,22H2,Pro,2022/11/15,22621.819,,

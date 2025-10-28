@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8,8,Pro,1970/01/01,9200.0,,
+2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 2,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8,8,Pro,1970/01/01,9200.0,,
+3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 3,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 8,8,Pro,1970/01/01,9200.0,,
+5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 5,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Enter,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 8,8,Pro,1970/01/01,9200.0,,
+6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 6,0,Information,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Info,Exit,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 7,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,InputPin_Receive: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 8,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,ProcessInput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 9,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,ProcessInput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 10,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,ProcessOutput_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 11,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,ProcessOutput_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 12,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,DeviceIo_Start: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
@@ -3169,5 +3181,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 10,1507,Pro,2015/07/29,10240.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 8,8,Pro,1970/01/01,9200.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
+13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}
 13,0,Verbose,Microsoft-Windows-DirectShow-KernelSupport/Performance,KSProxy Buffer,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,DeviceIo_Complete: Pointer = {Buffer}; Timestamp = {TimeStamp},{Buffer} | {TimeStamp}

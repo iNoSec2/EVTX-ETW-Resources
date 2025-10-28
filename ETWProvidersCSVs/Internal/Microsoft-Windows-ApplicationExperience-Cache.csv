@@ -1,8 +1,10 @@
 Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition,Date,Build,Event Message,Event Fields
 1,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheLookup,,,Windows 8,8,Pro,1970/01/01,9200.0,Lookup counter [{CacheLookupCounter}]; Hit counter [{CacheHitCounter}]; File path [{FilePath}],{CacheLookupCounter} | {CacheHitCounter} | {FilePath}
+1,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheLookup,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Lookup counter [{CacheLookupCounter}]; Hit counter [{CacheHitCounter}]; File path [{FilePath}],{CacheLookupCounter} | {CacheHitCounter} | {FilePath}
 1,0,Information,,AeCacheLookup,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1,0,Information,,AeCacheLookup,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 2,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheInsert,,,Windows 8,8,Pro,1970/01/01,9200.0,Insert counter [{CacheInsertCounter}]; Update counter [{CacheUpdateCounter}]; File path [{FilePath}],{CacheInsertCounter} | {CacheUpdateCounter} | {FilePath}
+2,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheInsert,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Insert counter [{CacheInsertCounter}]; Update counter [{CacheUpdateCounter}]; File path [{FilePath}],{CacheInsertCounter} | {CacheUpdateCounter} | {FilePath}
 2,0,Information,,AeCacheInsert,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 2,0,Information,,AeCacheInsert,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 3,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{OperationalMessage},{OperationalMessage}
@@ -247,6 +249,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{OperationalMessage},{OperationalMessage}
 3,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{OperationalMessage},{OperationalMessage}
 3,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheRemove,,,Windows 8,8,Pro,1970/01/01,9200.0,Remove counter [{CacheRemoveCounter}]; File path [{FilePath}],{CacheRemoveCounter} | {FilePath}
+3,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheRemove,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Remove counter [{CacheRemoveCounter}]; File path [{FilePath}],{CacheRemoveCounter} | {FilePath}
 3,0,Information,,AeCacheRemove,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 3,0,Information,,AeCacheRemove,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{InfoMessage},{InfoMessage}
@@ -491,6 +494,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{InfoMessage},{InfoMessage}
 4,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{InfoMessage},{InfoMessage}
 4,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheClear,,,Windows 8,8,Pro,1970/01/01,9200.0,Clear counter [{CacheClearCounter}],{CacheClearCounter}
+4,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Analytic,AeCacheClear,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Clear counter [{CacheClearCounter}],{CacheClearCounter}
 4,0,Information,,AeCacheFlush,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,,AeCacheFlush,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 5,0,Error,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{DebugMessage},{DebugMessage}
@@ -735,6 +739,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Error,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{DebugMessage},{DebugMessage}
 5,0,Error,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{DebugMessage},{DebugMessage}
 5,0,Error,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{DebugMessage},{DebugMessage}
+5,0,Error,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{DebugMessage},{DebugMessage}
 6,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{Matches},{Matches}
 6,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,{Matches},{Matches}
 6,0,Information,Microsoft-Windows-Kernel-ApphelpCache/Debug,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,{Matches},{Matches}

@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows 10,1507,Pro,2015/07/29,10240.0,Deprecated module {FileName}.,{FileName}
 1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Deprecated module {FileName}.,{FileName}
 1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows 8,8,Pro,1970/01/01,9200.0,Deprecated module {FileName}.,{FileName}
+1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Deprecated module {FileName}.,{FileName}
 1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Deprecated module {FileName}.,{FileName}
 1,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Deprecated module {FileName}.,{FileName}
 1,0,win:Informational,Microsoft-Windows-User-Loader/Analytic,,,Deprecated dlls,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Deprecated module {FileName}.,{FileName}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows 10,1507,Pro,2015/07/29,10240.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
 2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
 2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows 8,8,Pro,1970/01/01,9200.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
+2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
 2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
 2,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Fatal user callback exception,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Process {ProcessFileNamePath} encountered a fatal user callback exception.,{ProcessFileNamePath}
 3,0,Information,Microsoft-Windows-User-Loader/Analytic,,,A dll failed to load.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Error status code {FailureReason} returned when {ProcessImagePath} attempted to load dependency {ImportDllName}.,{FailureReason} | {ProcessImagePath} | {ImportDllName}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-User-Loader/Analytic,,,A dll failed to load.,Windows 10,1507,Pro,2015/07/29,10240.0,Error status code {FailureReason} returned when {ProcessImagePath} attempted to load dependency {ImportDllName}.,{FailureReason} | {ProcessImagePath} | {ImportDllName}
 3,0,Information,Microsoft-Windows-User-Loader/Analytic,,,A dll failed to load.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error status code {FailureReason} returned when {ProcessImagePath} attempted to load dependency {ImportDllName}.,{FailureReason} | {ProcessImagePath} | {ImportDllName}
 3,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Module load failure,Windows 8,8,Pro,1970/01/01,9200.0,Module {ImportDllName} failed to load [{FailureReason}].,{ImportDllName} | {FailureReason}
+3,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Module load failure,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Module {ImportDllName} failed to load [{FailureReason}].,{ImportDllName} | {FailureReason}
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 11,24H2,Pro,2024/10/2,26100.1742,The process launches a 16 bit process.,
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 11,22H2,Pro,2022/12/20,22621.963,The process launches a 16 bit process.,
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 11,22H2,Pro,2022/11/15,22621.819,The process launches a 16 bit process.,
@@ -972,6 +975,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 10,1507,Pro,2015/07/29,10240.0,The process launches a 16 bit process.,
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The process launches a 16 bit process.,
 4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows 8,8,Pro,1970/01/01,9200.0,The process launches a 16 bit process.,
+4,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Launch 16bit application,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The process launches a 16 bit process.,
 5,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Windows component on demand.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Windows component on demand {ProcessId}.,{ProcessId}
 5,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Windows component on demand.,Windows 11,22H2,Pro,2022/12/20,22621.963,Windows component on demand {ProcessId}.,{ProcessId}
 5,0,Information,Microsoft-Windows-User-Loader/Analytic,,,Windows component on demand.,Windows 11,22H2,Pro,2022/11/15,22621.819,Windows component on demand {ProcessId}.,{ProcessId}

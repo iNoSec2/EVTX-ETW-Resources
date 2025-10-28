@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
+1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1000,0,Information,Analytic,FunDisc_GetInstanceCollection,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
+1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1001,0,Information,Analytic,FunDisc_GetInstanceCollection,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::GetInstanceCollection().  Category: {Category},{Category}
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
+1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1002,0,Information,Analytic,FunDisc_GetInstance,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
+1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1003,0,Information,Analytic,FunDisc_GetInstance,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::GetInstance().  FIID: {Function Instance ID},
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
+1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1004,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
+1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1005,0,Information,Analytic,FunDisc_CreateInstanceCollectionQuery,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::CreateInstanceCollectionQuery().  Category: {Category},{Category}
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
+1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1006,0,Information,Analytic,FunDisc_CreateInstanceQuery,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
+1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1007,0,Information,Analytic,FunDisc_CreateInstanceQuery,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::CreateInstanceQuery().  FIID: {Function Instance ID},
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
+1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1008,0,Information,Analytic,FunDisc_AddInstance,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
+1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1009,0,Information,Analytic,FunDisc_AddInstance,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::AddInstance().  Category: {Category},{Category}
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
+1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1010,0,Information,Analytic,FunDisc_RemoveInstance,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
+1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1011,0,Information,Analytic,FunDisc_RemoveInstance,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscovery::RemoveInstance().  Category: {Category},{Category}
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
+1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1012,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
+1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1013,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryExecute,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery::Execute().  Category: {Category},{Category}
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
+1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1014,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
+1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1015,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryAdvise,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery2::Advise().  Category: {Category},{Category}
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
@@ -4145,6 +4161,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
+1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1016,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
@@ -4389,6 +4406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
+1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1017,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryUnadvise,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery2::Unadvise().  Category: {Category},{Category}
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
@@ -4633,6 +4651,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
+1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1018,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
@@ -4877,6 +4896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
+1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1019,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStart,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery2::Start().  Category: {Category},{Category}
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
@@ -5121,6 +5141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
+1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1020,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
@@ -5365,6 +5386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
+1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1021,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryStop,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery2::Stop().  Category: {Category},{Category}
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
@@ -5609,6 +5631,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
+1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1022,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
@@ -5853,6 +5876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
+1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1023,0,Information,Analytic,FunDisc_FunctionInstanceCollectionQueryQueryService,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceCollectionQuery2::QueryService().  Category: {Category},{Category}
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
@@ -6097,6 +6121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
+1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1024,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
@@ -6341,6 +6366,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
+1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1025,0,Information,Analytic,FunDisc_FunctionInstanceQueryExecute,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionInstanceQuery::Execute().  Category: {Category},{Category}
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
@@ -6585,6 +6611,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
+1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1026,0,Information,Analytic,FunDisc_ProviderInitialize,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
@@ -6829,6 +6856,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
+1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1027,0,Information,Analytic,FunDisc_ProviderInitialize,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::Initialize().  Category: {Category},{Category}
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
@@ -7073,6 +7101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
+1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1028,0,Information,Analytic,FunDisc_ProviderQuery,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
@@ -7317,6 +7346,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
+1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1029,0,Information,Analytic,FunDisc_ProviderQuery,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::Query().  Category: {Category},{Category}
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
@@ -7561,6 +7591,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
+1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1030,0,Information,Analytic,FunDisc_ProviderEndQuery,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
@@ -7805,6 +7836,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
+1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1031,0,Information,Analytic,FunDisc_ProviderEndQuery,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::EndQuery().  Category: {Category},{Category}
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
@@ -8049,6 +8081,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
+1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1032,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
@@ -8293,6 +8326,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
+1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1033,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreValidateAccess,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreValidateAccess().  FIID: {Function Instance ID},
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
@@ -8537,6 +8571,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
+1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1034,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
@@ -8781,6 +8816,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
+1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1035,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreOpen,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreOpen().  FIID: {Function Instance ID},
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
@@ -9025,6 +9061,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
+1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1036,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
@@ -9269,6 +9306,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
+1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1037,0,Information,Analytic,FunDisc_ProviderInstancePropertyStoreFlush,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::InstancePropertyStoreFlush().  FIID: {Function Instance ID},
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
@@ -9513,6 +9551,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
+1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1038,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
@@ -9757,6 +9796,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
+1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1039,0,Information,Analytic,FunDisc_ProviderInstanceQueryService,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::InstanceQueryService().  FIID: {Function Instance ID},
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
@@ -10001,6 +10041,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
+1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1040,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
@@ -10245,6 +10286,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
+1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1041,0,Information,Analytic,FunDisc_ProviderInstanceReleased,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IFunctionDiscoveryProvider::InstanceReleased().  FIID: {Function Instance ID},
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
@@ -10489,6 +10531,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
+1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1042,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
@@ -10733,6 +10776,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
+1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1043,0,Information,Analytic,FunDisc_ProviderPublishingCreateInstance,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IProviderPublishing::CreateInstance().  Category: {Category},{Category}
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
@@ -10977,6 +11021,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
+1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1044,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
@@ -11221,6 +11266,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
+1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1045,0,Information,Analytic,FunDisc_ProviderPublishingRemoveInstance,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End IProviderPublishing::RemoveInstance().  Category: {Category},{Category}
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
@@ -11465,6 +11511,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
+1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1046,0,Information,Analytic,FunDisc_ProviderQueryService,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
@@ -11709,6 +11756,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
+1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1047,0,Information,Analytic,FunDisc_ProviderQueryService,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End Provider IServiceProvider::QueryService().  Category: {Category},{Category}
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
@@ -11953,6 +12001,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
+1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1048,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
@@ -12197,6 +12246,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
+1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1049,0,Information,Analytic,FunDisc_ProviderPropertiesGetCount,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End Provider IProviderProperties::GetCount().  FIID: {Function Instance ID},
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
@@ -12441,6 +12491,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
+1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1050,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
@@ -12685,6 +12736,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
+1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1051,0,Information,Analytic,FunDisc_ProviderPropertiesGetAt,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End Provider IProviderProperties::GetAt().  FIID: {Function Instance ID},
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
@@ -12929,6 +12981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
+1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1052,0,Information,Analytic,FunDisc_PropertiesGetValue,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
@@ -13173,6 +13226,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
+1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1053,0,Information,Analytic,FunDisc_PropertiesGetValue,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End Provider IProviderProperties::GetValue().  FIID: {Function Instance ID},
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
@@ -13417,6 +13471,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
+1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1054,0,Information,Analytic,FunDisc_PropertiesSetValue,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
@@ -13661,6 +13716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
+1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1055,0,Information,Analytic,FunDisc_PropertiesSetValue,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,End Provider IProviderProperties::SetValue().  FIID: {Function Instance ID},
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Begin asyncronous query.  Category: {Category},{Category}
@@ -13905,6 +13961,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Begin asyncronous query.  Category: {Category},{Category}
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Begin asyncronous query.  Category: {Category},{Category}
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Begin asyncronous query.  Category: {Category},{Category}
+1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Begin asyncronous query.  Category: {Category},{Category}
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Begin asyncronous query.  Category: {Category},{Category}
 1056,0,Information,Analytic,FunDisc_AsyncQuery,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Begin asyncronous query.  Category: {Category},{Category}
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Asynchronous query complete.  Category: {Category},{Category}
@@ -14149,5 +14206,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Asynchronous query complete.  Category: {Category},{Category}
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Asynchronous query complete.  Category: {Category},{Category}
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Asynchronous query complete.  Category: {Category},{Category}
+1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Asynchronous query complete.  Category: {Category},{Category}
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Asynchronous query complete.  Category: {Category},{Category}
 1057,0,Information,Analytic,FunDisc_AsyncQuery,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Asynchronous query complete.  Category: {Category},{Category}

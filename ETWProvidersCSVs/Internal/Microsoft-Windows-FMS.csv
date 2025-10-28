@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,1,Error,System,FMS DLL initialization,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS DLL initialization failed,
 1000,1,Error,System,FMS DLL initialization,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS DLL initialization failed,
 1000,1,Error,System,FMS DLL initialization,Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS DLL initialization failed,
+1000,1,Error,System,FMS DLL initialization,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS DLL initialization failed,
 1000,1,Error,System,FMS DLL initialization,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS DLL initialization failed,
 1000,1,Error,System,FMS DLL initialization,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS DLL initialization failed,
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS API entry for: {ApiName},{ApiName}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS API entry for: {ApiName},{ApiName}
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS API entry for: {ApiName},{ApiName}
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows 8,8,Pro,1970/01/01,9200.0,FMS API entry for: {ApiName},{ApiName}
+2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS API entry for: {ApiName},{ApiName}
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS API entry for: {ApiName},{ApiName}
 2015,0,Information,Microsoft-Windows-FMS/Analytic,FMS API entry call,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS API entry for: {ApiName},{ApiName}
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS API exit for: {ApiName},{ApiName}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS API exit for: {ApiName},{ApiName}
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS API exit for: {ApiName},{ApiName}
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows 8,8,Pro,1970/01/01,9200.0,FMS API exit for: {ApiName},{ApiName}
+2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS API exit for: {ApiName},{ApiName}
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS API exit for: {ApiName},{ApiName}
 2016,0,Information,Microsoft-Windows-FMS/Analytic,FMS API exit call,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS API exit for: {ApiName},{ApiName}
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
+30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 30000,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
+30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 30001,0,Information,Microsoft-Windows-FMS/Analytic,PerfTrack_DisplayFmsInit,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -1461,6 +1466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40000,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,NameResolution,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -1705,6 +1711,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40001,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -1949,6 +1956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40002,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GetFontNameTable Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -2193,6 +2201,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40003,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -2437,6 +2446,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40004,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Record Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -2681,6 +2691,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40005,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40006,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Name Strings Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -3169,6 +3181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40007,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -3413,6 +3426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40008,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,Get Font Data Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -3657,6 +3671,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40009,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -3901,6 +3916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,FMS ETW: {ApiName},{ApiName}
 40010,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,GdiGetFontRealizationInfo Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,FMS ETW: {ApiName},{ApiName}
 40011,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,FmsErrorMessage,,Windows 11,24H2,Pro,2024/10/2,26100.1742,FMS ETW: {ApiName},{ApiName}
@@ -4145,3 +4161,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40011,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,FmsErrorMessage,,Windows 10,1507,Pro,2015/07/29,10240.0,FMS ETW: {ApiName},{ApiName}
 40011,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,FmsErrorMessage,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,FMS ETW: {ApiName},{ApiName}
 40011,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,FmsErrorMessage,,Windows 8,8,Pro,1970/01/01,9200.0,FMS ETW: {ApiName},{ApiName}
+40011,0,Information,Microsoft-Windows-FMS/Analytic,ETW Debug Msg,FmsErrorMessage,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,FMS ETW: {ApiName},{ApiName}

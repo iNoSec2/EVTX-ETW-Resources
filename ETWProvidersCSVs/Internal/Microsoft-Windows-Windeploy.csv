@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Windeploy.exe is running.,
 1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windeploy.exe is running.,
 1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Windeploy.exe is running.,
+1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windeploy.exe is running.,
 1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windeploy.exe is running.,
 1001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Start,Performance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windeploy.exe is running.,
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,Windeploy.exe exiting with response {Response} and status {ErrorCode}.,{Response} | {ErrorCode}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
+1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Windeploy/Analytic,Run Windeploy,Stop,Performance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Windeploy.exe exiting with status {ErrorCode}.,{ErrorCode}
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,Launching external process '{CommandLine}'.,{CommandLine}
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Launching '{CommandLine}'.,{CommandLine}
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Launching '{CommandLine}'.,{CommandLine}
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Launching '{CommandLine}'.,{CommandLine}
+2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Launching '{CommandLine}'.,{CommandLine}
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Launching '{CommandLine}'.,{CommandLine}
 2001,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Start,Performance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Launching '{CommandLine}'.,{CommandLine}
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,External process '{Command}' exited with status {ExitCode}.,{Command} | {ExitCode}
@@ -973,6 +976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,External process exited with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,External process exited with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,External process exited with status {ErrorCode}.,{ErrorCode}
+2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,External process exited with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,External process exited with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,External process exited with status {ErrorCode}.,{ErrorCode}
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to start external process '{Command}' with status {ExitCode}.,{Command} | {ExitCode}
@@ -1217,6 +1221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
+2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
 2003,0,Information,Microsoft-Windows-Windeploy/Analytic,Launch and wait for external process,Stop,Performance,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to start external process with status {ErrorCode}.,{ErrorCode}
 3001,0,Information,Microsoft-Windows-Windeploy/Analytic,Run user-provided script,Start,Performance,Windows 11,24H2,Pro,2024/10/2,26100.1742,Running user-provided script: '{CommandLine}'.,{CommandLine}

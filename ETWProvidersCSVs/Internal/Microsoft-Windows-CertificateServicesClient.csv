@@ -241,6 +241,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 1,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+1,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 1,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 1,0,win:Informational,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 2,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+2,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 2,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 2,0,win:Informational,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,,
@@ -731,6 +733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 3,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+3,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 3,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 4,0,Information,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
 4,0,Information,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
+4,0,Information,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,0,Information,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 4,0,Information,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 501,0,Warning,Application,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
@@ -1219,6 +1223,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 501,0,Warning,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
 501,0,Warning,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
 501,0,Warning,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
+501,0,Warning,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
 501,0,Warning,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
 501,0,Warning,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
 501,0,win:Warning,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client is triggered with bad parameters: {Parameter}.,{Parameter}
@@ -1464,6 +1469,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 502,0,Warning,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
 502,0,Warning,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
 502,0,Warning,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
+502,0,Warning,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
 502,0,Warning,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
 502,0,Warning,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
 502,0,win:Warning,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client failed to register Group Policy notifications. Error code: {ErrorCode}.,{ErrorCode}
@@ -1709,6 +1715,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1001,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1001,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
+1001,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1001,0,Error,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1001,0,Error,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1001,0,win:Error,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client failed to load Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
@@ -1954,6 +1961,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1002,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1002,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
+1002,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1002,0,Error,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1002,0,Error,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1002,0,win:Error,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client cannot find the required interface in Provider {ProviderName}. Error code {ErrorCode}.,{ProviderName} | {ErrorCode}
@@ -2199,6 +2207,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
 1003,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
 1003,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
+1003,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
 1003,0,Error,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
 1003,0,Error,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
 1003,0,win:Error,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client  failed to invoke the Providers in response to event {Flags}. Error code {ErrorCode}.,{Flags} | {ErrorCode}
@@ -2444,6 +2453,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Error,Application,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1004,0,Error,Application,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1004,0,Error,Application,,,,Windows 8,8,Pro,1970/01/01,9200.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
+1004,0,Error,Application,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1004,0,Error,Application,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1004,0,Error,Application,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}
 1004,0,win:Error,Application,,,,Windows Server 2008,SP2,Standard,2009/05/26,6002.0,Certificate Services Client Provider {ProviderName} raised an exception. Exception code {ErrorCode}.,{ProviderName} | {ErrorCode}

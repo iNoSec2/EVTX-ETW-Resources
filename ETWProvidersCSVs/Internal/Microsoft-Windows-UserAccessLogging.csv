@@ -49,6 +49,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 0,0,,,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 0,0,,,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 0,0,,,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+0,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,0,,,,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1,0,,,,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1,0,,,,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -99,3 +100,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,,,,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1,0,,,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1,0,,,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,

@@ -1,0 +1,571 @@
+<Providers>
+    <Provider>
+        <Name>Microsoft-Windows-WinNat</Name>
+        <Metadata>
+            <Guid>{66C07ECD-6667-43FC-93F8-05CF07F446EC}</Guid>
+            <ResourceFilePath>C:\Windows\system32\drivers\winnat.sys</ResourceFilePath>
+            <ParameterFilePath></ParameterFilePath>
+            <MessageFilePath>C:\Windows\system32\drivers\winnat.sys</MessageFilePath>
+            <HelpLink>http://go.microsoft.com/fwlink/events.asp?CoName=Microsoft%20Corporation&amp;ProdName=Microsoft%c2%ae%20Windows%c2%ae%20Operating%20System&amp;ProdVer=6.2.9200.16384&amp;FileName=winnat.sys&amp;FileVer=6.2.9200.16384</HelpLink>
+            <PublisherMessage></PublisherMessage>
+            <Channels>
+                <Channel>
+                    <Message></Message>
+                    <Path>Microsoft-Windows-WinNat/Trace</Path>
+                    <Index>0</Index>
+                    <Id>16</Id>
+                    <Imported>false</Imported>
+                </Channel>
+                <Channel>
+                    <Message>Operational</Message>
+                    <Path>Microsoft-Windows-WinNat/Oper</Path>
+                    <Index>1</Index>
+                    <Id>17</Id>
+                    <Imported>false</Imported>
+                </Channel>
+            </Channels>
+            <Levels>
+                <Level>
+                    <Message>Error</Message>
+                    <Name>win:Error</Name>
+                    <Value>2</Value>
+                </Level>
+                <Level>
+                    <Message>Information</Message>
+                    <Name>win:Informational</Name>
+                    <Value>4</Value>
+                </Level>
+                <Level>
+                    <Message>Verbose</Message>
+                    <Name>win:Verbose</Name>
+                    <Value>5</Value>
+                </Level>
+            </Levels>
+            <Tasks>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionCreate</Name>
+                    <Value>1001</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionTimerUpdate</Name>
+                    <Value>1002</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionTcpStateUpdate</Name>
+                    <Value>1003</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionTimeout</Name>
+                    <Value>1004</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionDelete</Name>
+                    <Value>1005</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatBindingCreate</Name>
+                    <Value>1006</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatBindingDelete</Name>
+                    <Value>1007</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatBindingSessionCount</Name>
+                    <Value>1008</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatTranslation</Name>
+                    <Value>1009</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatInstanceEvent</Name>
+                    <Value>1010</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatPacketFilterEvent</Name>
+                    <Value>1011</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatWFPFilterEvent</Name>
+                    <Value>1012</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatAddressPoolConfig</Name>
+                    <Value>1013</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatAddressChangeNotify</Name>
+                    <Value>1014</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatStaticBindingEvent</Name>
+                    <Value>1015</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatMemoryAllocationFailure</Name>
+                    <Value>1016</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionCreateOperational</Name>
+                    <Value>1017</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>WinNatSessionDeleteOperational</Name>
+                    <Value>1018</Value>
+                </Task>
+            </Tasks>
+            <Opcodes>
+                <Opcode>
+                    <Message>Info</Message>
+                    <Name>win:Info</Name>
+                    <Value>0</Value>
+                    <Task>0</Task>
+                </Opcode>
+            </Opcodes>
+            <Keywords>
+                <Keyword>
+                    <Message></Message>
+                    <Name>ut:Session</Name>
+                    <Value>1</Value>
+                </Keyword>
+                <Keyword>
+                    <Message></Message>
+                    <Name>ut:Binding</Name>
+                    <Value>2</Value>
+                </Keyword>
+                <Keyword>
+                    <Message></Message>
+                    <Name>ut:Translation</Name>
+                    <Value>4</Value>
+                </Keyword>
+                <Keyword>
+                    <Message></Message>
+                    <Name>ut:Configuration</Name>
+                    <Value>8</Value>
+                </Keyword>
+            </Keywords>
+        </Metadata>
+        <EventMetadata>
+            <Event>
+                <Id>1001</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionCreate</Task>
+                <Keyword>ut:Session</Keyword>
+                <Message><![CDATA[
+%7 session created. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6, Lifetime: %8 seconds, TcpState:%9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Lifetime" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpSessionState" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1002</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionTimerUpdate</Task>
+                <Keyword>ut:Session</Keyword>
+                <Message><![CDATA[
+%7 session lifetime updated. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6, Lifetime: %8 seconds, TcpState: %9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Lifetime" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpSessionState" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1003</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionTcpStateUpdate</Task>
+                <Keyword>ut:Session</Keyword>
+                <Message><![CDATA[
+%7 session state updated. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6, Lifetime: %8 seconds, TcpState: %9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Lifetime" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpSessionState" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1004</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionTimeout</Task>
+                <Keyword>ut:Session</Keyword>
+                <Message><![CDATA[
+%7 session timedout. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6, Lifetime: %8 seconds, TcpState: %9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Lifetime" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpSessionState" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1005</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionDelete</Task>
+                <Keyword>ut:Session</Keyword>
+                <Message><![CDATA[
+%7 session deleted. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6, Lifetime: %8 seconds, TcpState: %9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Lifetime" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpSessionState" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1006</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatBindingCreate</Task>
+                <Keyword>ut:Binding</Keyword>
+                <Message><![CDATA[
+%5 binding created. Internal transport addr: %2, External transport addr %4, SessionCount: %6, Configured: %7]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="SessionCount" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Configured" inType="win:Boolean" outType="xs:boolean"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1007</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatBindingDelete</Task>
+                <Keyword>ut:Binding</Keyword>
+                <Message><![CDATA[
+%5 binding deleted. Internal transport addr: %2, External transport addr %4, SessionCount: %6, Configured: %7]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="SessionCount" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Configured" inType="win:Boolean" outType="xs:boolean"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1008</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatBindingSessionCount</Task>
+                <Keyword>ut:Binding</Keyword>
+                <Message><![CDATA[
+%5 binding session count updated. Internal transport addr: %2, External transport addr %4, SessionCount: %6, Configured: %7]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="SessionCount" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Configured" inType="win:Boolean" outType="xs:boolean"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1009</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Verbose</Level>
+                <Task>WinNatTranslation</Task>
+                <Keyword>ut:Translation</Keyword>
+                <Message><![CDATA[
+Translating %8 packet from %2:%3 to %5:%6, IPID:%7. Status: %9, IcmpType: %10, IcmpCode: %11, IcmpErrorPayload: %12]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="IncomingAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IncomingSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="IncomingAddrLen"/>
+  <data name="IncomingDstAddr" inType="win:Binary" outType="win:SocketAddress" length="IncomingAddrLen"/>
+  <data name="TranslatedAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TranslatedSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="TranslatedAddrLen"/>
+  <data name="TranslatedDstAddr" inType="win:Binary" outType="win:SocketAddress" length="TranslatedAddrLen"/>
+  <data name="Identification" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+  <data name="IcmpType" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IcmpCode" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IcmpPayload" inType="win:Boolean" outType="xs:boolean"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1010</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatInstanceEvent</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+Nat Instance %1 %11 Status: %10.UdpIdleSessionTimeout: %2 sec, TcpTransientConnectionTimeout: %3, TcpEstablishedConnectionTimeout: %4, IcmpQueryTimeout: %5, TcpFilteringBehavior: %6, UdpFilteringBehavior: %7, UdpInboundRefresh: %8, Enabled: %9]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InstanceName" inType="win:UnicodeString" outType="xs:string"/>
+  <data name="UdpIdleSessionTimeout" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpTransientConnectionTimeout" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpEstablishedConnectionTimeout" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IcmpQueryTimeout" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="TcpFilteringBehavior" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="UdpFilteringBehavior" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="UdpInboundRefresh" inType="win:Boolean" outType="xs:boolean"/>
+  <data name="Enabled" inType="win:Boolean" outType="xs:boolean"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1011</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatPacketFilterEvent</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+Packet filter %12 Status: %13. Instance: %1, SrcPrefix: %3, SrcPrefixLength: %4, DstPrefix: %5, DstPrefixLength: %6, Ipv4Prefix: %7, Ipv4PrefixLength: %8, Nat64: %9, InterfaceLuid: %10]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InstanceName" inType="win:UnicodeString" outType="xs:string"/>
+  <data name="InternalPrefixAddrLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcPrefix" inType="win:Binary" outType="win:SocketAddress" length="InternalPrefixAddrLength"/>
+  <data name="InternalSrcPrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternaDstlPrefix" inType="win:Binary" outType="win:SocketAddress" length="InternalPrefixAddrLength"/>
+  <data name="InternalDstPrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IPv4Prefix" inType="win:UInt32" outType="win:IPv4"/>
+  <data name="IPv4PrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Nat64" inType="win:Boolean" outType="xs:boolean"/>
+  <data name="InterfaceLuid" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="FilterId" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1012</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatWFPFilterEvent</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+WFP filter %12 Status: %13. Instance: %1, FilterId: %11, SrcPrefix: %3, SrcPrefixLength: %4, DstPrefix: %5, DstPrefixLength: %6, Ipv4Prefix: %7, Ipv4PrefixLength: %8, Nat64: %9, InterfaceLuid: %10]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InstanceName" inType="win:UnicodeString" outType="xs:string"/>
+  <data name="InternalPrefixAddrLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcPrefix" inType="win:Binary" outType="win:SocketAddress" length="InternalPrefixAddrLength"/>
+  <data name="InternalSrcPrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternaDstlPrefix" inType="win:Binary" outType="win:SocketAddress" length="InternalPrefixAddrLength"/>
+  <data name="InternalDstPrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="IPv4Prefix" inType="win:UInt32" outType="win:IPv4"/>
+  <data name="IPv4PrefixLength" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Nat64" inType="win:Boolean" outType="xs:boolean"/>
+  <data name="InterfaceLuid" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="FilterId" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1013</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatAddressPoolConfig</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+Address pool %6 Status: %7. Instance: %1, Address: %2, StartingPort: %3, EndingPort: %4, InterfaceLuid: %5 ]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InstanceName" inType="win:UnicodeString" outType="xs:string"/>
+  <data name="Address" inType="win:UInt32" outType="win:IPv4"/>
+  <data name="StartingPort" inType="win:UInt16" outType="xs:unsignedShort"/>
+  <data name="EndingPort" inType="win:UInt16" outType="xs:unsignedShort"/>
+  <data name="InterfaceLuid" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1014</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatAddressChangeNotify</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+Address %6 notification. Address: %2, InterfaceLuid: %5 ]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InstanceName" inType="win:UnicodeString" outType="xs:string"/>
+  <data name="Address" inType="win:UInt32" outType="win:IPv4"/>
+  <data name="StartingPort" inType="win:UInt16" outType="xs:unsignedShort"/>
+  <data name="EndingPort" inType="win:UInt16" outType="xs:unsignedShort"/>
+  <data name="InterfaceLuid" inType="win:UInt64" outType="xs:unsignedLong"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1015</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Information</Level>
+                <Task>WinNatStaticBindingEvent</Task>
+                <Keyword>ut:Configuration</Keyword>
+                <Message><![CDATA[
+Static binding %6 Status: %7. Internal Source: %2, External Source: %4, Protocol: %5]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Action" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="Status" inType="win:UInt32" outType="win:NTStatus"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1016</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-WinNat/Trace</Channel>
+                <Level>Error</Level>
+                <Task>WinNatMemoryAllocationFailure</Task>
+                <Keyword>ut:Session ut:Binding ut:Translation ut:Configuration</Keyword>
+                <Message><![CDATA[
+Memory allocation failure: %1]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="Description" inType="win:UnicodeString" outType="xs:string"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1017</Id>
+                <Version>0</Version>
+                <Channel>Operational</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionCreateOperational</Task>
+                <Message><![CDATA[
+%7 session created. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>1018</Id>
+                <Version>0</Version>
+                <Channel>Operational</Channel>
+                <Level>Information</Level>
+                <Task>WinNatSessionDeleteOperational</Task>
+                <Message><![CDATA[
+%7 session deleted. Internal source transport addr: %2, Internal dest transport addr: %3, External source transport addr %5, External dest transport addr %6]]></Message>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="InternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="InternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="InternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="InternalAddrLen"/>
+  <data name="ExternalAddrLen" inType="win:UInt32" outType="xs:unsignedInt"/>
+  <data name="ExternalSrcAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="ExternalDstAddr" inType="win:Binary" outType="win:SocketAddress" length="ExternalAddrLen"/>
+  <data name="TransportProtocol" inType="win:UInt32" outType="xs:unsignedInt"/>
+</template>
+]]></Template>
+            </Event>
+        </EventMetadata>
+    </Provider>
+</Providers>

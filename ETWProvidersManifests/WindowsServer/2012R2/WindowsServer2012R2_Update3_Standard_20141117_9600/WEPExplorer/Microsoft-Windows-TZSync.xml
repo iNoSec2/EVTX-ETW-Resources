@@ -1,0 +1,201 @@
+<Providers>
+    <Provider>
+        <Name>Microsoft-Windows-TZSync</Name>
+        <Metadata>
+            <Guid>{3527CB55-1298-49D4-AB94-1243DB0FCAFF}</Guid>
+            <ResourceFilePath>C:\Windows\system32\tzsyncres.dll</ResourceFilePath>
+            <ParameterFilePath></ParameterFilePath>
+            <MessageFilePath>C:\Windows\system32\tzsyncres.dll</MessageFilePath>
+            <HelpLink>http://go.microsoft.com/fwlink/events.asp?CoName=Microsoft%20Corporation&amp;ProdName=Microsoft%c2%ae%20Windows%c2%ae%20Operating%20System&amp;ProdVer=6.3.9600.16384&amp;FileName=tzsyncres.dll&amp;FileVer=6.3.9600.16384</HelpLink>
+            <PublisherMessage></PublisherMessage>
+            <Channels>
+                <Channel>
+                    <Message></Message>
+                    <Path>Microsoft-Windows-TZSync/Analytic</Path>
+                    <Index>0</Index>
+                    <Id>16</Id>
+                    <Imported>false</Imported>
+                </Channel>
+                <Channel>
+                    <Message></Message>
+                    <Path>Microsoft-Windows-TZSync/Operational</Path>
+                    <Index>1</Index>
+                    <Id>17</Id>
+                    <Imported>false</Imported>
+                </Channel>
+            </Channels>
+            <Levels>
+                <Level>
+                    <Message></Message>
+                    <Name>win:Error</Name>
+                    <Value>2</Value>
+                </Level>
+                <Level>
+                    <Message></Message>
+                    <Name>win:Informational</Name>
+                    <Value>4</Value>
+                </Level>
+            </Levels>
+            <Tasks>
+                <Task>
+                    <Message></Message>
+                    <Name>Initialization</Name>
+                    <Guid>{3840A662-0E34-43C4-BAE8-1AF27F4216D3}</Guid>
+                    <Value>1</Value>
+                </Task>
+                <Task>
+                    <Message></Message>
+                    <Name>Conversion</Name>
+                    <Guid>{A556BCE0-2F30-471E-B810-815AF95E780F}</Guid>
+                    <Value>2</Value>
+                </Task>
+            </Tasks>
+            <Opcodes>
+                <Opcode>
+                    <Message></Message>
+                    <Name>win:Info</Name>
+                    <Value>0</Value>
+                    <Task>0</Task>
+                </Opcode>
+                <Opcode>
+                    <Message></Message>
+                    <Name>win:Start</Name>
+                    <Value>1</Value>
+                    <Task>0</Task>
+                </Opcode>
+                <Opcode>
+                    <Message></Message>
+                    <Name>win:Stop</Name>
+                    <Value>2</Value>
+                    <Task>0</Task>
+                </Opcode>
+            </Opcodes>
+            <Keywords>
+            </Keywords>
+        </Metadata>
+        <EventMetadata>
+            <Event>
+                <Id>1</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Informational</Level>
+                <Opcode>win:Start</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>2</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Informational</Level>
+                <Opcode>win:Stop</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>3</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Initialization</Task>
+                <Opcode>win:Start</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>4</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Initialization</Task>
+                <Opcode>win:Stop</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>5</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Conversion</Task>
+                <Opcode>win:Start</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>6</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Conversion</Task>
+                <Opcode>win:Stop</Opcode>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>7</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Conversion</Task>
+                <Opcode>win:Start</Opcode>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="TimeZoneId" inType="win:UnicodeString" outType="xs:string"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>8</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Analytic</Channel>
+                <Level>win:Informational</Level>
+                <Task>Conversion</Task>
+                <Opcode>win:Stop</Opcode>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="TimeZoneId" inType="win:UnicodeString" outType="xs:string"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>9</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Error</Level>
+                <Task>Initialization</Task>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>10</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Error</Level>
+                <Task>Conversion</Task>
+                <Template><![CDATA[
+<template xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <data name="TimeZoneId" inType="win:UnicodeString" outType="xs:string"/>
+</template>
+]]></Template>
+            </Event>
+            <Event>
+                <Id>11</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Error</Level>
+                <Task>Conversion</Task>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+            <Event>
+                <Id>12</Id>
+                <Version>0</Version>
+                <Channel>Microsoft-Windows-TZSync/Operational</Channel>
+                <Level>win:Error</Level>
+                <Template><![CDATA[
+]]></Template>
+            </Event>
+        </EventMetadata>
+    </Provider>
+</Providers>

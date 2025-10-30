@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
+1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the SPB class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Simple Peripheral Bus WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
+1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the SPB class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Simple Peripheral Bus WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -726,6 +728,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1002,1,Information,Analytic,Unload of the SPB class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -969,6 +972,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1010,1,Information,Analytic,I/O operation flow through SPBCx,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1212,6 +1216,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1011,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToTarget,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1455,6 +1460,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1012,1,Information,Analytic,I/O operation flow through SPBCx,IoForwardToControllerQueue,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1698,6 +1704,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1013,1,Information,Analytic,I/O operation flow through SPBCx,IoDispatchToController,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1941,6 +1948,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1014,1,Information,Analytic,I/O operation flow through SPBCx,IoPresentToDriver,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2184,6 +2192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1015,1,Information,Analytic,I/O operation flow through SPBCx,IoComplete,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2427,6 +2436,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1016,1,Information,Analytic,I/O operation flow through SPBCx,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1017,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbData,,Windows 8,8,Pro,1970/01/01,9200.0,Data: {Data},{Data}
@@ -2672,6 +2682,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows 10,1511,Pro,1970/01/01,10586.0,Direction: {Data},{Data}
 1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows 10,1507,Pro,2015/07/29,10240.0,Direction: {Data},{Data}
 1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Direction: {Data},{Data}
+1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Direction: {Data},{Data}
 1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows 8,8,Pro,1970/01/01,9200.0,Direction: {Data},{Data}
 1018,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbDirection,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Direction: {Data},{Data}
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
@@ -2915,6 +2926,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows 10,1511,Pro,1970/01/01,10586.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows 10,1507,Pro,2015/07/29,10240.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
+1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows 8,8,Pro,1970/01/01,9200.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
 1019,1,Warning,Analytic,I/O operation flow through SPBCx,IoLockWatchdogTimeout,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Target {TargetName} has exceeded the locked IO watchdog period.,{TargetName}
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
@@ -3158,6 +3170,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows 10,1511,Pro,1970/01/01,10586.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows 10,1507,Pro,2015/07/29,10240.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
+1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows 8,8,Pro,1970/01/01,9200.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
 1020,1,Information,Analytic,D-state transition for SPB controller driver,DIrpPreprocess,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Preprocessing {DeviceState} IRP in SPBCx for controller {Controller}.,{DeviceState} | {Controller}
 1021,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStart,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Payload begin: TotalByteCount = {IoTotalByteCount}; TransferCount = {TransferCount},{IoTotalByteCount} | {TransferCount}
@@ -3401,6 +3414,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1021,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStart,,Windows 10,1511,Pro,1970/01/01,10586.0,Payload begin: TotalByteCount = {IoTotalByteCount}; TransferCount = {TransferCount},{IoTotalByteCount} | {TransferCount}
 1021,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStart,,Windows 10,1507,Pro,2015/07/29,10240.0,Payload begin: TotalByteCount = {IoTotalByteCount}; TransferCount = {TransferCount},{IoTotalByteCount} | {TransferCount}
 1021,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStart,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Payload begin: TotalByteCount = {IoTotalByteCount}; TransferCount = {TransferCount},{IoTotalByteCount} | {TransferCount}
+1021,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStart,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Payload begin: TotalByteCount = {IoTotalByteCount}; TransferCount = {TransferCount},{IoTotalByteCount} | {TransferCount}
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 11,22H2,Pro,2022/12/20,22621.963,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 11,22H2,Pro,2022/11/15,22621.819,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
@@ -3642,6 +3656,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 10,1511,Pro,1970/01/01,10586.0,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 10,1507,Pro,2015/07/29,10240.0,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
 1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
+1022,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStart,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transfer descriptor begin: Index = {TransferIndex}; Direction = {TransferDirection}; TotalByteCount = {TransferTotalByteCount},{TransferIndex} | {TransferDirection} | {TransferTotalByteCount}
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 11,22H2,Pro,2022/12/20,22621.963,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 11,22H2,Pro,2022/11/15,22621.819,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
@@ -3883,6 +3898,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 10,1511,Pro,1970/01/01,10586.0,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 10,1507,Pro,2015/07/29,10240.0,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
 1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
+1023,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdBuffer,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transfer buffer: Index = {BufferIndex}; ByteCount = {ByteCount},{BufferIndex} | {ByteCount}
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transfer descriptor end.,
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 11,22H2,Pro,2022/12/20,22621.963,Transfer descriptor end.,
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 11,22H2,Pro,2022/11/15,22621.819,Transfer descriptor end.,
@@ -4124,6 +4140,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 10,1511,Pro,1970/01/01,10586.0,Transfer descriptor end.,
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 10,1507,Pro,2015/07/29,10240.0,Transfer descriptor end.,
 1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transfer descriptor end.,
+1024,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadTdStop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transfer descriptor end.,
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Payload end.,
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 11,22H2,Pro,2022/12/20,22621.963,Payload end.,
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 11,22H2,Pro,2022/11/15,22621.819,Payload end.,
@@ -4365,3 +4382,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 10,1511,Pro,1970/01/01,10586.0,Payload end.,
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 10,1507,Pro,2015/07/29,10240.0,Payload end.,
 1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Payload end.,
+1025,1,Verbose,Analytic,I/O operation flow through SPBCx,IoSpbPayloadStop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Payload end.,

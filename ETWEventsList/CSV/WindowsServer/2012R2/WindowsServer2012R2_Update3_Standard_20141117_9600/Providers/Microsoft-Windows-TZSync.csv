@@ -1,0 +1,13 @@
+Provider,Level,Event ID,Version,Channel,Task,Opcode,Keyword,Message
+Microsoft-Windows-TZSync,win:Informational,1,0,Microsoft-Windows-TZSync/Operational,,win:Start,,
+Microsoft-Windows-TZSync,win:Informational,2,0,Microsoft-Windows-TZSync/Operational,,win:Stop,,
+Microsoft-Windows-TZSync,win:Informational,3,0,Microsoft-Windows-TZSync/Analytic,Initialization,win:Start,,
+Microsoft-Windows-TZSync,win:Informational,4,0,Microsoft-Windows-TZSync/Analytic,Initialization,win:Stop,,
+Microsoft-Windows-TZSync,win:Informational,5,0,Microsoft-Windows-TZSync/Analytic,Conversion,win:Start,,
+Microsoft-Windows-TZSync,win:Informational,6,0,Microsoft-Windows-TZSync/Analytic,Conversion,win:Stop,,
+Microsoft-Windows-TZSync,win:Informational,7,0,Microsoft-Windows-TZSync/Analytic,Conversion,win:Start,,
+Microsoft-Windows-TZSync,win:Informational,8,0,Microsoft-Windows-TZSync/Analytic,Conversion,win:Stop,,
+Microsoft-Windows-TZSync,win:Error,9,0,Microsoft-Windows-TZSync/Operational,Initialization,,,
+Microsoft-Windows-TZSync,win:Error,10,0,Microsoft-Windows-TZSync/Operational,Conversion,,,
+Microsoft-Windows-TZSync,win:Error,11,0,Microsoft-Windows-TZSync/Operational,Conversion,,,
+Microsoft-Windows-TZSync,win:Error,12,0,Microsoft-Windows-TZSync/Operational,,,,

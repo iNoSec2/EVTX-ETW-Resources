@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
 1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
 1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
+1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
 1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
 1000,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost started at URL: <{StartUrl}> until matching termination URL: <{TerminateUrl}!S!>.,{StartUrl} | {TerminateUrl}
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
+1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
 1001,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost started over at URL: <{StartUrl}>.,{StartUrl}
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
@@ -726,6 +728,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
+1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
 1002,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost about to navigate (HTTP GET) to URL: <{Url}>.,{Url}
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
@@ -969,6 +972,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
+1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
 1003,0,Information,Operational,Navigation Start,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost about to navigate (HTTP POST) to URL: <{Url}>.,{Url}
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost completed navigation to URL: <{Url}>.,{Url}
@@ -1212,6 +1216,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
+1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
 1010,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost completed navigation to URL: <{Url}>.,{Url}
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost completed document from URL: <{Url}>.,{Url}
@@ -1455,6 +1460,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost completed document from URL: <{Url}>.,{Url}
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost completed document from URL: <{Url}>.,{Url}
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost completed document from URL: <{Url}>.,{Url}
+1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost completed document from URL: <{Url}>.,{Url}
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost completed document from URL: <{Url}>.,{Url}
 1011,0,Information,Operational,Navigation Complete,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost completed document from URL: <{Url}>.,{Url}
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
@@ -1698,6 +1704,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
+1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
 1020,0,Information,Operational,Navigation Redirect,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost redirected to URL: <{RedirectedUrl}> from URL: <{OriginalUrl}!S!> with HttpStatusCode: {HttpStatusCode}.,{RedirectedUrl} | {OriginalUrl} | {HttpStatusCode}
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
@@ -1941,6 +1948,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
+1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1021,0,Information,Operational,Navigation New Window,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost about to navigate (new window) to URL: <{Url}> from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
@@ -2184,6 +2192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
+1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
 1022,0,Information,Operational,Navigation Delegate,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost about to navigate with delegation to URL: <{Url}>.,{Url}
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost created new script engine at URL: <{Url}>.,{Url}
@@ -2427,6 +2436,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
+1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
 1023,0,Information,Operational,Navigation New Script Engine,Start,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost created new script engine at URL: <{Url}>.,{Url}
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
@@ -2670,6 +2680,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
+1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1024,0,Information,Operational,Navigation New Window,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost about to launch URL: <{Url}> in browser from URL: <{ReferrerUrl}!S!>.,{Url} | {ReferrerUrl}
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
@@ -2913,6 +2924,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
+1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
 1040,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost terminated navigation at URL: <{Url}> matching termination URL: <{TerminateUrl}!S!>.,{Url} | {TerminateUrl}
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
@@ -3156,6 +3168,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
+1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
 1041,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost terminated navigation with title: <{Title}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Title} | {Url} | {TerminateUrl}
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,Navigation cancelled by user.,
@@ -3399,6 +3412,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,Navigation cancelled by user.,
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,Navigation cancelled by user.,
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Navigation cancelled by user.,
+1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Navigation cancelled by user.,
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,Navigation cancelled by user.,
 1042,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Navigation cancelled by user.,
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
@@ -3642,6 +3656,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
+1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
 1043,0,Information,Operational,Navigation Terminate,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost terminated navigation with HTTP POST data: <{Post}> at URL: <{Url}!S!> matching termination URL: <{TerminateUrl}!S!>.,{Post} | {Url} | {TerminateUrl}
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
@@ -3885,6 +3900,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
+1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
 1050,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered a navigation error at URL: <{Url}> with StatusCode: {StatusCode}.,{Url} | {StatusCode}
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
@@ -4128,6 +4144,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
+1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
 1051,0,Error,Operational,Navigation Error,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered a navigation error at URL: <{Url}> with HttpStatusCode: {HttpStatusCode}.,{Url} | {HttpStatusCode}
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
@@ -4371,6 +4388,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
+1100,0,Warning,Operational,Security Problem,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
 1100,0,Warning,Operational,Security Problem,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered a security problem: {Problem} and will retry the navigation.,{Problem}
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
@@ -4614,6 +4632,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
+1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
 1101,0,Error,Operational,Security Problem,Stop,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered a security problem: {StatusCode} and will abort the navigation,{StatusCode}
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
@@ -4857,6 +4876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
+1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1200,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost allowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
@@ -5100,6 +5120,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
+1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1201,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost disallowed UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
@@ -5343,6 +5364,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
+1202,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1202,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost used default for UrlAction: {Action} for URL: <{Url}!S!>.,{Action} | {Url}
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
@@ -5586,6 +5608,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
+1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
 1203,0,Verbose,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost prohibited UrlAction of Java permissions for URL: <{Url}>.,{Url}
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
@@ -5829,6 +5852,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
+1204,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
 1204,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost blocked credential prompt for URL: <{Url}>.,{Url}
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
@@ -6072,6 +6096,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
+1205,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
 1205,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost allowed credential silent logon for URL: <{Url}>.,{Url}
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
@@ -6315,6 +6340,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
+1206,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
 1206,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost allowed credential user prompt for URL: <{Url}>.,{Url}
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
@@ -6558,6 +6584,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
+1300,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1300,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
@@ -6801,6 +6828,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
+1301,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1301,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
@@ -7044,6 +7072,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
+1310,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1310,0,Information,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost allowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
@@ -7287,6 +7316,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
+1311,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1311,0,Warning,Operational,Security Manager,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost disallowed UrlAction for ActiveX object: {Clsid} for URL: <{Url}!S!>.,{Clsid} | {Url}
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
@@ -7530,6 +7560,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
+1400,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
 1400,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered Meta Tag: mswebdialog-title with content: <{Content}>.,{Content}
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
@@ -7773,6 +7804,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
+1401,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
 1401,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost resolved Meta Tag: mswebdialog-logo to URL: <{Url}>.,{Url}
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
@@ -8016,6 +8048,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
+1402,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
 1402,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost converted Meta Tag: mswebdialog-header-color with content: <{Content}> to value: {ConvertedValue}.,{Content} | {ConvertedValue}
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
@@ -8259,6 +8292,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
+1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
 1403,0,Warning,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost unable to convert Meta Tag: mswebdialog-header-color with content: <{Content}>.,{Content}
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
@@ -8502,6 +8536,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
+1404,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
 1404,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost resolved Meta Tag: mswebdialog-newwindowurl to URL: <{Url}>.,{Url}
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
@@ -8745,6 +8780,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
+1405,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
 1405,0,Information,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost downloaded logo image from URL: <{Url}>.,{Url}
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows 11,24H2,Pro,2024/10/2,26100.1742,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
@@ -8988,5 +9024,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows 10,1511,Pro,1970/01/01,10586.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows 10,1507,Pro,2015/07/29,10240.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
+1406,0,Error,Operational,Meta Tag,,AuthHost,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows 8,8,Pro,1970/01/01,9200.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}
 1406,0,Error,Operational,Meta Tag,,AuthHost,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,AuthHost encountered an error downloading logo image from URL: <{Url}> with Error: {StatusCode}.,{Url} | {StatusCode}

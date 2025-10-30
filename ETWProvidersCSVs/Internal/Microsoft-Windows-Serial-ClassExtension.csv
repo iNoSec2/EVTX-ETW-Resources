@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,1,Information,Analytic,Startup of the serial class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the serial class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the serial class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
+1000,1,Information,Analytic,Startup of the serial class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the serial class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1000,1,Information,Analytic,Startup of the serial class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Serial WDF class extension has started.  The control object name is {ControlDeviceName}.,{ControlDeviceName}
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
+1001,1,Error,Analytic,Startup of the serial class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1001,1,Error,Analytic,Startup of the serial class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Serial WDF class extension failed to start (error {Status}).  The control object name is {ControlDeviceName}.,{Status} | {ControlDeviceName}
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
@@ -726,6 +728,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
+1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
 1002,1,Information,Analytic,IO Control received by the serial class extension,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Received request {Request} for {IoControlCodeString},{Request} | {IoControlCodeString}
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{Request} Complete,{Request}
@@ -969,6 +972,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,{Request} Complete,{Request}
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,{Request} Complete,{Request}
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Request} Complete,{Request}
+1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Request} Complete,{Request}
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,{Request} Complete,{Request}
 1003,1,Information,Analytic,IO Control received by the serial class extension,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Request} Complete,{Request}
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
@@ -1212,6 +1216,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
+1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
 1004,1,Information,Analytic,Request received by the serial class extension,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Transmitting request {Request} for {Length} byte(s),{Request} | {Length}
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
@@ -1455,6 +1460,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
+1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
 1005,1,Information,Analytic,Request received by the serial class extension,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Receiving request {Request} for {Length} byte(s),{Request} | {Length}
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
@@ -1698,6 +1704,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
+1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
 1006,1,Information,Analytic,Request received by the serial class extension,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Completed request {Request} for {Length} byte(s) with status {Status},{Request} | {Length} | {Status}
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{Data},{Data}
@@ -1941,6 +1948,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,{Data},{Data}
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,{Data},{Data}
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Data},{Data}
+1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Data},{Data}
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,{Data},{Data}
 1007,1,Verbose,Analytic,Request received by the serial class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Data},{Data}
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
@@ -2184,5 +2192,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows 10,1511,Pro,1970/01/01,10586.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows 10,1507,Pro,2015/07/29,10240.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
+1008,1,Information,Analytic,Request received by the serial class extension,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows 8,8,Pro,1970/01/01,9200.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}
 1008,1,Information,Analytic,Request received by the serial class extension,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,EvtIoStop for request {Request} in queue {Queue}; invoke cancel,{Request} | {Queue}

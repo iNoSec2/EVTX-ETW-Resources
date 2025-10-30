@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4000,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Teredo server has successfully started.,
 4000,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Teredo server has successfully started.,
 4000,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Teredo server has successfully started.,
+4000,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Teredo server has successfully started.,
 4000,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Teredo server has successfully started.,
 4000,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Teredo server has successfully started.,
 4000,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Teredo server has successfully started.,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
 4001,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
 4001,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
+4001,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
 4001,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
 4001,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
 4001,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Teredo server has failed to start with the following error: {ErrorCode}.Teredo Reason Code: {TeredoReasonCode}.,{ErrorCode} | {TeredoReasonCode}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
 4002,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
 4002,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
+4002,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
 4002,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
 4002,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
 4002,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Teredo server primary or secondary IPv4 address is invalid. Primary IPv4 address: {Interface}. Error Code: {ErrorCode}.,{Interface} | {ErrorCode}
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
 4003,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
 4003,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
+4003,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
 4003,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
 4003,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
 4003,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Configured Teredo server name {ServerName} is invalid. Error Code: {ErrorCode}.,{ServerName} | {ErrorCode}
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
 4004,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
 4004,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
+4004,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
 4004,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
 4004,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
 4004,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Teredo server initialization has failed with the following error code {ErrorCode}.,{ErrorCode}
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4005,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Teredo server has stopped.,
 4005,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Teredo server has stopped.,
 4005,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Teredo server has stopped.,
+4005,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Teredo server has stopped.,
 4005,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Teredo server has stopped.,
 4005,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Teredo server has stopped.,
 4005,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Teredo server has stopped.,
@@ -1710,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4100,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
 4100,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
 4100,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
+4100,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
 4100,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
 4100,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
 4100,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,ISATAP router address {IsatapRouter} was set with status {ErrorCode}.,{IsatapRouter} | {ErrorCode}
@@ -1955,6 +1962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4200,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
 4200,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
 4200,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
+4200,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
 4200,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
 4200,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
 4200,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{ProtocolType} interface {Interface} with address {Address} has been brought up.,{ProtocolType} | {Interface} | {Address}
@@ -2200,6 +2208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4201,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
 4201,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
 4201,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
+4201,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
 4201,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
 4201,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
 4201,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{ProtocolType} interface {Interface} is no longer active.,{ProtocolType} | {Interface}
@@ -2445,6 +2454,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4202,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
 4202,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
 4202,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
+4202,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
 4202,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
 4202,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
 4202,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Unable to update the IP address on {ProtocolType} interface {Interface}. Update Type: {UpdateType}. Error Code: {ErrorCode}.,{ProtocolType} | {Interface} | {UpdateType} | {ErrorCode}
@@ -2690,6 +2700,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4300,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
 4300,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
 4300,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
+4300,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
 4300,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
 4300,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
 4300,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IP-HTTPS server has successfully started using the server URL {ServerUrl}.,{ServerUrl}
@@ -2935,6 +2946,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4301,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IP-HTTPS server has stopped.,
 4301,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IP-HTTPS server has stopped.,
 4301,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IP-HTTPS server has stopped.,
+4301,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IP-HTTPS server has stopped.,
 4301,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,IP-HTTPS server has stopped.,
 4301,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IP-HTTPS server has stopped.,
 4301,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IP-HTTPS server has stopped.,
@@ -3180,6 +3192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4302,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
 4302,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
 4302,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
+4302,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
 4302,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
 4302,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
 4302,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IP-HTTPS server has failed to start with the following error: {ErrorCode}.  IP HTTPS reason code {IpHTTPSReasonCode}.,{ErrorCode} | {IpHTTPSReasonCode}
@@ -3425,6 +3438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4303,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4303,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4303,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
+4303,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4303,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4303,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4303,0,Information,Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is associated with IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
@@ -3670,6 +3684,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4304,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4304,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4304,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
+4304,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4304,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4304,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
 4304,0,Information,Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IP-HTTPS client {ClientMachineName} ({TunnelSourceIP}) is disassociated from IP address {RemoteIP}.,{ClientMachineName} | {TunnelSourceIP} | {RemoteIP}
@@ -3915,6 +3930,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4400,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
 4400,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
 4400,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
+4400,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
 4400,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
 4400,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DNS64: No matching IPv6 prefix found for IPv4 address {Translated IPv4 Address}; received for name {QuestionName} queried by client {ClientIP}.,{QuestionName} | {ClientIP}
 4500,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
@@ -4158,6 +4174,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4500,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
 4500,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
 4500,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
+4500,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
 4500,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
 4500,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DA MULTISITE: Configured DA site {SiteName}.,{SiteName}
 4501,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
@@ -4401,5 +4418,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4501,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
 4501,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
 4501,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
+4501,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
 4501,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}
 4501,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DA MULTISITE: Unconfigured DA site {SiteName}.,{SiteName}

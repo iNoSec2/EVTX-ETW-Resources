@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 99,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Creation of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 99,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creation of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 99,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creation of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
+99,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Creation of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
+100,0,Error,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Removal of node {InstancePath} failed with {ErrorCode}.,{InstancePath} | {ErrorCode}
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
@@ -722,6 +724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
+101,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Created node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
@@ -963,6 +966,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
+102,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Removed node {InstancePath} on session {SessionId}.,{InstancePath} | {SessionId}
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1204,6 +1208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+103,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1445,3 +1450,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+104,0,Information,Microsoft-Windows-SmartCard-DeviceEnum/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,

@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5001,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Sending NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5001,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Sending NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5001,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sending NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
+5001,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Sending NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
+5002,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Reciving NDIS Wan Packet ({FragmentSize} bytes),{FragmentSize}
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Event: {param1},{param1}
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Event: {param1},{param1}
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Event: {param1},{param1}
@@ -722,3 +724,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Event: {param1},{param1}
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Event: {param1},{param1}
 5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Event: {param1},{param1}
+5003,0,Verbose,Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Event: {param1},{param1}

@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Error,System,,,Event originating from the fdphost service,Windows 10,1511,Pro,1970/01/01,10586.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
 1000,0,Error,System,,,Event originating from the fdphost service,Windows 10,1507,Pro,2015/07/29,10240.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
 1000,0,Error,System,,,Event originating from the fdphost service,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
+1000,0,Error,System,,,Event originating from the fdphost service,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
 1000,0,Error,System,,,Event originating from the fdphost service,Windows 8,8,Pro,1970/01/01,9200.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
 1000,0,Error,System,,,Event originating from the fdphost service,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}
 1000,0,Error,System,,,Event originating from the fdphost service,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Registration of the provider {String} failed with the following error: {HRESULT}.,{String} | {HRESULT}

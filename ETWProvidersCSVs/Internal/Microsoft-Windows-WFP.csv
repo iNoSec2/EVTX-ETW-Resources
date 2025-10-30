@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 10,1511,Pro,1970/01/01,10586.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 10,1507,Pro,2015/07/29,10240.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
+1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 8,8,Pro,1970/01/01,9200.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
 1001,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}4; Layer Run-Time ID: {Timestamp}5,{Timestamp} | {Timestamp}
@@ -961,6 +962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
+1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,ut:AOAC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
 1003,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Packet Dropped - Error Code: {FailureStatus}; Filter Run-Time ID: {Timestamp}2; Layer Run-Time ID: {Timestamp}3,{FailureStatus} | {Timestamp} | {Timestamp}
@@ -1206,6 +1208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Main Mode Failure,
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Main Mode Failure,
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Main Mode Failure,
+1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Main Mode Failure,
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Main Mode Failure,
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Main Mode Failure,
 1005,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Main Mode Failure,
@@ -1677,6 +1680,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Quick Mode Failure,
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Quick Mode Failure,
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Quick Mode Failure,
+1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Quick Mode Failure,
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Quick Mode Failure,
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Quick Mode Failure,
 1007,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Quick Mode Failure,
@@ -2148,6 +2152,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Extended Mode Failure,
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Extended Mode Failure,
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Extended Mode Failure,
+1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Extended Mode Failure,
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Extended Mode Failure,
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Extended Mode Failure,
 1009,0,Information,Microsoft-Windows-IKE/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Extended Mode Failure,
@@ -2393,6 +2398,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec DoS Protection: Packet Dropped,
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec DoS Protection: Packet Dropped,
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec DoS Protection: Packet Dropped,
+1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec DoS Protection: Packet Dropped,
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec DoS Protection: Packet Dropped,
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec DoS Protection: Packet Dropped,
 1011,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec DoS Protection: Packet Dropped,
@@ -2638,6 +2644,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Main Mode SA Terminated,
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Main Mode SA Terminated,
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Main Mode SA Terminated,
+1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Main Mode SA Terminated,
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Main Mode SA Terminated,
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Main Mode SA Terminated,
 1013,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Main Mode SA Terminated,
@@ -3109,6 +3116,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Main Mode SA Established,
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Main Mode SA Established,
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Main Mode SA Established,
+1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Main Mode SA Established,
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Main Mode SA Established,
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Main Mode SA Established,
 1014,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Main Mode SA Established,
@@ -3354,6 +3362,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Main Mode SA Established,
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Main Mode SA Established,
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Main Mode SA Established,
+1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Main Mode SA Established,
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Main Mode SA Established,
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Main Mode SA Established,
 1015,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Main Mode SA Established,
@@ -3599,6 +3608,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Extended Mode and Main Mode SAs Established,
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Extended Mode and Main Mode SAs Established,
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
+1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1016,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Extended Mode and Main Mode SAs Established,
@@ -3844,6 +3854,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Extended Mode and Main Mode SAs Established,
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Extended Mode and Main Mode SAs Established,
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
+1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1017,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Extended Mode and Main Mode SAs Established,
@@ -4089,6 +4100,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Extended Mode and Main Mode SAs Established,
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Extended Mode and Main Mode SAs Established,
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
+1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1018,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Extended Mode and Main Mode SAs Established,
@@ -4334,6 +4346,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Extended Mode and Main Mode SAs Established,
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Extended Mode and Main Mode SAs Established,
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
+1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Extended Mode and Main Mode SAs Established,
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Extended Mode and Main Mode SAs Established,
 1019,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Extended Mode and Main Mode SAs Established,
@@ -4579,6 +4592,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec DoS Protection Enabled,
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec DoS Protection Enabled,
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec DoS Protection Enabled,
+1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec DoS Protection Enabled,
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec DoS Protection Enabled,
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec DoS Protection Enabled,
 1020,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec DoS Protection Enabled,
@@ -4824,6 +4838,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec DoS Protection Disabled,
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec DoS Protection Disabled,
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec DoS Protection Disabled,
+1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec DoS Protection Disabled,
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec DoS Protection Disabled,
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec DoS Protection Disabled,
 1021,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec DoS Protection Disabled,
@@ -5069,6 +5084,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
+1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
 1022,0,Information,Microsoft-Windows-WFP/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec DoS Protection failed to create state because the maximum number of entries allowed by policy has been reached,
@@ -5314,6 +5330,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Negotiation Request Initiated,
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Negotiation Request Initiated,
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Negotiation Request Initiated,
+1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Negotiation Request Initiated,
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Negotiation Request Initiated,
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Negotiation Request Initiated,
 1023,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Negotiation Request Initiated,
@@ -5559,6 +5576,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Send ISAKMP Packet,
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Send ISAKMP Packet,
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Send ISAKMP Packet,
+1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Send ISAKMP Packet,
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Send ISAKMP Packet,
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Send ISAKMP Packet,
 1024,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Send ISAKMP Packet,
@@ -5804,6 +5822,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,IPsec: Receive ISAKMP Packet,
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,IPsec: Receive ISAKMP Packet,
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,IPsec: Receive ISAKMP Packet,
+1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,IPsec: Receive ISAKMP Packet,
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,IPsec: Receive ISAKMP Packet,
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,IPsec: Receive ISAKMP Packet,
 1025,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,IPsec: Receive ISAKMP Packet,
@@ -6049,6 +6068,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,WFP: User Mode Error,
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WFP: User Mode Error,
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WFP: User Mode Error,
+1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WFP: User Mode Error,
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,WFP: User Mode Error,
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WFP: User Mode Error,
 1026,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WFP: User Mode Error,
@@ -6294,6 +6314,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,An IPsec quick mode security association ended.,
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,An IPsec quick mode security association ended.,
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An IPsec quick mode security association ended.,
+1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An IPsec quick mode security association ended.,
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,An IPsec quick mode security association ended.,
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An IPsec quick mode security association ended.,
 1027,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An IPsec quick mode security association ended.,
@@ -6765,6 +6786,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,An IPsec quick mode security association was established.,
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,An IPsec quick mode security association was established.,
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An IPsec quick mode security association was established.,
+1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An IPsec quick mode security association was established.,
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,An IPsec quick mode security association was established.,
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An IPsec quick mode security association was established.,
 1028,0,Information,Microsoft-Windows-IKEDBG/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An IPsec quick mode security association was established.,
@@ -7236,6 +7258,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
+1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows 8,8,Pro,1970/01/01,9200.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
 1029,0,Information,Microsoft-Windows-WFP/Analytic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,WFP: Packet Dropped - Filter Run-Time ID: {Timestamp}0; Layer Run-Time ID: {Timestamp}1,{Timestamp} | {Timestamp}
@@ -7721,6 +7744,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
 1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
 1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
+1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
 1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
 1030,0,Warning,Microsoft-Windows-WFP/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Transaction Watchdog TimeoutThe filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.    Owning Process ID: {ProcessId}    Transaction Time (msec): {TxnTimeInMSec}    Transaction Commit Time (msec): {CommitTimeInMSec}    Configured Threshold (msec): {WatchdogTimeoutInMSec},{ProcessId} | {TxnTimeInMSec} | {CommitTimeInMSec} | {WatchdogTimeoutInMSec}
 1031,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,File path trigger increment due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
@@ -7964,6 +7988,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1031,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,File path trigger increment due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1031,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,File path trigger increment due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1031,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,File path trigger increment due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
+1031,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,File path trigger increment due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
@@ -8205,6 +8230,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
+1032,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,File path trigger decrement due to match for {FilePath}; counter value {Counter} ,{FilePath} | {Counter}
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
@@ -8446,6 +8472,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
+1033,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Modern app trigger increment due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
@@ -8687,6 +8714,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
+1034,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Modern app trigger decrement due to match for {AppSID}; counter value {Counter} ,{AppSID} | {Counter}
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
@@ -8928,6 +8956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
+1035,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
@@ -9169,6 +9198,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Modern app trigger decrement due to match for {SecurityDescriptor}; counter value {Counter} ,{SecurityDescriptor} | {Counter}
 1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
+1036,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
@@ -9410,6 +9440,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Trigger increment due to NRPT lookup; counter value {Counter},{Counter}
 1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
+1037,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
@@ -9651,6 +9682,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Trigger decrement due to NRPT idle; counter value {Counter},{Counter}
 1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
+1038,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
@@ -9892,6 +9924,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Trigger increment due to flow creation; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Connect occurred due to unexpected disconnect; counter value {Counter},{Counter}
+1039,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Connect occurred due to unexpected disconnect; counter value {Counter},{Counter}
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
@@ -10133,6 +10166,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Trigger decrement due to flow deletion; counter value: {Counter}; local address: {LocalAddress}; remote address: {RemoteAddress}; protocol {IPProtocol},{Counter} | {LocalAddress} | {RemoteAddress} | {IPProtocol}
 1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1040,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1041,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Connect occurred due to unexpected disconnect; counter value {Counter},{Counter}
 1041,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Connect occurred due to unexpected disconnect; counter value {Counter},{Counter}
 1041,0,Information,Microsoft-Windows-VPN/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Connect occurred due to unexpected disconnect; counter value {Counter},{Counter}

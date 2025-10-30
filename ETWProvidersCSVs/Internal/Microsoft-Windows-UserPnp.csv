@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,New device queued up for install.,
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,New device queued up for install.,
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,New device queued up for install.,
+7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,New device queued up for install.,
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,New device queued up for install.,
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,New device queued up for install.,
 7550,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,New device queued up for install.,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Plug and Play install scheduler has started.,
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Plug and Play install scheduler has started.,
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plug and Play install scheduler has started.,
+7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Plug and Play install scheduler has started.,
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Plug and Play install scheduler has started.,
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plug and Play install scheduler has started.,
 7551,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Plug and Play install scheduler has started.,
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Plug and Play install scheduler has exited.,
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Plug and Play install scheduler has exited.,
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plug and Play install scheduler has exited.,
+7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Plug and Play install scheduler has exited.,
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Plug and Play install scheduler has exited.,
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plug and Play install scheduler has exited.,
 7552,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_ProcessDeviceInstallBatch,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Plug and Play install scheduler has exited.,
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Plug and Play install worker thread has started.,
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Plug and Play install worker thread has started.,
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plug and Play install worker thread has started.,
+7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Plug and Play install worker thread has started.,
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Plug and Play install worker thread has started.,
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plug and Play install worker thread has started.,
 7553,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Plug and Play install worker thread has started.,
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Plug and Play install worker thread has exited.,
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Plug and Play install worker thread has exited.,
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Plug and Play install worker thread has exited.,
+7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Plug and Play install worker thread has exited.,
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Plug and Play install worker thread has exited.,
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Plug and Play install worker thread has exited.,
 7554,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Plug and Play install worker thread has exited.,
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Parent of current device is already ahead in the install queue.,
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Parent of current device is already ahead in the install queue.,
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Parent of current device is already ahead in the install queue.,
+7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Parent of current device is already ahead in the install queue.,
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Parent of current device is already ahead in the install queue.,
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Parent of current device is already ahead in the install queue.,
 7555,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Parent of current device is already ahead in the install queue.,
@@ -1710,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Current device is a volume snapshot device.,
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Current device is a volume snapshot device.,
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Current device is a volume snapshot device.,
+7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Current device is a volume snapshot device.,
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Current device is a volume snapshot device.,
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Current device is a volume snapshot device.,
 7556,0,Information,Microsoft-Windows-UserPnp/SchedulerOperations,PnP_PlugPlay_DeviceInstall,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Current device is a volume snapshot device.,
@@ -1969,6 +1976,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
+7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
 7700,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Start processing '{DIF_CODE}'.,{DIF_CODE}
@@ -2214,6 +2222,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
+7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
 7701,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_CallClassInstaller,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Finished processing '{DIF_CODE}' (Err={ErrorCode}).,{DIF_CODE} | {ErrorCode}
@@ -2459,6 +2468,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows 8,8,Pro,1970/01/01,9200.0,,
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7702,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Start,PerfTrackContext,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2704,6 +2714,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7703,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_ProcessCoreDeviceInstall,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2949,6 +2960,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7704,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3194,6 +3206,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7705,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_WaitCoreInstallMutex,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3443,6 +3456,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7708,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3688,6 +3702,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7709,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_StageDriverPackage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3949,6 +3964,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7718,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4194,6 +4210,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7719,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_Drvinst_DevicePolicyCheck,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4439,6 +4456,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7720,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4684,6 +4702,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7721,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_BuildDriverInfoList,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4929,6 +4948,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7722,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5174,6 +5194,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7723,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_PublishedInfDriverSearch,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5419,6 +5440,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7724,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5664,6 +5686,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7725,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_DevicePathDriverSearch,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5913,6 +5936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7728,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6158,6 +6182,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7729,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_SetupAPI_FolderDriverSearch,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6403,6 +6428,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7730,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6648,6 +6674,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7731,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_PlugPlay_PnpInstallDevice,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6893,6 +6920,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7800,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7138,6 +7166,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7801,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchWMIS,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7383,6 +7412,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7802,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7628,6 +7658,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7803,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_DownloadPackage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7873,6 +7904,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7804,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8118,6 +8150,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7805,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_SearchLocalIndex,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8363,6 +8396,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7806,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8608,6 +8642,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7807,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_UnpackPackage,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8853,6 +8888,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7808,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9098,6 +9134,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7809,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ParsePackageInfo,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9343,6 +9380,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7810,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9588,6 +9626,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7811,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_ScanLocalStore,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9833,6 +9872,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7812,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10078,6 +10118,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7813,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Initialize,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10323,6 +10364,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7814,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Start,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10568,6 +10610,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7815,0,Information,Microsoft-Windows-UserPnp/Performance,PnP_DMRC_Uninitialize,Stop,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10813,6 +10856,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
+7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7900,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
@@ -11058,6 +11102,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
+7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
 7901,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A new device metadata package was downloaded from WMIS. (Path: {PackagePath}),{PackagePath}
@@ -11303,6 +11348,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
+7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
 7902,0,Error,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Message} (Package: {Package} Error Code = {ErrorCode}; Win32 Error Code = {Win32ErrorCode}),{Message} | {Package} | {ErrorCode} | {Win32ErrorCode}
@@ -11548,6 +11594,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
 7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
 7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
+7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
 7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
 7903,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully parsed device metadata file. (File: {File}; Language: {Language}),{File} | {Language}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
@@ -11791,6 +11838,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
+7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
 7950,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_ParseMetadata,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A new device metadata package was discovered. (Package Name: {PackageName}; Path: {PackagePath}),{PackageName} | {PackagePath}
@@ -12036,6 +12084,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
+7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
 7951,0,Information,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,DMRC was queried for type '{QueryType}' with lookup key '{LookupKey}',{QueryType} | {LookupKey}
@@ -12281,6 +12330,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
+7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
 7952,0,Warning,Microsoft-Windows-UserPnp/DeviceMetadata/Debug,PnP_DMRC_Query,,UserPnp,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Message} (Error Code = {NetworkErrorCode}; Last Http Status Code = {HttpStatusCode}),{Message} | {NetworkErrorCode} | {HttpStatusCode}
@@ -12526,6 +12576,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
 8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
 8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
+8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
 8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
 8000,0,Warning,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A reboot is required to complete device installation of device '{DeviceId}',{DeviceId}
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12769,6 +12820,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 8001,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13012,6 +13064,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 8,8,Pro,1970/01/01,9200.0,,
 8002,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8003,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14469,6 +14522,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows 10,1511,Pro,1970/01/01,10586.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
 8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows 10,1507,Pro,2015/07/29,10240.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
 8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
+8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
 8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows 8,8,Pro,1970/01/01,9200.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
 8010,0,Information,Microsoft-Windows-UserPnp/ActionCenter,Finish Install Operations state has changed.,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Finish install operation state changed to {hc_stateid}.,{hc_stateid}
 8020,0,Information,Microsoft-Windows-UserPnp/DeviceInstall,,,UserPnp,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14828,6 +14882,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
+20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20001,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management concluded the process to install driver {DriverName} for Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
@@ -15073,6 +15128,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
+20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
 20002,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management concluded the process to remove driver {DriverName} from Device Instance ID {DeviceInstanceID} with the following status: {InstallStatus}.,{DriverName} | {DeviceInstanceID} | {InstallStatus}
@@ -15318,6 +15374,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
+20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20003,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has concluded the process to add Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
@@ -15563,6 +15620,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
+20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
 20004,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has concluded the process to remove Service {ServiceName} for Device Instance ID {DeviceInstanceID} with the following status: {AddServiceStatus}.,{ServiceName} | {DeviceInstanceID} | {AddServiceStatus}
@@ -15808,6 +15866,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
+20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20005,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has restricted the installation of Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
@@ -16053,6 +16112,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
+20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
 20006,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has deferred the process to install Device Instance ID {DeviceId} until a driver has been selected because of a Device Installation Restriction policy setting.,{DeviceId}
@@ -16298,6 +16358,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
+20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
 20007,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has removed Device Instance ID {DeviceId} because of a Device Installation Restriction policy setting.,{DeviceId}
@@ -16543,6 +16604,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
+20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
 20008,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management has not removed Device Instance ID {DeviceId} with matching policy restriction because it is a required system device.,{DeviceId}
@@ -16788,6 +16850,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
+20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}
 20009,0,Information,System,PnP_PlugPlay_DeviceInstall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Driver Management will reboot the system in {RebootTime} seconds to enforce a Device Installation Restriction policy setting.,{RebootTime}

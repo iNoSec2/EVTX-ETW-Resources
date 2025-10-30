@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 100,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
+101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
 101,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Group policy processing for audit settings could not be started. Error: {ErrorCode},{ErrorCode}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,List of applicable GPOs:{GPOList},{GPOList}
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,List of applicable GPOs:{GPOList},{GPOList}
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,List of applicable GPOs:{GPOList},{GPOList}
+102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,List of applicable GPOs:{GPOList},{GPOList}
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,List of applicable GPOs:{GPOList},{GPOList}
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,List of applicable GPOs:{GPOList},{GPOList}
 102,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,List of applicable GPOs:{GPOList},{GPOList}
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 103,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
+104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
 104,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to create local directory for downloading audit settings. Error: {ErrorCode},{ErrorCode}
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
+105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 105,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Processing audit settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
@@ -1710,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
+106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 106,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Successfully downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
@@ -1955,6 +1962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
+107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 107,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to downloaded the audit settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
@@ -2200,6 +2208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 108,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2445,6 +2454,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
+109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
 109,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to configure the audit settings on the system.Error: {ErrorCode},{ErrorCode}
@@ -2690,6 +2700,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 110,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2935,6 +2946,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
+111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 111,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
@@ -3180,6 +3192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 112,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3425,6 +3438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
+113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
 113,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Group policy processing for audit settings finished with error. Error: {ErrorCode},{ErrorCode}
@@ -3670,6 +3684,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 114,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3915,6 +3930,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
+115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 115,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
@@ -4160,6 +4176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 200,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
@@ -4403,6 +4420,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
+201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
 201,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Group policy processing for central access policy settings could not be started. Error: {ErrorCode},{ErrorCode}
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,List of applicable GPOs:{GPOList},{GPOList}
@@ -4646,6 +4664,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,List of applicable GPOs:{GPOList},{GPOList}
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,List of applicable GPOs:{GPOList},{GPOList}
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,List of applicable GPOs:{GPOList},{GPOList}
+202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,List of applicable GPOs:{GPOList},{GPOList}
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,List of applicable GPOs:{GPOList},{GPOList}
 202,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,List of applicable GPOs:{GPOList},{GPOList}
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -4889,6 +4908,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 203,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
@@ -5132,6 +5152,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
+204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
 204,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create local directory for downloading central access policy settings. Error: {ErrorCode},{ErrorCode}
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
@@ -5375,6 +5396,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
+205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 205,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Processing central access policy settings from the following GPO.Display Name: {GPOName}GPO ID: {GPOID}SYSVOL Path: {SysvolPath},{GPOName} | {GPOID} | {SysvolPath}
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
@@ -5618,6 +5640,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
+206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 206,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName},{RemoteFile} | {LocalFile} | {GPOName}
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
@@ -5861,6 +5884,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
+207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 207,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to downloaded the central access policy settings file as follows.Remote File: {RemoteFile}Local File: {LocalFile}GPO Name: {GPOName}Error: {ErrorCode},{RemoteFile} | {LocalFile} | {GPOName} | {ErrorCode}
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -6104,6 +6128,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 208,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
@@ -6347,6 +6372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
+209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
 209,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to configure the central access policy settings on the system.Error: {ErrorCode},{ErrorCode}
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -6590,6 +6616,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 210,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
@@ -6833,6 +6860,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
+211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 211,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to generate RSoP data in WMI. Error:{ErrorCode},{ErrorCode}
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7076,6 +7104,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 212,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
@@ -7319,6 +7348,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
+213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
 213,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Group policy processing for central access policy settings finished with error. Error: {ErrorCode},{ErrorCode}
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7562,6 +7592,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 214,0,Information,Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
@@ -7805,5 +7836,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
+215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}
 215,0,Error,Microsoft-Windows-Security-Audit-Configuration-Client/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to communicate the results of the operation to group policy engine. Error: {ErrorCode},{ErrorCode}

@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreAdd,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRemove,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -729,6 +731,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 3,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreCreate,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreDelete,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -1219,6 +1223,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 5,3,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreRundown,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows 10,1511,Pro,1970/01/01,10586.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows 10,1507,Pro,2015/07/29,10240.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
+6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows 8,8,Pro,1970/01/01,9200.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
 6,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,StoreCorruption,,StoreOps StoreDiag,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{FileBacked}Virtual Address: {VirtualAddress}Physical Address: {PhysicalAddress}Corruption Window Size: {Size},{FileBacked} | {VirtualAddress} | {PhysicalAddress} | {Size}
@@ -1710,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows 8,8,Pro,1970/01/01,9200.0,,
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StorePageRundown,,StoreContentsRundown,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -1955,6 +1962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionEvict,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2200,6 +2208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 9,2,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionWrite,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2445,6 +2454,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows 10,1511,Pro,1970/01/01,10586.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows 10,1507,Pro,2015/07/29,10240.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
+10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows 8,8,Pro,1970/01/01,9200.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
 10,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,UnpersistFailure,,StoreOps StoreDiag,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,A ReadyBoost cache failed to persist across boot. This may happen if the cache device was modified on another computer or if this computer was booted into another operating system.,
@@ -2690,6 +2700,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 11,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreIoStats,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -2935,6 +2946,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 12,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,GlobalStats,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3180,6 +3192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 13,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,StoreEmpty,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3425,6 +3438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 14,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRelease,,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3670,6 +3684,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Start,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -3915,6 +3930,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows 10,1511,Pro,1970/01/01,10586.0,,
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows 10,1507,Pro,2015/07/29,10240.0,,
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows 8,8,Pro,1970/01/01,9200.0,,
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 16,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionCompact,Stop,StoreOps,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4160,6 +4176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows 10,1511,Pro,1970/01/01,10586.0,,
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows 10,1507,Pro,2015/07/29,10240.0,,
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows 8,8,Pro,1970/01/01,9200.0,,
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 17,1,Information,Microsoft-Windows-Kernel-StoreMgr/Analytic,RegionRundown,,StoreContentsRundown,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -4405,6 +4422,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows 10,1511,Pro,1970/01/01,10586.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows 10,1507,Pro,2015/07/29,10240.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
+18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows 8,8,Pro,1970/01/01,9200.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
 18,1,Information,Microsoft-Windows-Kernel-StoreMgr/Operational,CacheTermination,,StoreOps StoreDiag,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Reason}Device name: {DeviceDescription}Cache path: {ObjectPath},{Reason} | {DeviceDescription} | {ObjectPath}
@@ -4650,6 +4668,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 19,0,Information,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 19,0,Information,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+19,0,Information,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 19,0,Information,,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 19,0,Information,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 19,0,Information,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,

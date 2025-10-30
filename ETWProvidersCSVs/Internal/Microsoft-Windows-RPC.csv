@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
+1,1,Error,EEInfo,RpcClientCall,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
 1,1,Error,EEInfo,RpcClientCall,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Extended Error Information: 	ProcessName: 	{ImageName} 	ComputerName: 	{ComputerName} 	ProcessId: 	{ProcessID} 	Status: 	{Status} 	DetectionLocation: 	{DetectionLocation},{ImageName} | {ComputerName} | {ProcessID} | {Status} | {DetectionLocation}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,1,Information,Debug,RpcServerCall,,,Windows 10,1511,Pro,1970/01/01,10586.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
 2,1,Information,Debug,RpcServerCall,,,Windows 10,1507,Pro,2015/07/29,10240.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
 2,1,Information,Debug,RpcServerCall,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
+2,1,Information,Debug,RpcServerCall,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
 2,1,Information,Debug,RpcServerCall,,,Windows 8,8,Pro,1970/01/01,9200.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
 2,1,Information,Debug,RpcServerCall,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
 2,1,Information,Debug,RpcServerCall,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An RPC call was blocked by an RPC firewall filter. 	ProcessName: 	{ImangeName} 	InterfaceUuid: 	{InterfaceUuid} 	RpcFilterKey:	{FilterKey},{ImangeName} | {InterfaceUuid} | {FilterKey}
@@ -732,6 +734,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,1,Error,Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
 3,1,Error,Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
 3,1,Error,Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
+3,1,Error,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
 3,1,Error,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
 3,1,Error,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
 3,1,Error,Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An error occured. 	ProcessName: 	{ImageName} 	DetectionLocation: 	{DetectionLocation} 	Status: 	{Status} 	AdditionaData: 	{AdditionalData1} 	AddtionalData: 	{AdditionalData2},{ImageName} | {DetectionLocation} | {Status} | {AdditionalData1} | {AdditionalData2}
@@ -978,6 +981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,1,Verbose,Debug,Debug,,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
 4,1,Verbose,Debug,Debug,,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
 4,1,Verbose,Debug,Debug,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
+4,1,Verbose,Debug,Debug,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
 4,1,Verbose,Debug,Debug,,,Windows 8,8,Pro,1970/01/01,9200.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
 4,1,Verbose,Debug,Debug,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
 4,1,Verbose,Debug,Debug,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,RPC Log Event. 	Subject: 	{Subject} 	Verb: 	{Verb} 	SubjectPointer: 	{SubjectPointer} 	ObjectPointer: 	{ObjectPointer} 	Data: 	{DataPointer},{Subject} | {Verb} | {SubjectPointer} | {ObjectPointer} | {DataPointer}
@@ -1223,6 +1227,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,1,Information,Debug,RpcClientCall,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
 5,1,Information,Debug,RpcClientCall,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
 5,1,Information,Debug,RpcClientCall,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
+5,1,Information,Debug,RpcClientCall,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
 5,1,Information,Debug,RpcClientCall,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
 5,1,Information,Debug,RpcClientCall,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
 5,1,Information,Debug,RpcClientCall,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Client RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	NetworkAddress 	{NetworkAddress} 	Endpoint 	{Endpoint} 	Binding Options 	{Options} 	Authentication Level 	7 	Authentication Service 	8 Impersonation Level 	9,{InterfaceUuid} | {ProcNum} | {Protocol} | {NetworkAddress} | {Endpoint} | {Options}
@@ -1468,6 +1473,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,1,Information,Debug,RpcServerCall,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
 6,1,Information,Debug,RpcServerCall,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
 6,1,Information,Debug,RpcServerCall,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
+6,1,Information,Debug,RpcServerCall,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
 6,1,Information,Debug,RpcServerCall,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
 6,1,Information,Debug,RpcServerCall,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
 6,1,Information,Debug,RpcServerCall,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server RPC call started. 	InterfaceUuid: 	{InterfaceUuid} 	OpNum: 	{ProcNum} 	Protocol: 	{Protocol} 	Endpoint 	{Endpoint} 	Authentication Level 	7 	Authentication Service 	8,{InterfaceUuid} | {ProcNum} | {Protocol} | {Endpoint}
@@ -1713,6 +1719,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,1,Information,Debug,RpcClientCall,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Client RPC call completed. 	Status: 	{Status},{Status}
 7,1,Information,Debug,RpcClientCall,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Client RPC call completed. 	Status: 	{Status},{Status}
 7,1,Information,Debug,RpcClientCall,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Client RPC call completed. 	Status: 	{Status},{Status}
+7,1,Information,Debug,RpcClientCall,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Client RPC call completed. 	Status: 	{Status},{Status}
 7,1,Information,Debug,RpcClientCall,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Client RPC call completed. 	Status: 	{Status},{Status}
 7,1,Information,Debug,RpcClientCall,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Client RPC call completed. 	Status: 	{Status},{Status}
 7,1,Information,Debug,RpcClientCall,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Client RPC call completed. 	Status: 	{Status},{Status}
@@ -1958,6 +1965,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,1,Information,Debug,RpcServerCall,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Server RPC call was completed. 	Status: 	{Status},{Status}
 8,1,Information,Debug,RpcServerCall,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Server RPC call was completed. 	Status: 	{Status},{Status}
 8,1,Information,Debug,RpcServerCall,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server RPC call was completed. 	Status: 	{Status},{Status}
+8,1,Information,Debug,RpcServerCall,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Server RPC call was completed. 	Status: 	{Status},{Status}
 8,1,Information,Debug,RpcServerCall,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Server RPC call was completed. 	Status: 	{Status},{Status}
 8,1,Information,Debug,RpcServerCall,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Server RPC call was completed. 	Status: 	{Status},{Status}
 8,1,Information,Debug,RpcServerCall,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Server RPC call was completed. 	Status: 	{Status},{Status}
@@ -2203,6 +2211,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,1,Verbose,Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
 9,1,Verbose,Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
 9,1,Verbose,Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
+9,1,Verbose,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
 9,1,Verbose,Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
 9,1,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
 9,1,Verbose,Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Call failed due to RpcRaiseException. 	Status: 	{Status},{Status}
@@ -2448,6 +2457,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,1,Verbose,Debug,Debug,,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC received a packet,
 10,1,Verbose,Debug,Debug,,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC received a packet,
 10,1,Verbose,Debug,Debug,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC received a packet,
+10,1,Verbose,Debug,Debug,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC received a packet,
 10,1,Verbose,Debug,Debug,,,Windows 8,8,Pro,1970/01/01,9200.0,RPC received a packet,
 10,1,Verbose,Debug,Debug,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC received a packet,
 10,1,Verbose,Debug,Debug,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,RPC received a packet,
@@ -2693,6 +2703,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,1,Verbose,Debug,Debug,,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC sent a packet,
 11,1,Verbose,Debug,Debug,,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC sent a packet,
 11,1,Verbose,Debug,Debug,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC sent a packet,
+11,1,Verbose,Debug,Debug,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC sent a packet,
 11,1,Verbose,Debug,Debug,,,Windows 8,8,Pro,1970/01/01,9200.0,RPC sent a packet,
 11,1,Verbose,Debug,Debug,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC sent a packet,
 11,1,Verbose,Debug,Debug,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,RPC sent a packet,
@@ -2938,6 +2949,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,1,Verbose,Debug,Debug,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC/HTTP start event,
 12,1,Verbose,Debug,Debug,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC/HTTP start event,
 12,1,Verbose,Debug,Debug,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC/HTTP start event,
+12,1,Verbose,Debug,Debug,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC/HTTP start event,
 12,1,Verbose,Debug,Debug,Start,,Windows 8,8,Pro,1970/01/01,9200.0,RPC/HTTP start event,
 12,1,Verbose,Debug,Debug,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC/HTTP start event,
 12,1,Verbose,Debug,Debug,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,RPC/HTTP start event,
@@ -3183,6 +3195,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,1,Verbose,Debug,Debug,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC/HTTP stop event,
 13,1,Verbose,Debug,Debug,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC/HTTP stop event,
 13,1,Verbose,Debug,Debug,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC/HTTP stop event,
+13,1,Verbose,Debug,Debug,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC/HTTP stop event,
 13,1,Verbose,Debug,Debug,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,RPC/HTTP stop event,
 13,1,Verbose,Debug,Debug,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC/HTTP stop event,
 13,1,Verbose,Debug,Debug,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,RPC/HTTP stop event,
@@ -3428,6 +3441,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,1,Information,Debug,FunctionTrace,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
 14,1,Information,Debug,FunctionTrace,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
 14,1,Information,Debug,FunctionTrace,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
+14,1,Information,Debug,FunctionTrace,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
 14,1,Information,Debug,FunctionTrace,Start,,Windows 8,8,Pro,1970/01/01,9200.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
 14,1,Information,Debug,FunctionTrace,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC interface registered. 	Interface UUID {InterfaceUuid}	TypeMgr {TypeMgrUuid}	Flags {Flags}	Max Calls {Max Calls},{InterfaceUuid} | {TypeMgrUuid} | {Flags}
 15,1,Information,Debug,FunctionTrace,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
@@ -3671,6 +3685,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,1,Information,Debug,FunctionTrace,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
 15,1,Information,Debug,FunctionTrace,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
 15,1,Information,Debug,FunctionTrace,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
+15,1,Information,Debug,FunctionTrace,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
 15,1,Information,Debug,FunctionTrace,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
 15,1,Information,Debug,FunctionTrace,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC interface unregistered. 	Interface UUID {InterfaceUuid}	TypeMgr,{InterfaceUuid}
 16,1,Information,Debug,FunctionTrace,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
@@ -3914,6 +3929,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,1,Information,Debug,FunctionTrace,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
 16,1,Information,Debug,FunctionTrace,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
 16,1,Information,Debug,FunctionTrace,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
+16,1,Information,Debug,FunctionTrace,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
 16,1,Information,Debug,FunctionTrace,Start,,Windows 8,8,Pro,1970/01/01,9200.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
 16,1,Information,Debug,FunctionTrace,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,RPC Server bound to protocol. 	Protocol {Protocol}	Endpoint {Endpoint},{Protocol} | {Endpoint}
 17,1,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,RPC interface re-triggering failed with error {RPC Status}.,

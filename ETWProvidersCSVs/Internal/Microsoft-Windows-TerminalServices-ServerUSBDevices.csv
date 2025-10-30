@@ -236,6 +236,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 2,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 2,0,Verbose,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+2,0,Verbose,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 2,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 2,0,Verbose,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 3,0,Verbose,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -475,6 +476,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 3,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 3,0,Verbose,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+3,0,Verbose,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 3,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 3,0,Verbose,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 4,0,Warning,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -714,6 +716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Warning,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 4,0,Warning,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 4,0,Warning,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+4,0,Warning,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 4,0,Warning,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 4,0,Warning,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 5,0,Error,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -953,6 +956,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 5,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 5,0,Error,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+5,0,Error,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 5,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 5,0,Error,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 6,0,Verbose,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1192,6 +1196,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 6,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 6,0,Verbose,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+6,0,Verbose,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 6,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 6,0,Verbose,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 7,0,Verbose,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1431,6 +1436,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 7,0,Verbose,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 7,0,Verbose,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+7,0,Verbose,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 7,0,Verbose,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 7,0,Verbose,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 8,0,Error,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1670,6 +1676,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 8,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 8,0,Error,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+8,0,Error,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 8,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 8,0,Error,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 9,0,Error,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,{message},{message}
@@ -1909,6 +1916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,{message},{message}
 9,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,{message},{message}
 9,0,Error,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,{message},{message}
+9,0,Error,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{message},{message}
 9,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{message},{message}
 9,0,Error,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,{message},{message}
 32,0,Error,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
@@ -2148,6 +2156,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
 32,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
 32,0,Error,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
+32,0,Error,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
 32,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
 32,0,Error,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Failed to create Physical Device Object for device {objectPointer}.,{objectPointer}
 34,0,Error,Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
@@ -2387,6 +2396,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 34,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
 34,0,Error,Analytic,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
 34,0,Error,Analytic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
+34,0,Error,Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
 34,0,Error,Analytic,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
 34,0,Error,Analytic,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Driver for device {objectPointer} failed to load. Timeout period has expired.,{objectPointer}
 35,0,Warning,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
@@ -2626,6 +2636,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 35,0,Warning,Admin,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
 35,0,Warning,Admin,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
 35,0,Warning,Admin,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
+35,0,Warning,Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
 35,0,Warning,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
 35,0,Warning,Admin,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Device {deviceName} is not supported on this machine; a generic driver is loaded.,{deviceName}
 36,0,Warning,Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Redirection of additional supported devices is disabled by policy.,
@@ -2865,6 +2876,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 36,0,Warning,Admin,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Redirection of additional supported devices is disabled by policy.,
 36,0,Warning,Admin,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Redirection of additional supported devices is disabled by policy.,
 36,0,Warning,Admin,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Redirection of additional supported devices is disabled by policy.,
+36,0,Warning,Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Redirection of additional supported devices is disabled by policy.,
 36,0,Warning,Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Redirection of additional supported devices is disabled by policy.,
 36,0,Warning,Admin,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Redirection of additional supported devices is disabled by policy.,
 37,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device {deviceName} is successfully installed,{deviceName}
@@ -3104,6 +3116,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 37,0,Information,Operational,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Device {deviceName} is successfully installed,{deviceName}
 37,0,Information,Operational,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Device {deviceName} is successfully installed,{deviceName}
 37,0,Information,Operational,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Device {deviceName} is successfully installed,{deviceName}
+37,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device {deviceName} is successfully installed,{deviceName}
 37,0,Information,Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Device {deviceName} is successfully installed,{deviceName}
 37,0,Information,Operational,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Device {deviceName} is successfully installed,{deviceName}
 38,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
@@ -3343,6 +3356,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 38,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 38,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 38,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
+38,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 38,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 38,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Client requests to redirect device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 39,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
@@ -3582,6 +3596,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 39,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 39,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 39,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
+39,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 39,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 39,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Client requests to remove a redirected device {objectPointer}.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 40,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
@@ -3821,6 +3836,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 40,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 40,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 40,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
+40,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 40,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 40,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Dynamic virtual channel {objectPointer} is connected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 41,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
@@ -4060,6 +4076,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 41,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 41,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 41,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
+41,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 41,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 41,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Dynamic virtual channel {objectPointer} is disconnected.  NtStatus = {ntStatus}.,{objectPointer} | {ntStatus}
 42,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
@@ -4299,6 +4316,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 42,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
 42,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
 42,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
+42,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
 42,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
 42,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Redirected device {objectPointer} name is {nameString}.,{objectPointer} | {nameString}
 43,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
@@ -4538,6 +4556,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 43,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 43,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 43,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
+43,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 43,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 43,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Redirected device {objectPointer} is starting. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 44,0,Information,Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
@@ -4777,5 +4796,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 44,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 44,0,Information,Debug,,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 44,0,Information,Debug,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
+44,0,Information,Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 44,0,Information,Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}
 44,0,Information,Debug,,,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,Redirected device {objectPointer} is stopping. NtStatus = {ntStatus},{objectPointer} | {ntStatus}

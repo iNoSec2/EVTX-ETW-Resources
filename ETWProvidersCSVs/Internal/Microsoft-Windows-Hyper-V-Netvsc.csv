@@ -239,6 +239,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,System,ProtocolNegotiate,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,The VM and host networking components successfully negotiated protocol version '{Version}',{Version}
 1,0,Information,System,ProtocolNegotiate,,,Windows 10,1507,Pro,2015/07/29,10240.0,The VM and host networking components successfully negotiated protocol version '{Version}',{Version}
 1,0,Information,System,ProtocolNegotiate,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The VM and host networking components successfully negotiated protocol version '{Version}',{Version}
+1,0,Information,System,ProtocolNegotiate,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The VM and host networking components successfully negotiated protocol version '{Version}',{Version}
 2,0,Error,System,ProtocolNegotiate,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
 2,0,Error,System,ProtocolNegotiate,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
 2,0,Error,System,ProtocolNegotiate,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
@@ -479,6 +480,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Error,System,ProtocolNegotiate,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
 2,0,Error,System,ProtocolNegotiate,,,Windows 10,1507,Pro,2015/07/29,10240.0,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
 2,0,Error,System,ProtocolNegotiate,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
+2,0,Error,System,ProtocolNegotiate,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The VM and host networking components failed to negotiate protocol version '{Version}',{Version}
 3,0,Information,System,RndisMPInit,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
 3,0,Information,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
 3,0,Information,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
@@ -719,6 +721,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,System,RndisMPInit,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
 3,0,Information,System,RndisMPInit,,,Windows 10,1507,Pro,2015/07/29,10240.0,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
 3,0,Information,System,RndisMPInit,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
+3,0,Information,System,RndisMPInit,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The miniport '{MiniportName}' was successfully initialized,{MiniportName}
 4,0,Error,System,RndisMPInit,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 4,0,Error,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 4,0,Error,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
@@ -959,6 +962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Error,System,RndisMPInit,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 4,0,Error,System,RndisMPInit,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 4,0,Error,System,RndisMPInit,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
+4,0,Error,System,RndisMPInit,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to initialize miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 5,0,Error,System,RndisMPInit,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 5,0,Error,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 5,0,Error,System,RndisMPInit,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
@@ -1199,6 +1203,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Error,System,RndisMPInit,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 5,0,Error,System,RndisMPInit,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 5,0,Error,System,RndisMPInit,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
+5,0,Error,System,RndisMPInit,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to set config parameters on miniport NIC '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 6,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' is halting,{MiniportName}
 6,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' is halting,{MiniportName}
 6,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' is halting,{MiniportName}
@@ -1439,6 +1444,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' is halting,{MiniportName}
 6,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' is halting,{MiniportName}
 6,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' is halting,{MiniportName}
+6,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' is halting,{MiniportName}
 7,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' reset,{MiniportName}
 7,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' reset,{MiniportName}
 7,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' reset,{MiniportName}
@@ -1679,6 +1685,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' reset,{MiniportName}
 7,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' reset,{MiniportName}
 7,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' reset,{MiniportName}
+7,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' reset,{MiniportName}
 8,0,Warning,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' hung,{MiniportName}
 8,0,Warning,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' hung,{MiniportName}
 8,0,Warning,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' hung,{MiniportName}
@@ -1919,6 +1926,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Warning,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' hung,{MiniportName}
 8,0,Warning,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' hung,{MiniportName}
 8,0,Warning,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' hung,{MiniportName}
+8,0,Warning,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' hung,{MiniportName}
 9,0,Warning,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' halted,{MiniportName}
 9,0,Warning,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' halted,{MiniportName}
 9,0,Warning,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' halted,{MiniportName}
@@ -2159,6 +2167,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Warning,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' halted,{MiniportName}
 9,0,Warning,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' halted,{MiniportName}
 9,0,Warning,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' halted,{MiniportName}
+9,0,Warning,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' halted,{MiniportName}
 10,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' paused,{MiniportName}
 10,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' paused,{MiniportName}
 10,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' paused,{MiniportName}
@@ -2399,6 +2408,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' paused,{MiniportName}
 10,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' paused,{MiniportName}
 10,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' paused,{MiniportName}
+10,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' paused,{MiniportName}
 11,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' restarted,{MiniportName}
 11,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' restarted,{MiniportName}
 11,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' restarted,{MiniportName}
@@ -2639,6 +2649,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' restarted,{MiniportName}
 11,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' restarted,{MiniportName}
 11,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' restarted,{MiniportName}
+11,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' restarted,{MiniportName}
 12,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' connected,{MiniportName}
 12,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' connected,{MiniportName}
 12,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' connected,{MiniportName}
@@ -2879,6 +2890,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' connected,{MiniportName}
 12,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' connected,{MiniportName}
 12,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' connected,{MiniportName}
+12,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' connected,{MiniportName}
 13,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
 13,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
 13,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
@@ -3119,6 +3131,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
 13,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
 13,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
+13,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' disconnected,{MiniportName}
 14,0,Information,System,RndisStatusChange,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
 14,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
 14,0,Information,System,RndisStatusChange,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
@@ -3359,6 +3372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Information,System,RndisStatusChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
 14,0,Information,System,RndisStatusChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
 14,0,Information,System,RndisStatusChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
+14,0,Information,System,RndisStatusChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Miniport NIC '{MiniportName}' network has changed,{MiniportName}
 15,0,Error,System,MicroportInit,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to initialize microport for miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 15,0,Error,System,MicroportInit,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to initialize microport for miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
 15,0,Error,System,MicroportInit,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to initialize microport for miniport '{MiniportName}'; Status = '{Status}',{MiniportName} | {Status}
@@ -3599,6 +3613,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,System,MicroportInit,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Microport initialization failed; reason = {Status},{Status}
 15,0,Error,System,MicroportInit,,,Windows 10,1507,Pro,2015/07/29,10240.0,Microport initialization failed; reason = {Status},{Status}
 15,0,Error,System,MicroportInit,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Microport initialization failed; reason = {Status},{Status}
+15,0,Error,System,MicroportInit,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Microport initialization failed; reason = {Status},{Status}
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
@@ -3839,6 +3854,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
 16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
+16,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,NBL {Operation} miniport NIC '{MiniportName}' is dropped. Reason: {DropReason}. Status - {Status}. ,{Operation} | {MiniportName} | {DropReason} | {Status}
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
@@ -4079,6 +4095,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
 17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
+17,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to send packet at the microport. Reason: {DropReason}. Status - {Status}. ,{DropReason} | {Status}
 18,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,NBL {Pointer} CorrelationID {CorrelationId} on IfIndex {IfIndex} direction {Direction} dropped reason {DropReason} status {Status},{Pointer} | {CorrelationId} | {IfIndex} | {Direction} | {DropReason} | {Status}
 18,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,NBL {Pointer} CorrelationID {CorrelationId} on IfIndex {IfIndex} direction {Direction} dropped reason {DropReason} status {Status},{Pointer} | {CorrelationId} | {IfIndex} | {Direction} | {DropReason} | {Status}
 18,0,Error,Microsoft-Windows-Hyper-V-NETVSC/Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,NBL {Pointer} CorrelationID {CorrelationId} on IfIndex {IfIndex} direction {Direction} dropped reason {DropReason} status {Status},{Pointer} | {CorrelationId} | {IfIndex} | {Direction} | {DropReason} | {Status}

@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows 10,1511,Pro,1970/01/01,10586.0,Request servicing time taken by SD stack.,
 100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows 10,1507,Pro,2015/07/29,10240.0,Request servicing time taken by SD stack.,
 100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Request servicing time taken by SD stack.,
+100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Request servicing time taken by SD stack.,
 100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows 8,8,Pro,1970/01/01,9200.0,Request servicing time taken by SD stack.,
 100,0,Information,Microsoft-Windows-Sdstor/Analytic,Io,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Request servicing time taken by SD stack.,
 101,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Packed Command Read Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 10,1511,Pro,1970/01/01,10586.0,Packed Command Read Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 101,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 10,1507,Pro,2015/07/29,10240.0,Packed Command Read Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 101,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Packed Command Read Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
+101,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Packed Command Read Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
@@ -724,6 +726,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 10,1511,Pro,1970/01/01,10586.0,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 10,1507,Pro,2015/07/29,10240.0,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
+102,0,Information,Microsoft-Windows-Sdstor/Analytic,Packed Command,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Packed Command Write Received.Total Count: {PackedCommandCount}Number of Packed Irps: {NumIrpsPacked},{PackedCommandCount} | {NumIrpsPacked}
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,HPI Timer Queued,
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/12/20,22621.963,HPI Timer Queued,
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/11/15,22621.819,HPI Timer Queued,
@@ -965,6 +968,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1511,Pro,1970/01/01,10586.0,HPI Timer Queued,
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1507,Pro,2015/07/29,10240.0,HPI Timer Queued,
 103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,HPI Timer Queued,
+103,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,HPI Timer Queued,
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,HPI Irp Sent,
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/12/20,22621.963,HPI Irp Sent,
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/11/15,22621.819,HPI Irp Sent,
@@ -1206,6 +1210,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1511,Pro,1970/01/01,10586.0,HPI Irp Sent,
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1507,Pro,2015/07/29,10240.0,HPI Irp Sent,
 104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,HPI Irp Sent,
+104,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,HPI Irp Sent,
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,HPI Irp Completed (0x{ResultCode}),{ResultCode}
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/12/20,22621.963,HPI Irp Completed (0x{ResultCode}),{ResultCode}
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 11,22H2,Pro,2022/11/15,22621.819,HPI Irp Completed (0x{ResultCode}),{ResultCode}
@@ -1447,6 +1452,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1511,Pro,1970/01/01,10586.0,HPI Irp Completed (0x{ResultCode}),{ResultCode}
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 10,1507,Pro,2015/07/29,10240.0,HPI Irp Completed (0x{ResultCode}),{ResultCode}
 105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,HPI Irp Completed (0x{ResultCode}),{ResultCode}
+105,0,Information,Microsoft-Windows-Sdstor/Analytic,High Priority Interrupt,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,HPI Irp Completed (0x{ResultCode}),{ResultCode}
 106,0,Information,Microsoft-Windows-Sdstor/Analytic,Flush,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Flush received,
 106,0,Information,Microsoft-Windows-Sdstor/Analytic,Flush,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Flush received,
 106,0,Information,Microsoft-Windows-Sdstor/Analytic,Flush,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Flush received,

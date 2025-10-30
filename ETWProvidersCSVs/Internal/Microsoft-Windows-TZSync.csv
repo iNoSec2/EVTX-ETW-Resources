@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Operational,,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1,0,Information,Operational,,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1,0,Information,Operational,,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1,0,win:Informational,Microsoft-Windows-TZSync/Operational,,win:Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2,0,Information,Operational,,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 2,0,Information,Operational,,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 2,0,Information,Operational,,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Operational,,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2,0,Information,Operational,,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2,0,Information,Operational,,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2,0,win:Informational,Microsoft-Windows-TZSync/Operational,,win:Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3,0,Information,Analytic,Initialization task,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3,0,Information,Analytic,Initialization task,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3,0,Information,Analytic,Initialization task,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -722,6 +724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Analytic,Initialization task,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3,0,Information,Analytic,Initialization task,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Analytic,Initialization task,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Initialization,win:Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4,0,Information,Analytic,Initialization task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4,0,Information,Analytic,Initialization task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 4,0,Information,Analytic,Initialization task,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -963,6 +966,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Analytic,Initialization task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4,0,Information,Analytic,Initialization task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Analytic,Initialization task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Initialization,win:Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 5,0,Information,Analytic,Conversion task,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 5,0,Information,Analytic,Conversion task,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 5,0,Information,Analytic,Conversion task,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1204,6 +1208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Analytic,Conversion task,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 5,0,Information,Analytic,Conversion task,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Analytic,Conversion task,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+5,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Conversion,win:Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6,0,Information,Analytic,Conversion task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 6,0,Information,Analytic,Conversion task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 6,0,Information,Analytic,Conversion task,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1445,6 +1450,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Analytic,Conversion task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6,0,Information,Analytic,Conversion task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Analytic,Conversion task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Conversion,win:Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7,0,Information,Analytic,Conversion task,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
 7,0,Information,Analytic,Conversion task,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
 7,0,Information,Analytic,Conversion task,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
@@ -1686,6 +1692,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Analytic,Conversion task,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
 7,0,Information,Analytic,Conversion task,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
 7,0,Information,Analytic,Conversion task,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Conversion started for Time Zone: {TimeZoneId},{TimeZoneId}
+7,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Conversion,win:Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8,0,Information,Analytic,Conversion task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
 8,0,Information,Analytic,Conversion task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
 8,0,Information,Analytic,Conversion task,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
@@ -1927,6 +1934,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Analytic,Conversion task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
 8,0,Information,Analytic,Conversion task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
 8,0,Information,Analytic,Conversion task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Conversion completed for Time Zone: {TimeZoneId},{TimeZoneId}
+8,0,win:Informational,Microsoft-Windows-TZSync/Analytic,Conversion,win:Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 9,0,Error,Operational,Initialization task,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 9,0,Error,Operational,Initialization task,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 9,0,Error,Operational,Initialization task,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2168,6 +2176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Error,Operational,Initialization task,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 9,0,Error,Operational,Initialization task,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Error,Operational,Initialization task,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+9,0,win:Error,Microsoft-Windows-TZSync/Operational,Initialization,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10,0,Error,Operational,Conversion task,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
 10,0,Error,Operational,Conversion task,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
 10,0,Error,Operational,Conversion task,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
@@ -2409,6 +2418,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Error,Operational,Conversion task,,,Windows 10,1511,Pro,1970/01/01,10586.0,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
 10,0,Error,Operational,Conversion task,,,Windows 10,1507,Pro,2015/07/29,10240.0,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
 10,0,Error,Operational,Conversion task,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error in conversion for Time Zone: {TimeZoneId},{TimeZoneId}
+10,0,win:Error,Microsoft-Windows-TZSync/Operational,Conversion,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 11,0,Error,Operational,Conversion task,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 11,0,Error,Operational,Conversion task,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 11,0,Error,Operational,Conversion task,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2650,6 +2660,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Error,Operational,Conversion task,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 11,0,Error,Operational,Conversion task,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 11,0,Error,Operational,Conversion task,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+11,0,win:Error,Microsoft-Windows-TZSync/Operational,Conversion,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 12,0,Error,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 12,0,Error,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 12,0,Error,Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2891,3 +2902,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Error,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 12,0,Error,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 12,0,Error,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+12,0,win:Error,Microsoft-Windows-TZSync/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,

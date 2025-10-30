@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,1,Information,Debug,SebEvent,Create,Trace SEB Event,Windows 10,1511,Pro,1970/01/01,10586.0,SystemEventsBroker CreateEvent called for Event ID {BrokeredEventId}; UserSID: {UserSID} with Event Type {EventType},{BrokeredEventId} | {UserSID} | {EventType}
 15,1,Information,Debug,SebEvent,Create,Trace SEB Event,Windows 10,1507,Pro,2015/07/29,10240.0,SystemEventsBroker CreateEvent called for Event ID {BrokeredEventId}; UserSID: {UserSID} with Event Type {EventType},{BrokeredEventId} | {UserSID} | {EventType}
 15,1,Information,Debug,SebEvent,Create,Trace SEB Event,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SystemEventsBroker CreateEvent called for Event ID {BrokeredEventId}; UserSID: {UserSID} with Event Type {EventType},{BrokeredEventId} | {UserSID} | {EventType}
+15,1,Information,Debug,SebEvent,Create,Trace SEB Event,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SystemEventsBroker CreateEvent called for Event ID {BrokeredEventId}; UserSID: {UserSID} with Event Type {EventType},{BrokeredEventId} | {UserSID} | {EventType}
 15,1,Information,Debug,SebEvent,Create,Trace SEB Event,Windows 8,8,Pro,1970/01/01,9200.0,SystemEventsBroker CreateEvent called for Event ID {BrokeredEventId}; UserSID: {UserSID} with Event Type {EventType},{BrokeredEventId} | {UserSID} | {EventType}
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 11,24H2,Pro,2024/10/2,26100.1742,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 11,22H2,Pro,2022/12/20,22621.963,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
@@ -482,6 +483,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 10,1511,Pro,1970/01/01,10586.0,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 10,1507,Pro,2015/07/29,10240.0,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
+16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
 16,1,Information,Debug,SebEvent,Delete,Trace SEB Event,Windows 8,8,Pro,1970/01/01,9200.0,SystemEventsBroker DeleteEvent called for Event ID {BrokeredEventId},{BrokeredEventId}
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 11,24H2,Pro,2024/10/2,26100.1742,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 11,22H2,Pro,2022/12/20,22621.963,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
@@ -724,6 +726,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 10,1511,Pro,1970/01/01,10586.0,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 10,1507,Pro,2015/07/29,10240.0,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
+17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 17,1,Information,Debug,SebEvent,Signal,Trace SEB Event,Windows 8,8,Pro,1970/01/01,9200.0,SystemEventsBroker SignalEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 11,24H2,Pro,2024/10/2,26100.1742,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 11,22H2,Pro,2022/12/20,22621.963,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
@@ -966,6 +969,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 10,1511,Pro,1970/01/01,10586.0,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 10,1507,Pro,2015/07/29,10240.0,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
+18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 18,1,Information,Debug,SebEvent,Drop,Trace SEB Event,Windows 8,8,Pro,1970/01/01,9200.0,SystemEventsBroker DropEvent for Event ID {BrokeredEventId},{BrokeredEventId}
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 11,24H2,Pro,2024/10/2,26100.1742,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 11,22H2,Pro,2022/12/20,22621.963,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}
@@ -1208,6 +1212,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 10,1511,Pro,1970/01/01,10586.0,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 10,1507,Pro,2015/07/29,10240.0,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID}; UserSID: {UserSID},{SessionID} | {UserSID}
+19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID}; UserSID: {UserSID},{SessionID} | {UserSID}
 19,1,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 8,8,Pro,1970/01/01,9200.0,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID}; UserSID: {UserSID},{SessionID} | {UserSID}
 19,2,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 11,24H2,Pro,2024/10/2,26100.1742,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}
 19,2,Information,Debug,SebEvent,SessionConnected,Trace SEB Event,Windows 11,22H2,Pro,2022/12/20,22621.963,SystemEventsBroker SessionConnectedEvent; SessionID: {SessionID},{SessionID}

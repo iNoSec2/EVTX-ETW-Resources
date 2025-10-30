@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Unencrypted request data for IPMI request {NetFn},{NetFn}
 1,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Unencrypted request data for IPMI request {NetFn},{NetFn}
 1,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Unencrypted request data for IPMI request {CommandID},{CommandID}
+1,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Unencrypted request data for IPMI request {CommandID},{CommandID}
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The Decrypted response data for IPMI request {NetFn},{NetFn}
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The Decrypted response data for IPMI request {NetFn},{NetFn}
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The Decrypted response data for IPMI request {NetFn},{NetFn}
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Decrypted response data for IPMI request {NetFn},{NetFn}
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Decrypted response data for IPMI request {NetFn},{NetFn}
 2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Decrypted response data for IPMI request {CommandID},{CommandID}
+2,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Decrypted response data for IPMI request {CommandID},{CommandID}
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -722,6 +724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -963,6 +966,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1204,6 +1208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+5,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1445,6 +1450,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1686,6 +1692,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1927,6 +1934,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2168,6 +2176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+9,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2409,6 +2418,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Result of PCSVDevice operation,
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Result of PCSVDevice operation,
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Result of PCSVDevice operation,
@@ -2650,6 +2660,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Result of PCSVDevice operation,
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Result of PCSVDevice operation,
 11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Result of PCSVDevice operation,
+11,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Result of PCSVDevice operation,
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Information on IPMI Sent Data ,
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Information on IPMI Sent Data ,
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Information on IPMI Sent Data ,
@@ -2891,6 +2902,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Information on IPMI Sent Data ,
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Information on IPMI Sent Data ,
 15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Information on IPMI Sent Data ,
+15,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Information on IPMI Sent Data ,
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Information on IPMI Received Data ,
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Information on IPMI Received Data ,
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Information on IPMI Received Data ,
@@ -3132,6 +3144,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Information on IPMI Received Data ,
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Information on IPMI Received Data ,
 16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Information on IPMI Received Data ,
+16,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Information on IPMI Received Data ,
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Get operations options,
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Get operations options,
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Get operations options,
@@ -3373,6 +3386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Get operations options,
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Get operations options,
 17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Get operations options,
+17,0,Information,Microsoft-Windows-DAL-Provider/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Get operations options,
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3614,6 +3628,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+18,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -3855,6 +3870,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+19,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4096,6 +4112,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+20,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 21,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 21,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 21,0,Information,Microsoft-Windows-DAL-Provider/Analytic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,

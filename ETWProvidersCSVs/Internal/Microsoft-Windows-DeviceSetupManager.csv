@@ -250,6 +250,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
 100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
 100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
+100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
 100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
 100,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DSM service start; mode is {Prop_CoreServiceMode}; last session (or boot) was {Prop_Event_Window_Seconds} seconds ago,{Prop_CoreServiceMode} | {Prop_Event_Window_Seconds}
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DSM Service is shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} ms.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
@@ -493,6 +494,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
+101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
 101,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DSM Service shutting down. Service uptime was {Prop_UpTime_Seconds} seconds; active worktime was {Prop_WorkTime_MilliSeconds} MilliSeconds.,{Prop_UpTime_Seconds} | {Prop_WorkTime_MilliSeconds}
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -736,6 +738,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 102,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -979,6 +982,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 103,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DSM Service failed to start; result={HRESULT}.,{HRESULT}
@@ -1222,6 +1226,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DSM Service failed to start; result={HRESULT},{HRESULT}
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DSM Service failed to start; result={HRESULT},{HRESULT}
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DSM Service failed to start; result={HRESULT},{HRESULT}
+104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DSM Service failed to start; result={HRESULT},{HRESULT}
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,DSM Service failed to start; result={HRESULT},{HRESULT}
 104,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DSM Service failed to start; result={HRESULT},{HRESULT}
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 105,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 105,1,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DSM Service is entering a retry cycle (count: {Prop_RetryCycleCount}) because transient errors were encountered.,{Prop_RetryCycleCount}
@@ -1709,6 +1715,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
 106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
 106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
+106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
 106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
 106,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DSM Service is leaving the retry state; there have been {Prop_RetryCycleCount} retry cycles in this session,{Prop_RetryCycleCount}
 107,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1953,6 +1960,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
 108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
 108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
+108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
 108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
 108,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The DSM service has entered service state '{Prop_CoreServiceState}',{Prop_CoreServiceState}
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,DSM service has entered service mode '{Prop_CoreServiceMode}'.,{Prop_CoreServiceMode}
@@ -2196,6 +2204,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
+109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
 109,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The DSM service has entered service mode '{Prop_CoreServiceMode}',{Prop_CoreServiceMode}
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType}.,{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
@@ -2439,6 +2448,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
+110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
 110,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Job ({Prop_JobId}) has started for device container '{Prop_ContainerId}'; type={Prop_JobType},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobType}
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus}.,{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
@@ -2682,6 +2692,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
+111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
 111,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Job ({Prop_JobId}) has completed for device container '{Prop_ContainerId}'; status={Prop_JobStatus},{Prop_JobId} | {Prop_ContainerId} | {Prop_JobStatus}
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device container '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; and wrote {Prop_PropertyCount} properties in {Prop_WorkTime_MilliSeconds} ms.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
@@ -2925,6 +2936,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
+112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
 112,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Device '{Prop_DeviceName}' ({Prop_ContainerId}) has been serviced; processed {Prop_TaskCount} tasks; wrote {Prop_PropertyCount} properties; active worktime was {Prop_WorkTime_MilliSeconds} milliseconds.,{Prop_DeviceName} | {Prop_ContainerId} | {Prop_TaskCount} | {Prop_PropertyCount} | {Prop_WorkTime_MilliSeconds}
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver update(s) was downloaded for device '{Prop_PackageId}' in {Prop_MilliSeconds} ms.,{Prop_PackageId} | {Prop_MilliSeconds}
@@ -3168,6 +3180,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
+120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
 120,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver update {Prop_PackageId} has been downloaded from Windows Update; download time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_MilliSeconds}
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver update(s) install on device '{Prop_DevnodeId}' failed with error {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
@@ -3411,6 +3424,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
+121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
 121,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver install failed; result={HRESULT} for devnode '{Prop_DevnodeId}',{HRESULT} | {Prop_DevnodeId}
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3654,6 +3668,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 122,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 122,1,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver search for device '{Prop_DevnodeId}' on Windows Update was blocked by policy.,{Prop_DevnodeId}
@@ -3898,6 +3913,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
 123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
 123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
+123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
 123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
 123,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The DSM service was delayed by {Prop_Seconds} seconds for a driver query/download/install on device '{Prop_DeviceId}',{Prop_Seconds} | {Prop_DeviceId}
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver {Prop_PackageId} was installed on device '{Prop_DeviceInstanceId}' in {Prop_MilliSeconds} ms.,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
@@ -4141,6 +4157,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
+124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
 124,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Driver {Prop_PackageId} was installed on device {Prop_DeviceInstanceId}; install time was {Prop_MilliSeconds} milliseconds,{Prop_PackageId} | {Prop_DeviceInstanceId} | {Prop_MilliSeconds}
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver install on device '{Prop_DevnodeId}' was blocked by PnP restriction policy.,{Prop_DevnodeId}
@@ -4384,6 +4401,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
+125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
 125,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Installation of a driver on device {Prop_DevnodeId} was blocked by PnP restriction policy,{Prop_DevnodeId}
 126,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device '{Prop_DeviceInstanceId}' matched driver update {Prop_PackageId}.,{Prop_DeviceInstanceId} | {Prop_PackageId}
@@ -4866,6 +4884,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
 130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
 130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
+130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
 130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
 130,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Metadata package {Prop_MetadataPackageId} has been staged for container {Prop_ContainerId}; time was {Prop_StageTimeMilliSeconds} milliseconds,{Prop_MetadataPackageId} | {Prop_ContainerId} | {Prop_StageTimeMilliSeconds}
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Metadata package staging for device container {Prop_ContainerId} failed with error {HRESULT}.,{Prop_ContainerId} | {HRESULT}
@@ -5109,6 +5128,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Metadata staging failed; result={HRESULT} for container '{Prop_ContainerId}',{HRESULT} | {Prop_ContainerId}
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Metadata staging failed; result={Prop_ContainerId} for container '{HRESULT}',{Prop_ContainerId} | {HRESULT}
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Metadata staging failed; result={Prop_ContainerId} for container '{HRESULT}',{Prop_ContainerId} | {HRESULT}
+131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Metadata staging failed; result={Prop_ContainerId} for container '{HRESULT}',{Prop_ContainerId} | {HRESULT}
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Metadata staging failed; result={Prop_ContainerId} for container '{HRESULT}',{Prop_ContainerId} | {HRESULT}
 131,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Metadata staging failed; result={Prop_ContainerId} for container '{HRESULT}',{Prop_ContainerId} | {HRESULT}
 132,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Metadata package search for device container {Prop_ContainerId} on Windows Metadata and Internet Services (WMIS) failed with error {HRESULT}; HTTP status code: {HTTPCode}.,{Prop_ContainerId} | {HRESULT} | {HTTPCode}
@@ -5359,6 +5379,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
 150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
 150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
+150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
 150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
 150,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; has been removed.,{Prop_DeviceName} | {Prop_ContainerId}
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device '{Prop_DeviceName}' ({Prop_ContainerId}) failed to respond to a device removal request.,{Prop_DeviceName} | {Prop_ContainerId}
@@ -5602,6 +5623,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
+151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
 151,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The device '{Prop_DeviceName}' with container ID {Prop_ContainerId}; failed to respond to a device remove request.,{Prop_DeviceName} | {Prop_ContainerId}
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device '{Prop_DeviceName}' ({Prop_ContainerId}) removal failed with error {HRESULT}.,{Prop_DeviceName} | {Prop_ContainerId} | {HRESULT}
@@ -5845,6 +5867,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
+152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
 152,0,Error,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removal of device node '{Prop_DevnodeId}' failed with error code {HRESULT}.,{Prop_DevnodeId} | {HRESULT}
 160,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Software {Prop_SoftwareName} was installed for device '{Prop_DeviceInstanceId}' in {Prop_InstallTime} ms.,{Prop_SoftwareName} | {Prop_DeviceInstanceId} | {Prop_InstallTime}
@@ -8962,6 +8985,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 200,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9205,6 +9229,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 201,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9448,6 +9473,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 202,0,Warning,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9691,6 +9717,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 203,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
@@ -9934,6 +9961,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
+220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
 220,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Registered the handler {Prop_NotificationHandler} for the app {Prop_PackageId} to handle notifications from the device container {Prop_ContainerId}.,{Prop_NotificationHandler} | {Prop_PackageId} | {Prop_ContainerId}
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,App {Prop_PackageId} already has a handler registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
@@ -10177,6 +10205,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
+221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 221,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,A handler for the app {Prop_PackageId} was already registered for the device container {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device container {Prop_ContainerId} and app {Prop_PackageId} specify background task information; but registration failed with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
@@ -10420,6 +10449,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
+222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
 222,0,Error,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The device container {Prop_ContainerId} and the app {Prop_PackageId} specify background task information; but we failed to register with error {HRESULT}.,{Prop_ContainerId} | {Prop_PackageId} | {HRESULT}
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
@@ -10663,6 +10693,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
+223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 223,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unregistered for the Print background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
@@ -10906,6 +10937,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
+224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 224,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Unregistered for the Mobile Operator background task after uninstalling the app {Prop_PackageId}.,{Prop_PackageId}
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Requested download of the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
@@ -11149,6 +11181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
+230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 230,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Made the request to the store to download the app {Prop_PackageId} for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
@@ -11392,6 +11425,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
+231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 231,0,Information,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully installed the app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Encountered error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
@@ -11635,6 +11669,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
+232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
 232,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.  This operation will be retried when the device is reconnected or the user logs on again.,{Prop_PackageId} | {Prop_ContainerId}
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Encountered error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
@@ -11878,6 +11913,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
+233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 233,0,Warning,Microsoft-Windows-DeviceSetupManager/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,There was an error trying to install app {Prop_PackageId} from the store for device {Prop_ContainerId}.,{Prop_PackageId} | {Prop_ContainerId}
 234,0,Information,Microsoft-Windows-DeviceSetupManager/Admin,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Driver update(s) was installed on device '{Prop_DevnodeId}' in {Prop_MilliSeconds} ms.,{Prop_DevnodeId} | {Prop_MilliSeconds}
@@ -12353,6 +12389,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows 10,1511,Pro,1970/01/01,10586.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
 300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows 10,1507,Pro,2015/07/29,10240.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
 300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
+300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
 300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows 8,8,Pro,1970/01/01,9200.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
 300,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceUxReady,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The device container '{Prop_ContainerId}' has entered the ready state,{Prop_ContainerId}
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device setup for device container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
@@ -12596,6 +12633,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows 10,1511,Pro,1970/01/01,10586.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows 10,1507,Pro,2015/07/29,10240.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
+301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows 8,8,Pro,1970/01/01,9200.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
 301,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,DeviceSetupComplete,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Device setup for container '{Prop_ContainerId}' has been completed.,{Prop_ContainerId}
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device metadata that contains an extension namespace has been parsed for device container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}'.,{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
@@ -12839,6 +12877,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
+302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
 302,0,Information,Microsoft-Windows-DeviceSetupManager/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Device metadata that contains an extension namespace has been parsed for container '{Prop_ContainerId}'; ExtensionNamespace = '{Prop_ServiceInfoNamespace}'; Culture = '{Prop_CultureCode}',{Prop_ContainerId} | {Prop_ServiceInfoNamespace} | {Prop_CultureCode}
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13082,6 +13121,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 400,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13325,6 +13365,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 401,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DeviceSetupTask,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13568,6 +13609,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 402,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13811,6 +13853,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 403,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadDriverTask,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14054,6 +14097,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 404,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14297,6 +14341,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 405,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,BuildDriverListTask,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14540,6 +14585,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 406,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14783,6 +14829,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 407,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverTask,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -15026,6 +15073,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 408,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -15269,6 +15317,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 409,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,MetadataInstallTask,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 410,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallDriverUpdateTask,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -16440,6 +16489,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7710,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -16683,6 +16733,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7711,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,SearchWindowsUpdate,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -16926,6 +16977,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7712,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -17169,6 +17221,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 7713,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,DownloadFromWindowsUpdate,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7714,0,Information,Microsoft-Windows-DeviceSetupManager/Analytic,InstallFromWindowsUpdate,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,

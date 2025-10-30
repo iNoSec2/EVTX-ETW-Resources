@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,System,,,Time,Windows 10,1511,Pro,1970/01/01,10586.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
 1,0,Information,System,,,Time,Windows 10,1507,Pro,2015/07/29,10240.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
 1,0,Information,System,,,Time,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
+1,0,Information,System,,,Time,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
 1,0,Information,System,,,Time,Windows 8,8,Pro,1970/01/01,9200.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
 1,0,Information,System,,,Time,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
 1,0,Information,System,,,Time,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The system time has changed to {NewTime} from {OldTime}.,{NewTime} | {OldTime}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,1,Information,System,,,Time,Windows 10,1511,Pro,1970/01/01,10586.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
 1,1,Information,System,,,Time,Windows 10,1507,Pro,2015/07/29,10240.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
 1,1,Information,System,,,Time,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
+1,1,Information,System,,,Time,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
 1,1,Information,System,,,Time,Windows 8,8,Pro,1970/01/01,9200.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
 1,1,Information,System,,,Time,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.,{NewTime} | {OldTime} | {Reason}
 1,2,Information,System,SystemTimeChange,,Time,Windows 11,24H2,Pro,2024/10/2,26100.1742,The system time has changed to {NewTime} from {OldTime}.Change Reason: {Reason}.Process: '{ProcessName}' (PID {ProcessID}).,{NewTime} | {OldTime} | {Reason} | {ProcessName} | {ProcessID}
@@ -978,6 +980,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,License policy-cache corruption detected.,
 2,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,License policy-cache corruption detected.,
 2,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,License policy-cache corruption detected.,
+2,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,License policy-cache corruption detected.,
 2,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,License policy-cache corruption detected.,
 2,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,License policy-cache corruption detected.,
 2,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,License policy-cache corruption detected.,
@@ -1224,6 +1227,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,License policy-cache corruption has been fixed.,
 3,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,License policy-cache corruption has been fixed.,
 3,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,License policy-cache corruption has been fixed.,
+3,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,License policy-cache corruption has been fixed.,
 3,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,License policy-cache corruption has been fixed.,
 3,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,License policy-cache corruption has been fixed.,
 3,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,License policy-cache corruption has been fixed.,
@@ -1470,6 +1474,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,License policy-cache has expired because it was not updated within expected duration.,
 4,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,License policy-cache has expired because it was not updated within expected duration.,
 4,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,License policy-cache has expired because it was not updated within expected duration.,
+4,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,License policy-cache has expired because it was not updated within expected duration.,
 4,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,License policy-cache has expired because it was not updated within expected duration.,
 4,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,License policy-cache has expired because it was not updated within expected duration.,
 4,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,License policy-cache has expired because it was not updated within expected duration.,
@@ -1716,6 +1721,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
 5,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
 5,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
+5,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
 5,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
 5,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
 5,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Registry Hive Recovered} Registry hive (file): '{ExtraString}' was corrupted and it has been recovered. Some data might have been lost.,{ExtraString}
@@ -1962,6 +1968,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
 6,0,Error,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
 6,0,Error,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
+6,0,Error,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
 6,0,Error,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
 6,0,Error,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
 6,0,Error,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An I/O operation initiated by the Registry failed unrecoverably.The Registry could not flush hive (file): '{ExtraString}'.,{ExtraString}
@@ -2209,6 +2216,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
 11,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
 11,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
+11,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
 11,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
 11,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
 11,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,TxR init phase for hive {ExtraString} (TM: {TmId}; RM: {RmId}) finished with result={Status} (Internal code={InternalCode}).,{ExtraString} | {TmId} | {RmId} | {Status} | {InternalCode}
@@ -2454,6 +2462,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The operating system started at system time {StartTime}.,{StartTime}
 12,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The operating system started at system time {StartTime}.,{StartTime}
 12,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The operating system started at system time {StartTime}.,{StartTime}
+12,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The operating system started at system time {StartTime}.,{StartTime}
 12,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,The operating system started at system time {StartTime}.,{StartTime}
 12,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The operating system started at system time {StartTime}.,{StartTime}
 12,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The operating system started at system time {StartTime}.,{StartTime}
@@ -2699,6 +2708,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
 13,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
 13,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
+13,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
 13,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
 13,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
 13,0,Information,System,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The operating system is shutting down at system time {StopTime}.,{StopTime}
@@ -2944,6 +2954,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows 10,1511,Pro,1970/01/01,10586.0,,
 14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows 10,1507,Pro,2015/07/29,10240.0,,
 14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows 8,8,Pro,1970/01/01,9200.0,,
 14,0,Error,,,,KERNEL_GENERAL_SECURITY_ACCESSCHECK,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 15,0,Information,System,ReorganizeHive,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
@@ -3187,6 +3198,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
 15,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
 15,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
+15,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
 15,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
 15,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Hive {HiveName} was reorganized with a starting size of {OriginalSize} bytes and an ending size of {NewSize} bytes.,{HiveName} | {OriginalSize} | {NewSize}
 16,0,Information,System,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
@@ -3430,6 +3442,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Information,System,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
 16,0,Information,System,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
 16,0,Information,System,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
+16,0,Information,System,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
 16,0,Information,System,,,,Windows 8,8,Pro,1970/01/01,9200.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
 16,0,Information,System,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The access history in hive {HiveName} was cleared updating {KeysUpdated} keys and creating {DirtyPages} modified pages.,{HiveName} | {KeysUpdated} | {DirtyPages}
 17,0,Information,,,,KERNEL_GENERAL_TOKEN_SID_MANAGEMENT,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -3673,6 +3686,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Information,,,,KERNEL_GENERAL_TOKEN_SID_MANAGEMENT,Windows 10,1511,Pro,1970/01/01,10586.0,,
 17,0,Information,,,,KERNEL_GENERAL_TOKEN_SID_MANAGEMENT,Windows 10,1507,Pro,2015/07/29,10240.0,,
 17,0,Information,,,,KERNEL_GENERAL_TOKEN_SID_MANAGEMENT,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+17,0,Information,,,,KERNEL_GENERAL_TOKEN_SID_MANAGEMENT,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 18,0,Information,System,SoftBootInfo,,BootPerformance,Windows 11,24H2,Pro,2024/10/2,26100.1742,The operating system is starting after soft restart.,
 18,0,Information,System,SoftBootInfo,,BootPerformance,Windows 11,22H2,Pro,2022/12/20,22621.963,The operating system is starting after soft restart.,
 18,0,Information,System,SoftBootInfo,,BootPerformance,Windows 11,22H2,Pro,2022/11/15,22621.819,The operating system is starting after soft restart.,

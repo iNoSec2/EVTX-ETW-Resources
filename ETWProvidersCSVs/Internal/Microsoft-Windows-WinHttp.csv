@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{param1},{param1}
 1,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{param1},{param1}
 1,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{param1},{param1}
+1,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{param1},{param1}
 1,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,{param1},{param1}
 1,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{param1},{param1}
 1,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{param1},{param1}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{param1},{param1}
 2,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{param1},{param1}
 2,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{param1},{param1}
+2,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{param1},{param1}
 2,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,{param1},{param1}
 2,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{param1},{param1}
 2,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{param1},{param1}
@@ -732,6 +734,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{load/unload info},
 4,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{load/unload info},
 4,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{load/unload info},
+4,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{load/unload info},
 4,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,{load/unload info},
 4,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{load/unload info},
 4,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{load/unload info},
@@ -978,6 +981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
+9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
 9,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Start,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API called.,{Api} | {ApiHandle}
@@ -1223,6 +1227,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
+10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
 10,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API returned successfully.,{Api} | {ApiHandle}
@@ -1468,6 +1473,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
+11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 11,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API failed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
@@ -1713,6 +1719,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
+12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
 12,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API pending completion.,{Api} | {ApiHandle}
@@ -1958,6 +1965,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
+13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
 13,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API completed.,{Api} | {ApiHandle}
@@ -2203,6 +2211,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1511,Pro,1970/01/01,10586.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 10,1507,Pro,2015/07/29,10240.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
+14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows 8,8,Pro,1970/01/01,9200.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
 14,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,Stop,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Api}({ApiHandle}) API completed with an error = {Result}.,{Api} | {ApiHandle} | {Result}
@@ -2448,6 +2457,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 10,1511,Pro,1970/01/01,10586.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 10,1507,Pro,2015/07/29,10240.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
+100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows 8,8,Pro,1970/01/01,9200.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
 100,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,API,,API,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{hRequest}: WinHttpSetCredentials Details: Target ({AuthTargets}) Schemes ({AuthScheme}) UserName ({UserName}) Password ({Password}),{hRequest} | {AuthTargets} | {AuthScheme} | {UserName} | {Password}
@@ -13375,6 +13385,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12501,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
 12501,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
 12501,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
+12501,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
 12501,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
 12501,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
 12501,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service detected an internal data corruption.,
@@ -13621,6 +13632,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12503,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
 12503,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
 12503,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
+12503,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
 12503,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
 12503,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
 12503,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service has been idle for {IdleTime} minutes; it will be shut down.,{IdleTime}
@@ -13866,6 +13878,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12506,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
 12506,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
 12506,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
+12506,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
 12506,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
 12506,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
 12506,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service encountered a system error from {Function name}: (Error Code = {Error code}) {Error text},
@@ -14112,6 +14125,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12507,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
 12507,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
 12507,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
+12507,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
 12507,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
 12507,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
 12507,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service failed to allocate a critical resource. The system may be running low on physical memory.,
@@ -14358,6 +14372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12509,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
 12509,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
 12509,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
+12509,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
 12509,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
 12509,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
 12509,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service detected a non- local RPC request (Transport Type = {Transport type}); Access Denied. There may have been an rogue attempt to gain access to the service through the network.,
@@ -14604,6 +14619,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12511,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
 12511,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
 12511,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
+12511,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
 12511,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
 12511,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
 12511,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service failed to abort all pending requests in {param1} seconds.  The system WinHTTP Services may have been under stress and slow to respond to cancel requests.,{param1}
@@ -14850,6 +14866,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12512,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
 12512,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
 12512,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
+12512,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
 12512,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
 12512,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
 12512,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service failed parameter validation of a client request.  This may be due to an unexpected error from the system WinHTTP Services.,
@@ -15096,6 +15113,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12513,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
 12513,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
 12513,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
+12513,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
 12513,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
 12513,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
 12513,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service is shutting down and not accepting client requests.,
@@ -15342,6 +15360,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12514,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
 12514,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
 12514,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
+12514,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
 12514,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
 12514,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
 12514,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service detected an unexpected exception from the system WinHTTP Services. (Exception Code = {Exception code}),
@@ -15588,6 +15607,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12516,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
 12516,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
 12516,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
+12516,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
 12516,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
 12516,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
 12516,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service discarded and is re-attempting a request after a critical power event.,
@@ -15834,6 +15854,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12517,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
 12517,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
 12517,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
+12517,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
 12517,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
 12517,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
 12517,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service suspended operation.,
@@ -16079,6 +16100,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12518,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
 12518,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
 12518,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
+12518,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
 12518,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
 12518,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
 12518,0,,,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The WinHTTP Web Proxy Auto-Discovery Service resumed operation.,
@@ -16324,6 +16346,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 10,1511,Pro,1970/01/01,10586.0,{Message},{Message}
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 10,1507,Pro,2015/07/29,10240.0,{Message},{Message}
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{Message},{Message}
+58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{Message},{Message}
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 8,8,Pro,1970/01/01,9200.0,{Message},{Message}
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{Message},{Message}
 58999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{Message},{Message}
@@ -16569,6 +16592,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
+59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59995,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Canceling {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
@@ -16814,6 +16838,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
+59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59996,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Queue {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
@@ -17059,6 +17084,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
+59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59997,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Stopping {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
@@ -17304,6 +17330,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
+59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows 8,8,Pro,1970/01/01,9200.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
 59998,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Starting {EtwQueueActionType} Thread Action (Context: {Context}),{EtwQueueActionType} | {Context}
@@ -17549,6 +17576,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 10,1511,Pro,1970/01/01,10586.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 10,1507,Pro,2015/07/29,10240.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
+59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows 8,8,Pro,1970/01/01,9200.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,({File}:{Line}) {Message},{File} | {Line} | {Message}
 59999,0,Verbose,Microsoft-Windows-WinHttp/Diagnostic,Debug,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,({File}:{Line}) {Message},{File} | {Line} | {Message}

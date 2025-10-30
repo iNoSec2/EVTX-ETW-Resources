@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500641,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
 2147500641,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
 2147500641,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
+2147500641,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
 2147500641,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
 2147500641,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating Team {Team} failed. Status = {Status}.,{Team} | {Status}
 2147500642,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500642,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
 2147500642,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
 2147500642,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
+2147500642,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
 2147500642,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
 2147500642,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Binding to Member Adapter {Member} failed. Status = {Status}.,{Member} | {Status}
 2147500643,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
@@ -726,6 +728,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500643,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
 2147500643,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
 2147500643,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
+2147500643,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
 2147500643,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
 2147500643,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,TeamNic {TeamNic} failed to initialize. Status = {Status}.,{TeamNic} | {Status}
 2147500644,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
@@ -969,6 +972,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500644,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
 2147500644,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
 2147500644,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
+2147500644,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
 2147500644,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
 2147500644,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating TeamNic {TeamNic} for Team {Team} failed. Status = {Status}.,{TeamNic} | {Team} | {Status}
 2147500645,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
@@ -1212,6 +1216,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500645,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500645,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500645,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
+2147500645,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500645,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500645,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Allocating port for Member {Member} on TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500646,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
@@ -1455,6 +1460,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500646,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500646,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500646,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
+2147500646,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500646,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500646,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Creating internal binding between Member {Member} and TeamNic {TeamNic} failed. Status = {Status}.,{Member} | {TeamNic} | {Status}
 2147500647,0,,,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
@@ -1698,5 +1704,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2147500647,0,,,,,,Windows 10,1511,Pro,1970/01/01,10586.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
 2147500647,0,,,,,,Windows 10,1507,Pro,2015/07/29,10240.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
 2147500647,0,,,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
+2147500647,0,,,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
 2147500647,0,,,,,,Windows 8,8,Pro,1970/01/01,9200.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}
 2147500647,0,,,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,NdisImPlatform(LBFO) driver failed to load. Status = {Status}.,{Status}

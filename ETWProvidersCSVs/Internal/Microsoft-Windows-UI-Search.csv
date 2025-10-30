@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML view {XAMLView} is starting up.,{XAMLView}
 101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML view {XAMLView} is starting up.,{XAMLView}
 101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML view {XAMLView} is starting up.,{XAMLView}
+101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML view {XAMLView} is starting up.,{XAMLView}
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
 102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
+102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewStartup,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML view {XAMLView} has completed starting up with result {Result}.,{XAMLView} | {Result}
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -722,6 +724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -963,16 +966,19 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchPaneViewSetup,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SearchResultsViewSetup,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_StartMenuViewSetup,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_StartMenuViewSetup,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_StartMenuViewSetup,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
@@ -1222,6 +1228,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,A search thread has started {ThreadID}.,{ThreadID}
 201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,A search thread has started {ThreadID}.,{ThreadID}
 201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A search thread has started {ThreadID}.,{ThreadID}
+201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A search thread has started {ThreadID}.,{ThreadID}
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,A search thread has stopped {ThreadID}.,{ThreadID}
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,A search thread has stopped {ThreadID}.,{ThreadID}
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,A search thread has stopped {ThreadID}.,{ThreadID}
@@ -1463,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,A search thread has stopped {ThreadID}.,{ThreadID}
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,A search thread has stopped {ThreadID}.,{ThreadID}
 202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A search thread has stopped {ThreadID}.,{ThreadID}
+202,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ASTAThread,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A search thread has stopped {ThreadID}.,{ThreadID}
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1704,6 +1712,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Resource manager initialization has completed with result {Result}.,{Result}
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,Resource manager initialization has completed with result {Result}.,{Result}
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,Resource manager initialization has completed with result {Result}.,{Result}
@@ -1945,6 +1954,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Resource manager initialization has completed with result {Result}.,{Result}
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Resource manager initialization has completed with result {Result}.,{Result}
 302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Resource manager initialization has completed with result {Result}.,{Result}
+302,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResourceManager,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Resource manager initialization has completed with result {Result}.,{Result}
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -2186,6 +2196,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+401,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The XAML content initialization has completed with result {Result}.,{Result}
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The XAML content initialization has completed with result {Result}.,{Result}
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The XAML content initialization has completed with result {Result}.,{Result}
@@ -2427,6 +2438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML content initialization has completed with result {Result}.,{Result}
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML content initialization has completed with result {Result}.,{Result}
 402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML content initialization has completed with result {Result}.,{Result}
+402,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XAMLContent,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML content initialization has completed with result {Result}.,{Result}
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
@@ -2668,6 +2680,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
 501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
+501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The view service with index {ServiceIndex} has started initialization.,{ServiceIndex}
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
@@ -2909,6 +2922,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
 502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
+502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceInit,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The view service with index {ServiceIndex} has completed initialization with result {Result}.,{ServiceIndex} | {Result}
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
@@ -3150,6 +3164,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
 503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
+503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The view service with index {ServiceIndex} has started subscription.,{ServiceIndex}
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
@@ -3391,6 +3406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
 504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
+504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ViewServiceSubscribe,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The view service with index {ServiceIndex} has completed with subcription result {Result}.,{ServiceIndex} | {Result}
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The XAML view {XAMLView} is shutting down.,{XAMLView}
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,The XAML view {XAMLView} is shutting down.,{XAMLView}
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,The XAML view {XAMLView} is shutting down.,{XAMLView}
@@ -3632,6 +3648,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML view {XAMLView} is shutting down.,{XAMLView}
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML view {XAMLView} is shutting down.,{XAMLView}
 601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML view {XAMLView} is shutting down.,{XAMLView}
+601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML view {XAMLView} is shutting down.,{XAMLView}
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
@@ -3873,46 +3890,55 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
 602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
+602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlViewShutdown,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML view {XAMLView} has completed shutdown up with result {Result}.,{XAMLView} | {Result}
 701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_SuggestionsCleared,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows 10,1511,Pro,2016/03/08,10586.164,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
 702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
 702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows 10,1511,Pro,1970/01/01,10586.0,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
 702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows 10,1507,Pro,2015/07/29,10240.0,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
 702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
+702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_QuerySubmitted,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Global suggestions query has been submitted for text '{QueryString}'.,{QueryString}
 703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_AllProvidersLoaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows 10,1511,Pro,2016/03/08,10586.164,A query was submitted for text '{QueryString}'.,{QueryString}
 704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,A query was submitted for text '{QueryString}'.,{QueryString}
 704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows 10,1511,Pro,1970/01/01,10586.0,A query was submitted for text '{QueryString}'.,{QueryString}
 704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows 10,1507,Pro,2015/07/29,10240.0,A query was submitted for text '{QueryString}'.,{QueryString}
 704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A query was submitted for text '{QueryString}'.,{QueryString}
+704,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QuerySubmitted,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A query was submitted for text '{QueryString}'.,{QueryString}
 705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+705,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsCollection_VectorChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+706,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_VectorChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+707,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HierarchicalCollection_VectorChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+708,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GlobalSuggestionsCollection_VectorChange,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -4154,6 +4180,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+709,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The host window was created with result {Result}.,{Result}
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,The host window was created with result {Result}.,{Result}
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,The host window was created with result {Result}.,{Result}
@@ -4395,6 +4422,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,The host window was created with result {Result}.,{Result}
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,The host window was created with result {Result}.,{Result}
 710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The host window was created with result {Result}.,{Result}
+710,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostCreateWindow,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The host window was created with result {Result}.,{Result}
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Search query has changed: '{QueryString}',{QueryString}
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Search query has changed: '{QueryString}',{QueryString}
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Search query has changed: '{QueryString}',{QueryString}
@@ -4636,46 +4664,55 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 10,1511,Pro,1970/01/01,10586.0,Search query has changed: '{QueryString}',{QueryString}
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 10,1507,Pro,2015/07/29,10240.0,Search query has changed: '{QueryString}',{QueryString}
 711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search query has changed: '{QueryString}',{QueryString}
+711,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_QueryChanged,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search query has changed: '{QueryString}',{QueryString}
 712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+712,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchPane_SuggestionInvoked,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Template loading started for {TemplateID}.,{TemplateID}
 901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template loading started for {TemplateID}.,{TemplateID}
 901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Template loading started for {TemplateID}.,{TemplateID}
 901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Template loading started for {TemplateID}.,{TemplateID}
 901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template loading started for {TemplateID}.,{TemplateID}
+901,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template loading started for {TemplateID}.,{TemplateID}
 902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
 902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
 902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
 902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
 902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
+902,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateLoad,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template loading for {TemplateID} stopped with result {Result}.,{TemplateID} | {Result}
 903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows 10,1511,Pro,2016/03/08,10586.164,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
 903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
 903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows 10,1511,Pro,1970/01/01,10586.0,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
 903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows 10,1507,Pro,2015/07/29,10240.0,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
 903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
+903,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateResolved,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template resolved with result {Result}. Existing templates: {existingTemplates}; resolved templates: {resolvedTemplates}; unresolved templates: {unresolvedTemplates}; invalid XAML parsing: {invalidXAMLTemplates}.,{Result} | {existingTemplates} | {resolvedTemplates} | {unresolvedTemplates} | {invalidXAMLTemplates}
 904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+904,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NullOrEmptyToVisibilityConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,NullOrEmptyToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+905,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringToResourceConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,StringToResource converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Template manager resource download request for {TemplateID} started.,{TemplateID}
 906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template manager resource download request for {TemplateID} started.,{TemplateID}
 906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Template manager resource download request for {TemplateID} started.,{TemplateID}
 906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Template manager resource download request for {TemplateID} started.,{TemplateID}
 906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template manager resource download request for {TemplateID} started.,{TemplateID}
+906,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template manager resource download request for {TemplateID} started.,{TemplateID}
 907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
 907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
 907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
 907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
 907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
+907,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DownloadResource,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template manager resource download request for {TemplateID} ended with result: {Result}.,{TemplateID} | {Result}
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 11,22H2,Pro,2022/12/20,22621.963,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 11,22H2,Pro,2022/11/15,22621.819,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
@@ -4917,56 +4954,67 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 10,1511,Pro,1970/01/01,10586.0,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 10,1507,Pro,2015/07/29,10240.0,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
 910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
+910,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_XAMLCallbackException,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,XAML callback handled exception. Result: {Result}. Message: {Message}.,{Result} | {Message}
 911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+911,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_StringPropertyConcatenatorConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,StringPropertyConcatenator converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows 10,1511,Pro,2016/03/08,10586.164,Data context binding error. Property could not be found: {Property}.,{Property}
 912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Data context binding error. Property could not be found: {Property}.,{Property}
 912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows 10,1511,Pro,1970/01/01,10586.0,Data context binding error. Property could not be found: {Property}.,{Property}
 912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows 10,1507,Pro,2015/07/29,10240.0,Data context binding error. Property could not be found: {Property}.,{Property}
 912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Data context binding error. Property could not be found: {Property}.,{Property}
+912,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_DataContextBindingError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Data context binding error. Property could not be found: {Property}.,{Property}
 913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows 10,1511,Pro,2016/03/08,10586.164,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
 913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
 913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows 10,1511,Pro,1970/01/01,10586.0,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
 913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows 10,1507,Pro,2015/07/29,10240.0,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
 913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
+913,0,Error,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateLookupError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template lookup for template id {TemplateId} failed with error code {ErrorCode}.,{TemplateId} | {ErrorCode}
 914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows 10,1511,Pro,2016/03/08,10586.164,Fallback Template was loaded. Template id: {Property}.,{Property}
 914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Fallback Template was loaded. Template id: {Property}.,{Property}
 914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows 10,1511,Pro,1970/01/01,10586.0,Fallback Template was loaded. Template id: {Property}.,{Property}
 914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows 10,1507,Pro,2015/07/29,10240.0,Fallback Template was loaded. Template id: {Property}.,{Property}
 914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Fallback Template was loaded. Template id: {Property}.,{Property}
+914,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_TemplateFallbackSuccess,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Fallback Template was loaded. Template id: {Property}.,{Property}
 915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+915,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_SwitchCaseConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SwitchCase converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+916,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_OfflineAvailabilityToVisibilityConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OfflineAvailabilityToVisibility converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+917,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_VideoKindToVisibilityConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,VideoKindToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+918,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_BoolToVisibilityConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,BoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows 10,1511,Pro,2016/03/08,10586.164,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows 10,1511,Pro,1970/01/01,10586.0,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows 10,1507,Pro,2015/07/29,10240.0,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
+919,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_NegatedBoolToVisibilityConverter,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,NegatedBoolToVisibilityConverter converter executed. Input: {Input}. Parameter: {Parameter}. Output: {Output}.,{Input} | {Parameter} | {Output}
 920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows 10,1511,Pro,2016/03/08,10586.164,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
 920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
 920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows 10,1511,Pro,1970/01/01,10586.0,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
 920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows 10,1507,Pro,2015/07/29,10240.0,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
 920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
+920,0,Information,Microsoft-Windows-SearchUI/Diagnostic,TemplateManager_AccentColorSet,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,AccentColor {AccentIndex} set to {ColorString}.,{AccentIndex} | {ColorString}
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The XAML host window visibility is now {Visibility}.,{Visibility}
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 11,22H2,Pro,2022/12/20,22621.963,The XAML host window visibility is now {Visibility}.,{Visibility}
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 11,22H2,Pro,2022/11/15,22621.819,The XAML host window visibility is now {Visibility}.,{Visibility}
@@ -5208,276 +5256,331 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 10,1511,Pro,1970/01/01,10586.0,The XAML host window visibility is now {Visibility}.,{Visibility}
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 10,1507,Pro,2015/07/29,10240.0,The XAML host window visibility is now {Visibility}.,{Visibility}
 1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The XAML host window visibility is now {Visibility}.,{Visibility}
+1001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,XamlHostWindow_VisibilityChanged,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The XAML host window visibility is now {Visibility}.,{Visibility}
 1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Search results run query started for query: '{QueryString}',{QueryString}
 1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Search results run query started for query: '{QueryString}',{QueryString}
 1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Search results run query started for query: '{QueryString}',{QueryString}
 1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Search results run query started for query: '{QueryString}',{QueryString}
 1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search results run query started for query: '{QueryString}',{QueryString}
+1101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search results run query started for query: '{QueryString}',{QueryString}
 1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Search results run query ended for query: '{QueryString}',{QueryString}
 1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Search results run query ended for query: '{QueryString}',{QueryString}
 1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Search results run query ended for query: '{QueryString}',{QueryString}
 1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Search results run query ended for query: '{QueryString}',{QueryString}
 1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search results run query ended for query: '{QueryString}',{QueryString}
+1102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsRunQuery,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search results run query ended for query: '{QueryString}',{QueryString}
 1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows 10,1511,Pro,2016/03/08,10586.164,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
 1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
 1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows 10,1511,Pro,1970/01/01,10586.0,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
 1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows 10,1507,Pro,2015/07/29,10240.0,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
 1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
+1103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsGroupsRealized,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search results connected search type groups realized for query: '{QueryString}',{QueryString}
 1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows 10,1511,Pro,2016/03/08,10586.164,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
 1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
 1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows 10,1511,Pro,1970/01/01,10586.0,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
 1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows 10,1507,Pro,2015/07/29,10240.0,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
 1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
+1104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsSwitchToView,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search results view switched: Query: '{QueryString}'. AppId: '{AppId}',{QueryString} | {AppId}
 1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows 10,1511,Pro,2016/03/08,10586.164,Search results ready to render for query: '{QueryString}',{QueryString}
 1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Search results ready to render for query: '{QueryString}',{QueryString}
 1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows 10,1511,Pro,1970/01/01,10586.0,Search results ready to render for query: '{QueryString}',{QueryString}
 1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows 10,1507,Pro,2015/07/29,10240.0,Search results ready to render for query: '{QueryString}',{QueryString}
 1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Search results ready to render for query: '{QueryString}',{QueryString}
+1105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SearchResultsResultsReady,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Search results ready to render for query: '{QueryString}',{QueryString}
 1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Image sanitization validation started for '{Url}',{Url}
 1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image sanitization validation started for '{Url}',{Url}
 1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Image sanitization validation started for '{Url}',{Url}
 1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Image sanitization validation started for '{Url}',{Url}
 1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image sanitization validation started for '{Url}',{Url}
+1200,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image sanitization validation started for '{Url}',{Url}
 1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Sanitization validation stopped for '{Result}',{Result}
 1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Sanitization validation stopped for '{Result}',{Result}
 1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Sanitization validation stopped for '{Result}',{Result}
 1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Sanitization validation stopped for '{Result}',{Result}
 1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Sanitization validation stopped for '{Result}',{Result}
+1201,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SanitizeImage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Sanitization validation stopped for '{Result}',{Result}
 1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Image sanitization download started for '{Url}',{Url}
 1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image sanitization download started for '{Url}',{Url}
 1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Image sanitization download started for '{Url}',{Url}
 1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Image sanitization download started for '{Url}',{Url}
 1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image sanitization download started for '{Url}',{Url}
+1300,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image sanitization download started for '{Url}',{Url}
 1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Sanitization download stopped for '{Result}',{Result}
 1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Sanitization download stopped for '{Result}',{Result}
 1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Sanitization download stopped for '{Result}',{Result}
 1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Sanitization download stopped for '{Result}',{Result}
 1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Sanitization download stopped for '{Result}',{Result}
+1301,0,Information,Microsoft-Windows-SearchUI/Diagnostic,DownloadImage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Sanitization download stopped for '{Result}',{Result}
 1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1400,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PathSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1405,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ProtocolSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1410,0,Information,Microsoft-Windows-SearchUI/Diagnostic,HistorySuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1420,0,Information,Microsoft-Windows-SearchUI/Diagnostic,AppsSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1430,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MusicSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1440,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SettingsSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1450,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FilesSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1480,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactsSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1490,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchSuggestionProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1495,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ConnnectedSearchZeroInputProvider_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Local result collection run query started for group id : '{GroupId}',{GroupId}
 1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Local result collection run query started for group id : '{GroupId}',{GroupId}
 1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Local result collection run query started for group id : '{GroupId}',{GroupId}
 1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Local result collection run query started for group id : '{GroupId}',{GroupId}
 1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Local result collection run query started for group id : '{GroupId}',{GroupId}
+1501,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Local result collection run query started for group id : '{GroupId}',{GroupId}
 1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Local result collection run query ended for group id : '{GroupId}',{GroupId}
 1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Local result collection run query ended for group id : '{GroupId}',{GroupId}
 1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Local result collection run query ended for group id : '{GroupId}',{GroupId}
 1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Local result collection run query ended for group id : '{GroupId}',{GroupId}
 1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Local result collection run query ended for group id : '{GroupId}',{GroupId}
+1502,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_RunQuery,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Local result collection run query ended for group id : '{GroupId}',{GroupId}
 1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows 10,1511,Pro,2016/03/08,10586.164,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
 1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
 1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows 10,1511,Pro,1970/01/01,10586.0,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
 1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows 10,1507,Pro,2015/07/29,10240.0,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
 1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
+1503,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_TemplateSelected,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Template selected for item: '{ItemName}' is : '{ItemName}',{ItemName} | {ItemName}
 1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows 10,1511,Pro,2016/03/08,10586.164,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
 1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
 1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows 10,1511,Pro,1970/01/01,10586.0,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
 1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows 10,1507,Pro,2015/07/29,10240.0,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
 1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
+1504,0,Information,Microsoft-Windows-SearchUI/Diagnostic,LocalResults_ColumnsWrappedAt,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Local results wrapping column index: '{ColumnsWrappedAt}',{ColumnsWrappedAt}
 1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1600,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1601,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_FirstLocalSuggestion,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1602,0,Information,Microsoft-Windows-SearchUI/Diagnostic,FirstWebSuggestion,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1603,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1604,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllSuggestions,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1605,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_SuggestionsCancelled,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1606,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1607,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_AllLocalSuggestions,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Results Query has been triggered.,
 1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Results Query has been triggered.,
 1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Results Query has been triggered.,
 1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Results Query has been triggered.,
 1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Results Query has been triggered.,
+1700,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQuery,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Results Query has been triggered.,
 1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Results have been initially rendered.,
 1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Results have been initially rendered.,
 1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Results have been initially rendered.,
 1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Results have been initially rendered.,
 1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Results have been initially rendered.,
+1701,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Results have been initially rendered.,
 1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1702,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfInitialRender,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1703,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsPerfQueryCancelled,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1780,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1781,0,Information,Microsoft-Windows-SearchUI/Diagnostic,SerpIncrementalLoadingPerf,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1800,0,Information,Microsoft-Windows-SearchUI/Diagnostic,MultimediaView_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1810,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1811,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_ContentLoad,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1812,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1813,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Pagination,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1814,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1815,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Scroll,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1816,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1817,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_Orientation,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1818,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1819,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_MultimediaView_FilterLoad,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Details thumbnail loading started.,
 1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Details thumbnail loading started.,
 1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Details thumbnail loading started.,
 1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Details thumbnail loading started.,
 1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Details thumbnail loading started.,
+1830,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Details thumbnail loading started.,
 1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Details thumbnail loading finished.,
 1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Details thumbnail loading finished.,
 1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Details thumbnail loading finished.,
 1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Details thumbnail loading finished.,
 1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Details thumbnail loading finished.,
+1831,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ThumbnailLoad,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Details thumbnail loading finished.,
 1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Details image loading started.,
 1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Details image loading started.,
 1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Details image loading started.,
 1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Details image loading started.,
 1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Details image loading started.,
+1832,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Details image loading started.,
 1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,Image Details image loading finished.,
 1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,Image Details image loading finished.,
 1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Image Details image loading finished.,
 1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Image Details image loading finished.,
 1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Image Details image loading finished.,
+1833,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_ImageLoad,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Image Details image loading finished.,
 1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1834,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1835,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Perftrack_ImageDetails_Close,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 11,22H2,Pro,2022/11/15,22621.819,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
@@ -5719,26 +5822,31 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 10,1511,Pro,1970/01/01,10586.0,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 10,1507,Pro,2015/07/29,10240.0,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
 1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
+1836,0,Information,Microsoft-Windows-SearchUI/Diagnostic,GetSearchLaunchModeForWindow_Result,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Launch mode for browser is {LaunchMode} (Result {HRESULT}).,{LaunchMode} | {HRESULT}
 2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2000,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_LoadingUIShown,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ContactObjectGiven,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_FullContactCardShown,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ContactCard_ActionInvocated,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -5980,6 +6088,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3001,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -6221,148 +6330,178 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3002,0,Information,Microsoft-Windows-SearchUI/Diagnostic,PerfTrack_SearchPaneOpen,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3003,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Tracked,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3004,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Loaded_Dropped,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3005,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Tracked,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3006,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Opened_Dropped,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3007,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Tracked,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3008,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Failed_Dropped,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3009,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Tracked,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3010,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_Unloaded_Dropped,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3011,0,Warning,Microsoft-Windows-SearchUI/Diagnostic,ImageTracking_CallbackWithNoUri,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3100,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_AddElement,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3101,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RemoveElement,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3102,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3103,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RecalculateRects,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3104,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RectUpdated,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3105,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3106,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElementsInViewport,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3107,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeComplete,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3108,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_RealizeElement,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3109,0,Information,Microsoft-Windows-SearchUI/Diagnostic,Virtualizer_UnrealizeElement,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3120,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_LogOptionsChanged,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3121,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Loaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3122,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ETWLogger_Unloaded,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3150,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateViewProperties,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3151,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdatePropertySet,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3152,0,Information,Microsoft-Windows-SearchUI/Diagnostic,ResultsCommonViewSource_UpdateGridProperties,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3160,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_JsonParseError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3161,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_InvalidJsonTypeError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3162,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyMissingError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows 10,1511,Pro,2016/03/08,10586.164,,
 3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows 10,1511,Enterprise,2016/02/09,10586.104,,
 3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3163,0,Error,Microsoft-Windows-SearchUI/Diagnostic,ParseType_PropertyInvalidError,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,

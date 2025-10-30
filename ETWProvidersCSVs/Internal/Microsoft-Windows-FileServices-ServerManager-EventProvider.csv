@@ -49,6 +49,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 0,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Exception: {message},{message}
 0,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Exception: {message},{message}
 0,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Exception: {message},{message}
+0,0,Error,Operational,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Exception: {message},{message}
 0,0,Error,Operational,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Exception: {message},{message}
 1,0,Error,Operational,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Error: {message},{message}
 1,0,Error,Operational,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Error: {message},{message}
@@ -100,6 +101,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Error: {message},{message}
 1,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Error: {message},{message}
 1,0,Error,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Error: {message},{message}
+1,0,Error,Operational,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Error: {message},{message}
 1,0,Error,Operational,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Error: {message},{message}
 2,0,Warning,Operational,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Warning: {message},{message}
 2,0,Warning,Operational,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Warning: {message},{message}
@@ -151,6 +153,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Warning,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Warning: {message},{message}
 2,0,Warning,Operational,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Warning: {message},{message}
 2,0,Warning,Operational,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Warning: {message},{message}
+2,0,Warning,Operational,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Warning: {message},{message}
 2,0,Warning,Operational,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Warning: {message},{message}
 3,0,Information,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Information: {message},{message}
 3,0,Information,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Information: {message},{message}
@@ -202,6 +205,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Information: {message},{message}
 3,0,Information,Debug,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Information: {message},{message}
 3,0,Information,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Information: {message},{message}
+3,0,Information,Debug,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Information: {message},{message}
 3,0,Information,Debug,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Information: {message},{message}
 4,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Verbose: {message},{message}
 4,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Verbose: {message},{message}
@@ -253,6 +257,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Verbose: {message},{message}
 4,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Verbose: {message},{message}
 4,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Verbose: {message},{message}
+4,0,Verbose,Debug,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Verbose: {message},{message}
 4,0,Verbose,Debug,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Verbose: {message},{message}
 5,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Entered function scope: {message},{message}
 5,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Entered function scope: {message},{message}
@@ -304,6 +309,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Entered function scope: {message},{message}
 5,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Entered function scope: {message},{message}
 5,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Entered function scope: {message},{message}
+5,0,Verbose,Debug,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Entered function scope: {message},{message}
 5,0,Verbose,Debug,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Entered function scope: {message},{message}
 6,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Exited function scope: {message},{message}
 6,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Exited function scope: {message},{message}
@@ -355,6 +361,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Exited function scope: {message},{message}
 6,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Exited function scope: {message},{message}
 6,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Exited function scope: {message},{message}
+6,0,Verbose,Debug,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Exited function scope: {message},{message}
 6,0,Verbose,Debug,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Exited function scope: {message},{message}
 7,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,In finalizer: {message},{message}
 7,0,Verbose,Debug,Trace,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,In finalizer: {message},{message}
@@ -406,6 +413,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,In finalizer: {message},{message}
 7,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,In finalizer: {message},{message}
 7,0,Verbose,Debug,Trace,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,In finalizer: {message},{message}
+7,0,Verbose,Debug,Trace,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,In finalizer: {message},{message}
 7,0,Verbose,Debug,Trace,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,In finalizer: {message},{message}
 10,0,Information,Operational,Refresh,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 10,0,Information,Operational,Refresh,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -457,6 +465,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Operational,Refresh,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 10,0,Information,Operational,Refresh,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 10,0,Information,Operational,Refresh,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+10,0,Information,Operational,Refresh,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10,0,Information,Operational,Refresh,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Provider Enumeration Task Start Time. Provider: {message},{message}
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Provider Enumeration Task Start Time. Provider: {message},{message}
@@ -508,6 +517,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Provider Enumeration Task Start Time. Provider: {message},{message}
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Provider Enumeration Task Start Time. Provider: {message},{message}
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Provider Enumeration Task Start Time. Provider: {message},{message}
+101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Provider Enumeration Task Start Time. Provider: {message},{message}
 101,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Provider Enumeration Task Start Time. Provider: {message},{message}
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Provider Enumeration Task Complete Time. Provider: {message},{message}
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Provider Enumeration Task Complete Time. Provider: {message},{message}
@@ -559,6 +569,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Provider Enumeration Task Complete Time. Provider: {message},{message}
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Provider Enumeration Task Complete Time. Provider: {message},{message}
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Provider Enumeration Task Complete Time. Provider: {message},{message}
+102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Provider Enumeration Task Complete Time. Provider: {message},{message}
 102,0,Verbose,Operational,Provider enumerating objects,,General,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Provider Enumeration Task Complete Time. Provider: {message},{message}
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Shares Canvas Share Tile load starting. Time: {message},{message}
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Shares Canvas Share Tile load starting. Time: {message},{message}
@@ -610,6 +621,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Shares Canvas Share Tile load starting. Time: {message},{message}
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Shares Canvas Share Tile load starting. Time: {message},{message}
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Shares Canvas Share Tile load starting. Time: {message},{message}
+2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Shares Canvas Share Tile load starting. Time: {message},{message}
 2001,0,Verbose,Operational,Refresh,,Share,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Shares Canvas Share Tile load starting. Time: {message},{message}
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Shares Canvas Share Tile load completed. Time: {message},{message}
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Shares Canvas Share Tile load completed. Time: {message},{message}
@@ -661,6 +673,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Shares Canvas Share Tile load completed. Time: {message},{message}
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Shares Canvas Share Tile load completed. Time: {message},{message}
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Shares Canvas Share Tile load completed. Time: {message},{message}
+2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Shares Canvas Share Tile load completed. Time: {message},{message}
 2002,0,Verbose,Operational,Refresh,,Share,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Shares Canvas Share Tile load completed. Time: {message},{message}
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Volumes Canvas Volume Tile load starting. Time: {message},{message}
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Volumes Canvas Volume Tile load starting. Time: {message},{message}
@@ -712,6 +725,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Volumes Canvas Volume Tile load starting. Time: {message},{message}
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Volumes Canvas Volume Tile load starting. Time: {message},{message}
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Volumes Canvas Volume Tile load starting. Time: {message},{message}
+4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Volumes Canvas Volume Tile load starting. Time: {message},{message}
 4001,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Volumes Canvas Volume Tile load starting. Time: {message},{message}
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Volumes Canvas Volume Tile load completed. Time: {message},{message}
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Volumes Canvas Volume Tile load completed. Time: {message},{message}
@@ -763,6 +777,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Volumes Canvas Volume Tile load completed. Time: {message},{message}
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Volumes Canvas Volume Tile load completed. Time: {message},{message}
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Volumes Canvas Volume Tile load completed. Time: {message},{message}
+4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Volumes Canvas Volume Tile load completed. Time: {message},{message}
 4002,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Volumes Canvas Volume Tile load completed. Time: {message},{message}
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Pools Canvas Pool Tile load starting. Time: {message},{message}
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Pools Canvas Pool Tile load starting. Time: {message},{message}
@@ -814,6 +829,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Pools Canvas Pool Tile load starting. Time: {message},{message}
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Pools Canvas Pool Tile load starting. Time: {message},{message}
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Pools Canvas Pool Tile load starting. Time: {message},{message}
+4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Pools Canvas Pool Tile load starting. Time: {message},{message}
 4003,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Pools Canvas Pool Tile load starting. Time: {message},{message}
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Pools Canvas Pool Tile load completed. Time: {message},{message}
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Pools Canvas Pool Tile load completed. Time: {message},{message}
@@ -865,6 +881,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Pools Canvas Pool Tile load completed. Time: {message},{message}
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Pools Canvas Pool Tile load completed. Time: {message},{message}
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Pools Canvas Pool Tile load completed. Time: {message},{message}
+4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Pools Canvas Pool Tile load completed. Time: {message},{message}
 4004,0,Verbose,Operational,Refresh,,Storage,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Pools Canvas Pool Tile load completed. Time: {message},{message}
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
@@ -916,6 +933,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
+6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
 6000,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI VHD property page settings started. Object ID: {objectId},{objectId}
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
@@ -967,6 +985,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
+6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
 6001,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Canvas Vhds Tile load starting. Time: {message},{message}
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
@@ -1018,6 +1037,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
+6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
 6002,0,Verbose,Operational,Refresh,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Canvas Vhds Tile load completed. Time: {message},{message}
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
@@ -1069,6 +1089,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
+6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
 6003,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI VHD property page settings succeeded. Object ID: {objectId},{objectId}
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -1120,6 +1141,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6004,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI VHD property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
@@ -1171,6 +1193,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
+6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
 6005,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI Target property page settings started. Object ID: {objectId},{objectId}
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
@@ -1222,6 +1245,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
+6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
 6006,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI Target property page settings succeeded. Object ID: {objectId},{objectId}
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -1273,6 +1297,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6007,0,Information,Operational,Property page applying settings,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Applying iSCSI Target property page settings failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -1324,6 +1349,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6008,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -1375,6 +1401,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6009,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -1426,6 +1453,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6010,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -1477,6 +1505,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6011,0,Verbose,Debug,Provider enumerating objects,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
@@ -1528,6 +1557,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
+6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
 6012,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider update started. Object ID: {objectId},{objectId}
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
@@ -1579,6 +1609,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
+6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
 6013,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider update completed. Object ID: {objectId},{objectId}
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -1630,6 +1661,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6014,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider update started. Object ID: {objectId},{objectId}
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider update started. Object ID: {objectId},{objectId}
@@ -1681,6 +1713,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider update started. Object ID: {objectId},{objectId}
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider update started. Object ID: {objectId},{objectId}
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider update started. Object ID: {objectId},{objectId}
+6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider update started. Object ID: {objectId},{objectId}
 6015,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider update started. Object ID: {objectId},{objectId}
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
@@ -1732,6 +1765,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
+6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
 6016,0,Verbose,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider update completed. Object ID: {objectId},{objectId}
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -1783,6 +1817,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6017,0,Error,Debug,Provider updating object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider update failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
@@ -1834,6 +1869,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
+6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
 6018,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider deletion started. Object ID: {objectId},{objectId}
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
@@ -1885,6 +1921,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
+6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
 6019,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider deletion completed. Object ID: {objectId},{objectId}
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -1936,6 +1973,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6020,0,Error,Debug,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI VHD provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
@@ -1987,6 +2025,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
+6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
 6021,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider deletion started. Object ID: {objectId},{objectId}
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
@@ -2038,6 +2077,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
+6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
 6022,0,Verbose,Debug,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider deletion completed. Object ID: {objectId},{objectId}
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
@@ -2089,6 +2129,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
+6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6023,0,Error,Operational,Provider deleting object,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,iSCSI Target provider deletion failed. Object ID: {objectId}. Error message: {message},{objectId} | {message}
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
@@ -2140,6 +2181,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
+6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
 6024,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Conversion to iSCSI VHD model object failed. Error message: {message},{message}
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
@@ -2191,6 +2233,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
+6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
 6025,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Conversion to iSCSI VHD model object succeeded. Object ID: {objectId},{objectId}
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Conversion to iSCSI Target model object failed. Error message: {message},{message}
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Conversion to iSCSI Target model object failed. Error message: {message},{message}
@@ -2242,6 +2285,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Conversion to iSCSI Target model object failed. Error message: {message},{message}
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Conversion to iSCSI Target model object failed. Error message: {message},{message}
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Conversion to iSCSI Target model object failed. Error message: {message},{message}
+6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Conversion to iSCSI Target model object failed. Error message: {message},{message}
 6026,0,Error,Operational,PSObject conversion,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Conversion to iSCSI Target model object failed. Error message: {message},{message}
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
@@ -2293,6 +2337,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
+6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
 6027,0,Verbose,Debug,PSObject conversion,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Conversion to iSCSI Target model object succeeded. Object ID: {objectId},{objectId}
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -2344,6 +2389,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6028,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
@@ -2395,4 +2441,5 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6029,0,Information,Operational,Page navigation,,iSCSI,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,

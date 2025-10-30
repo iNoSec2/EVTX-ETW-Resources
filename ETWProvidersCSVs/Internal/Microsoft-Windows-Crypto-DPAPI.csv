@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
+1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 1,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DPAPI created Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
+2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 2,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DPAPI deleted Master key. 	GUID:	{MasterKeyGUID} 	User Storage Area:	{UserStorage},{MasterKeyGUID} | {UserStorage}
 3,0,Information,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,Master key access failed. 	GUID:			{MasterKeyGUID} 	Success:			{Success} 	Last error:		{LastError} 	Master key disposition:	{LastError},{MasterKeyGUID} | {Success} | {LastError} | {LastError}
@@ -1413,6 +1415,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 8,8,Pro,1970/01/01,9200.0,,
 4097,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1656,6 +1659,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 8,8,Pro,1970/01/01,9200.0,,
 4098,0,Information,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 4099,0,Error,Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc,BackUp Service Operation,,BackUp Service Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,DPAPI BackUp service setup of preferred backup keys failed. 	{FailureReason} 	Error code: {Status},{FailureReason} | {Status}
@@ -1946,6 +1950,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
 8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
 8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
+8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
 8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
 8193,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,System credentials creation in LSASS failed.  	Status:	{Status} ,{Status}
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
@@ -2189,6 +2194,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
+8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
 8194,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DPAPI Master key file open failed. 	FileName:	{FileName} 	Access:	{Access},{FileName} | {Access}
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2432,6 +2438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,,
 8195,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -2675,6 +2682,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1511,Pro,1970/01/01,10586.0,,
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 10,1507,Pro,2015/07/29,10240.0,,
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows 8,8,Pro,1970/01/01,9200.0,,
 8196,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Master Key Operation,,Master Key Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
@@ -2918,6 +2926,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 10,1511,Pro,1970/01/01,10586.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 10,1507,Pro,2015/07/29,10240.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
+8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 8,8,Pro,1970/01/01,9200.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8197,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DPAPI Protect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Operational,Data Protection Operation,,Data Protection Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
@@ -3161,6 +3170,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 10,1511,Pro,1970/01/01,10586.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 10,1507,Pro,2015/07/29,10240.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 8.1,8.1,Pro,1970/01/01,9600.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
+8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows 8,8,Pro,1970/01/01,9200.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8198,0,Error,Microsoft-Windows-Crypto-DPAPI/Debug,Data Protection Operation,,Data Protection Operation,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,DPAPI Unprotect failed . 	Status:	{Status} 	ReasonForFailure:	{ReasonForFailure},{Status} | {ReasonForFailure}
 8199,0,Error,Microsoft-Windows-Crypto-DPAPI/Operational,Master Key Operation,,Master Key Operation,Windows 11,24H2,Pro,2024/10/2,26100.1742,Synchronization of Master keys failed.  	Credential Key Identifier:	{CredKeyIdentifier} 	User Name:	{UserName} 	User Sid:	{UserSid},{CredKeyIdentifier} | {UserName} | {UserSid}

@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows 10,1511,Pro,1970/01/01,10586.0,{DebugMessage},{DebugMessage}
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows 10,1507,Pro,2015/07/29,10240.0,{DebugMessage},{DebugMessage}
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{DebugMessage},{DebugMessage}
+1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{DebugMessage},{DebugMessage}
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows 8,8,Pro,1970/01/01,9200.0,{DebugMessage},{DebugMessage}
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{DebugMessage},{DebugMessage}
 1,0,,Microsoft-Windows-WUSA/Debug,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,{DebugMessage},{DebugMessage}
@@ -486,6 +487,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 2,0,Information,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 2,0,Information,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+2,0,Information,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 2,0,Information,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 2,0,Information,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 2,0,Information,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} was successfully installed. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
@@ -732,6 +734,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Error,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 3,0,Error,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 3,0,Error,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
+3,0,Error,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 3,0,Error,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 3,0,Error,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 3,0,Error,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} could not be installed because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
@@ -978,6 +981,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Warning,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 4,0,Warning,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 4,0,Warning,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+4,0,Warning,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 4,0,Warning,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 4,0,Warning,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 4,0,Warning,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} requires a computer restart to complete the installation. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
@@ -1224,6 +1228,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Information,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 5,0,Information,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 5,0,Information,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+5,0,Information,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 5,0,Information,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 5,0,Information,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 5,0,Information,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,This computer will restart to complete the installation of Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
@@ -1470,6 +1475,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
 6,0,Error,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
 6,0,Error,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
+6,0,Error,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
 6,0,Error,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
 6,0,Error,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
 6,0,Error,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The Windows Modules Installer must be updated before you can install this package (Command line: '{CommandLine}'),{CommandLine}
@@ -1716,6 +1722,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Information,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 7,0,Information,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 7,0,Information,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+7,0,Information,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 7,0,Information,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 7,0,Information,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 7,0,Information,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} was successfully uninstalled. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
@@ -1961,6 +1968,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Error,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 8,0,Error,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 8,0,Error,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
+8,0,Error,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 8,0,Error,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 8,0,Error,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
 8,0,Error,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} could not be uninstalled because of error {ErrorCode} '{ErrorString}' (Command line: '{CommandLine}'),{UpdateTitle} | {ErrorCode} | {ErrorString} | {CommandLine}
@@ -2206,6 +2214,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Warning,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 9,0,Warning,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 9,0,Warning,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+9,0,Warning,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 9,0,Warning,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 9,0,Warning,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 9,0,Warning,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Windows update {UpdateTitle} requires a computer restart to finish uninstalling. (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
@@ -2451,6 +2460,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Information,Setup,,,,Windows 10,1511,Pro,1970/01/01,10586.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 10,0,Information,Setup,,,,Windows 10,1507,Pro,2015/07/29,10240.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 10,0,Information,Setup,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
+10,0,Information,Setup,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 10,0,Information,Setup,,,,Windows 8,8,Pro,1970/01/01,9200.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 10,0,Information,Setup,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}
 10,0,Information,Setup,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,This computer will restart to finish uninstalling Windows update {UpdateTitle} (Command line: '{CommandLine}'),{UpdateTitle} | {CommandLine}

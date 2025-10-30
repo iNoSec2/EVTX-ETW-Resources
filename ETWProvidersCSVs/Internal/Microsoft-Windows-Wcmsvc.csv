@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1001,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1001,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1001,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1001,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -482,6 +483,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1002,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1002,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
@@ -724,6 +726,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
+1003,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
 1003,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported a state change  State: {Status}  Name: {Name},{Status} | {Name}
 1004,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1004,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -966,6 +969,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1004,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1004,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1004,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1004,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,A Power change was processed.  Reason: {Reason},{Reason}
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,A Power change was processed.  Reason: {Reason},{Reason}
@@ -1208,6 +1212,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,A Power change was processed.  Reason: {Reason},{Reason}
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,A Power change was processed.  Reason: {Reason},{Reason}
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A Power change was processed.  Reason: {Reason},{Reason}
+1005,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A Power change was processed.  Reason: {Reason},{Reason}
 1005,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,A Power change was processed.  Reason: {Reason},{Reason}
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
@@ -1450,6 +1455,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
+1006,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
 1006,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,A Terminal Services session change was processed.  Reason: {Reason},{Reason}
 1007,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
 1007,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
@@ -1692,6 +1698,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
 1007,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
 1007,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
+1007,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
 1007,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported a state change  State: {Status}  Name: Nlasvc.,{Status}
 1008,0,Verbose,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
 1008,0,Verbose,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
@@ -1934,6 +1941,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Verbose,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
 1008,0,Verbose,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
 1008,0,Verbose,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
+1008,0,Verbose,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
 1008,0,Verbose,Diagnostic,,,,Windows 8,8,Pro,1970/01/01,9200.0,NLA interface property change Interface: {Interface GUID}Internet v4: {Internet Connectivity v4}Internet v6: {Internet Connectivity v6}Probe Complete v4: {Internet Probe Complete v4}Probe Complete v6: {Internet Probe Complete v6}Domain Authenticated: {Domain Connectivity}Domain Probe Complete: {Domain Probe Complete},
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -2176,6 +2184,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1009,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1009,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported an L2 adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -2418,6 +2427,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1010,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1010,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported an L2 adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -2660,6 +2670,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1011,0,Information,Diagnostic,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1011,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported a successful connection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
@@ -2902,6 +2913,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
+1012,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
 1012,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported a connection failure  Interface: {InterfaceGuid}  Type: {MediaType} Status: {Status},{InterfaceGuid} | {MediaType} | {Status}
 1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -3144,6 +3156,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1013,0,Information,Diagnostic,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1013,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported a disconnection  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1014,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
 1014,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
@@ -3386,6 +3399,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
 1014,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
 1014,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
+1014,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
 1014,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,WcmSetParameter CalledInterface: {Interface GUID}Profile Name: {Profile Name}Wcm Opcode: {Wcm Opcode}Data Length: {Data length}Caller Process ID: {Caller Process ID}Return Value: {Return Value},
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
@@ -3628,6 +3642,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
+1015,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
 1015,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}Auto Profiles: {Interface GUID}0,{Mediatype}
 1015,2,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {manualConnectEnabled}Auto enabled: {autoConnectEnabled},{Mediatype} | {manualConnectEnabled} | {autoConnectEnabled}
 1015,2,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Interface Token AppliedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {manualConnectEnabled}Auto enabled: {autoConnectEnabled},{Mediatype} | {manualConnectEnabled} | {autoConnectEnabled}
@@ -3917,6 +3932,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}AutoProfiles: {Interface GUID}0Status: {Interface GUID}1,{Mediatype}
 1016,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}AutoProfiles: {Interface GUID}0Status: {Interface GUID}1,{Mediatype}
 1016,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}AutoProfiles: {Interface GUID}0Status: {Interface GUID}1,{Mediatype}
+1016,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}AutoProfiles: {Interface GUID}0Status: {Interface GUID}1,{Mediatype}
 1016,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {Manual Connect}Manual Filter: {Manual Filter control}Num Manual: {Num Manual profiles}Manual Profiles: {Manual Profile Names}Auto enabled: {Auto Connect}Auto filter: {Auto Filter control}Num Auto: {Num Auto profiles}AutoProfiles: {Interface GUID}0Status: {Interface GUID}1,{Mediatype}
 1016,2,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {manualConnectEnabled}Auto enabled: {autoConnectEnabled}Status: {Error},{Mediatype} | {manualConnectEnabled} | {autoConnectEnabled} | {Error}
 1016,2,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Interface Token FailedInterface: {Interface GUID}Media Type: {Mediatype}Manual enabled: {manualConnectEnabled}Auto enabled: {autoConnectEnabled}Status: {Error},{Mediatype} | {manualConnectEnabled} | {autoConnectEnabled} | {Error}
@@ -4206,6 +4222,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1017,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Soft disconnect over thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1017,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Soft disconnect over thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1017,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Soft disconnect over thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
+1017,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Soft disconnect over thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1017,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Soft disconnect over thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1018,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1018,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
@@ -4448,6 +4465,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1018,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1018,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
+1018,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1018,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Soft disconnect under thresholds for interface: {Interface GUID}AvgIn: {Avg In} AvgOut: {Avg Out} SpikeIn: {Spike In} SpikeOut: {Spike Out}Thresholds: AvgIn: {Threshold Avg In} AvgOut: {Threshold Avg Out} SpikeIn: {Threshold Spike In} SpikeOut:{Threshold Spike Out}All values are in bytes/second,
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
@@ -4690,6 +4708,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
+1019,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
 1019,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported an unblocked profile  Interface: {InterfaceGuid}  Type: {MediaType} Profile: {Profile Name},{InterfaceGuid} | {MediaType}
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,WCM Preferred Order List:{WCM Preferred Order List},
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,WCM Preferred Order List:{WCM Preferred Order List},
@@ -4932,6 +4951,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,WCM Preferred Order List:{WCM Preferred Order List},
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,WCM Preferred Order List:{WCM Preferred Order List},
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WCM Preferred Order List:{WCM Preferred Order List},
+1020,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WCM Preferred Order List:{WCM Preferred Order List},
 1020,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,WCM Preferred Order List:{WCM Preferred Order List},
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -5174,6 +5194,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1022,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1022,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -5416,6 +5437,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1023,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1023,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
 1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
@@ -5658,6 +5680,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
 1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
 1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
+1024,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
 1024,0,Verbose,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Acquired NDIS NIC Active Reference for interface: {Interface GUID},
 1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Released NDIS NIC Active Reference for interface: {Interface GUID},
 1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Released NDIS NIC Active Reference for interface: {Interface GUID},
@@ -5900,6 +5923,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Released NDIS NIC Active Reference for interface: {Interface GUID},
 1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Released NDIS NIC Active Reference for interface: {Interface GUID},
 1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Released NDIS NIC Active Reference for interface: {Interface GUID},
+1025,0,Verbose,Diagnostic,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Released NDIS NIC Active Reference for interface: {Interface GUID},
 1025,0,Verbose,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Released NDIS NIC Active Reference for interface: {Interface GUID},
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -6142,6 +6166,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1026,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1026,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported an NDIS adapter arrival  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
@@ -6384,6 +6409,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
+1027,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1027,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,CDE reported an NDIS adapter removal  Interface: {InterfaceGuid}  Type: {MediaType},{InterfaceGuid} | {MediaType}
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -6626,6 +6652,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1028,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1028,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -6868,6 +6895,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1029,0,Information,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1029,0,Information,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,,
 1030,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Billing Cycle Reset Successful,
 1030,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Billing Cycle Reset Successful,
@@ -7110,6 +7138,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1030,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Billing Cycle Reset Successful,
 1030,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Billing Cycle Reset Successful,
 1030,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Billing Cycle Reset Successful,
+1030,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Billing Cycle Reset Successful,
 1030,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Billing Cycle Reset Successful,
 1031,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Server Time Retrieval Failure,
 1031,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,Server Time Retrieval Failure,
@@ -7352,6 +7381,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1031,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Server Time Retrieval Failure,
 1031,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Server Time Retrieval Failure,
 1031,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Server Time Retrieval Failure,
+1031,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Server Time Retrieval Failure,
 1031,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Server Time Retrieval Failure,
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
@@ -7594,6 +7624,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
+1032,0,Error,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1032,0,Error,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Acquire NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
@@ -7836,6 +7867,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 10,1511,Pro,1970/01/01,10586.0,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 10,1507,Pro,2015/07/29,10240.0,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
+1033,0,Error,Operational,,,LwtDiagnostic,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1033,0,Error,Operational,,,LwtDiagnostic,Windows 8,8,Pro,1970/01/01,9200.0,Release NDIS NIC Active Reference Failed for interface: {Interface GUID},
 1034,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
 1034,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
@@ -8078,6 +8110,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1034,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
 1034,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
 1034,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
+1034,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemandInterfaceStateChanged. OnDemandType:{OnDemandType}; Interface: {Interface GUID}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; NewState:{New State}; Ref counter:{Ref count},{OnDemandType}
 1035,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
 1035,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
 1035,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
@@ -8319,6 +8352,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1035,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
 1035,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
 1035,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
+1035,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand PDP Profile Created. OnDemandInfo:{APN name}; ProviderID:{Provider ID}; SubscriberID:{Subscriber ID}; Profile Name:{Profile name},
 1036,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
 1036,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
 1036,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
@@ -8560,6 +8594,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1036,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
 1036,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
 1036,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
+1036,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand PDP Profile Deleted. Profile Name:{Profile name},
 1037,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1037,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1037,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
@@ -8801,6 +8836,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1037,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1037,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1037,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
+1037,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand Request opened. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1038,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1038,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1038,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
@@ -9042,6 +9078,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1038,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1038,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1038,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
+1038,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand Request closed. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1039,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1039,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1039,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
@@ -9283,6 +9320,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1039,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1039,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1039,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
+1039,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand Request started. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1040,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1040,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1040,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
@@ -9524,6 +9562,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1040,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1040,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1040,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
+1040,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,OnDemand Request cancelled. App ID:{App ID}; ProcessID:{Process ID};OnDemandType:{OnDemandType}; OnDemandInfo:{OnDemand Info}; ProviderID:{Provider ID}; Error: {Error},{OnDemandType} | {Error}
 1050,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1050,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1050,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
@@ -9765,6 +9804,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1050,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1050,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1050,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
+1050,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WcmSvc acquired the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1051,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1051,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1051,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
@@ -10006,6 +10046,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1051,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1051,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1051,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
+1051,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,WcmSvc released the NIC reference for Interface: {Interface GUID} for reason: {ActionType},{ActionType}
 1052,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1052,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 1052,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -10967,6 +11008,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4020,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,End of Wwan Resume Reconnect,
 4020,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End of Wwan Resume Reconnect,
 4020,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End of Wwan Resume Reconnect,
+4020,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,End of Wwan Resume Reconnect,
 4020,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End of Wlan Resume Reconnect to Same Network,
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,End of Wlan Resume Reconnect to Same Network,
@@ -11209,6 +11251,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,End of Wlan Resume Reconnect to Same Network,
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End of Wlan Resume Reconnect to Same Network,
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End of Wlan Resume Reconnect to Same Network,
+4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,End of Wlan Resume Reconnect to Same Network,
 4021,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End of Wlan Resume Reconnect to Same Network OneX,
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,End of Wlan Resume Reconnect to Same Network OneX,
@@ -11451,6 +11494,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,End of Wlan Resume Reconnect to Same Network OneX,
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End of Wlan Resume Reconnect to Same Network OneX,
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End of Wlan Resume Reconnect to Same Network OneX,
+4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,End of Wlan Resume Reconnect to Same Network OneX,
 4022,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End of Wlan Resume Reconnect to Different Network,
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,End of Wlan Resume Reconnect to Different Network,
@@ -11693,6 +11737,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,End of Wlan Resume Reconnect to Different Network,
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End of Wlan Resume Reconnect to Different Network,
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End of Wlan Resume Reconnect to Different Network,
+4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,End of Wlan Resume Reconnect to Different Network,
 4023,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,End of Wlan Resume Reconnect to Different Network OneX,
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,End of Wlan Resume Reconnect to Different Network OneX,
@@ -11935,6 +11980,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,End of Wlan Resume Reconnect to Different Network OneX,
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,End of Wlan Resume Reconnect to Different Network OneX,
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,End of Wlan Resume Reconnect to Different Network OneX,
+4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,End of Wlan Resume Reconnect to Different Network OneX,
 4024,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Cancel of Wlan Resume Reconnect2,
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,Cancel of Wlan Resume Reconnect2,
@@ -12177,6 +12223,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,Cancel of Wlan Resume Reconnect2,
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,Cancel of Wlan Resume Reconnect2,
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Cancel of Wlan Resume Reconnect2,
+4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Cancel of Wlan Resume Reconnect2,
 4025,0,Information,Diagnostic,Measure WLAN Resume Reconnect task,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -12419,6 +12466,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4026,0,Information,Diagnostic,Measure WWAN Resume Reconnect task,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4027,0,Information,Operational,,,LwtDiagnostic,Windows 11,24H2,Pro,2024/10/2,26100.1742,WcmSvc CmPdcActivationClientRegister - Status [{Status}],{Status}
 4027,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/12/20,22621.963,WcmSvc CmPdcActivationClientRegister - Status [{Status}],{Status}
 4027,0,Information,Operational,,,LwtDiagnostic,Windows 11,22H2,Pro,2022/11/15,22621.819,WcmSvc CmPdcActivationClientRegister - Status [{Status}],{Status}
@@ -15060,6 +15108,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10001,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10001,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10001,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10001,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10001,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 10002,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10002,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -15302,6 +15351,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10002,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10002,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10002,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10002,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10002,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 10003,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10003,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -15544,6 +15594,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10003,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10003,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10003,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10003,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10003,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 10004,0,Information,Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10004,0,Information,Operational,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -15786,6 +15837,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10004,0,Information,Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10004,0,Information,Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10004,0,Information,Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10004,0,Information,Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10004,0,Information,Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 10005,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10005,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
@@ -16028,6 +16080,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10005,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10005,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10005,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10005,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 10006,0,Information,Diagnostic,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 10006,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 10006,0,Information,Diagnostic,,,,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -16269,3 +16322,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10006,0,Information,Diagnostic,,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 10006,0,Information,Diagnostic,,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 10006,0,Information,Diagnostic,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+10006,0,Information,Diagnostic,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,

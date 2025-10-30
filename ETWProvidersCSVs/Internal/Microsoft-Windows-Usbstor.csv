@@ -49,3 +49,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Information,Microsoft-Windows-Usbstor/Analytic,Io,,Logo Performance measurement,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Request servicing time taken by USBSTOR driver stack.,
 100,0,Information,Microsoft-Windows-Usbstor/Analytic,Io,,Logo Performance measurement,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Request servicing time taken by USBSTOR driver stack.,
 100,0,Information,Microsoft-Windows-Usbstor/Analytic,Io,,Logo Performance measurement,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Request servicing time taken by USBSTOR driver stack.,
+100,0,Information,Microsoft-Windows-Usbstor/Analytic,Io,,Logo Performance measurement,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Request servicing time taken by USBSTOR driver stack.,

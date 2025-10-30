@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Core initialization failed.  Details: {Error},{Error}
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Core initialization failed.  Details: {Error},{Error}
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Core initialization failed.  Details: {Error},{Error}
+5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Core initialization failed.  Details: {Error},{Error}
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Core initialization failed.  Details: {Error},{Error}
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Core initialization failed.  Details: {Error},{Error}
 5001,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Core initialization failed.  Details: {Error},{Error}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
+5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
 5002,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Page initialization failed.  Details: {Error} Page: {Message},{Error} | {Message}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
+5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
 5003,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,GetHomeGroupStatus failed.  Details: {Error},{Error}
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,GetSharingFlags failed.  Details: {Error},{Error}
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,GetSharingFlags failed.  Details: {Error},{Error}
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,GetSharingFlags failed.  Details: {Error},{Error}
+5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,GetSharingFlags failed.  Details: {Error},{Error}
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,GetSharingFlags failed.  Details: {Error},{Error}
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,GetSharingFlags failed.  Details: {Error},{Error}
 5004,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,GetSharingFlags failed.  Details: {Error},{Error}
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
 5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
 5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
+5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
 5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
 5005,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,PopulateSharedFolderList failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,Retrieve network discovery failed.  Details: {Error},{Error}
@@ -1463,6 +1468,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve network discovery failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve network discovery failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve network discovery failed.  Details: {Error},{Error}
+5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve network discovery failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve network discovery failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve network discovery failed.  Details: {Error},{Error}
 5006,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve network discovery failed.  Details: {Error},{Error}
@@ -1708,6 +1714,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve file sharing failed.  Details: {Error},{Error}
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve file sharing failed.  Details: {Error},{Error}
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve file sharing failed.  Details: {Error},{Error}
+5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve file sharing failed.  Details: {Error},{Error}
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve file sharing failed.  Details: {Error},{Error}
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve file sharing failed.  Details: {Error},{Error}
 5007,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve file sharing failed.  Details: {Error},{Error}
@@ -1953,6 +1960,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve public folder failed.  Details: {Error},{Error}
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve public folder failed.  Details: {Error},{Error}
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve public folder failed.  Details: {Error},{Error}
+5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve public folder failed.  Details: {Error},{Error}
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve public folder failed.  Details: {Error},{Error}
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve public folder failed.  Details: {Error},{Error}
 5008,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve public folder failed.  Details: {Error},{Error}
@@ -2198,6 +2206,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve printer sharing failed.  Details: {Error},{Error}
+5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5009,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve printer sharing failed.  Details: {Error},{Error}
@@ -2443,6 +2452,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve media sharing failed.  Details: {Error},{Error}
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve media sharing failed.  Details: {Error},{Error}
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve media sharing failed.  Details: {Error},{Error}
+5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve media sharing failed.  Details: {Error},{Error}
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve media sharing failed.  Details: {Error},{Error}
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve media sharing failed.  Details: {Error},{Error}
 5010,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve media sharing failed.  Details: {Error},{Error}
@@ -2688,6 +2698,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5011,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit network discovery failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -2933,6 +2944,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5012,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit file sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -3178,6 +3190,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5013,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -3423,6 +3436,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5014,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit printer sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -3668,6 +3682,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5015,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit media sharing failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -3913,6 +3928,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Share folder failed.  Details: {Error}  FolderId: {guid}  Context: {DWORD},{Error} | {guid} | {DWORD}
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Share folder failed.  Details: {Error}  FolderId: {guid}  Context: {DWORD},{Error} | {guid} | {DWORD}
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Share folder failed.  Details: {Error}  FolderId: {guid}  Context: {DWORD},{Error} | {guid} | {DWORD}
+5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Share folder failed.  Details: {Error}  FolderId: {guid}  Context: {DWORD},{Error} | {guid} | {DWORD}
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Share folder failed.  Details: {Error}  FolderId: {GUID}  Context: {DWORD},{Error} | {GUID} | {DWORD}
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Share folder failed.  Details: {Error}  FolderId: {GUID}  Context: {DWORD},{Error} | {GUID} | {DWORD}
 5016,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Share folder failed.  Details: {Error}  FolderId: {GUID}  Context: {DWORD},{Error} | {GUID} | {DWORD}
@@ -4158,6 +4174,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieve printer sharing failed.  Details: {Error},{Error}
+5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieve printer sharing failed.  Details: {Error},{Error}
 5017,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieve printer sharing failed.  Details: {Error},{Error}
@@ -4403,6 +4420,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5018,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit password protection failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -4648,6 +4666,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
+5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
 5020,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Commit public folder failed.  Details: {Error}  Context: {DWORD},{Error} | {DWORD}
@@ -4893,6 +4912,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
+5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
 5021,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Retrieving UI status from SSO failed.  Details: {Error},{Error}
@@ -5138,6 +5158,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
+5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to initialize homegroup printer monitor.  Details: {Error},{Error}
 5022,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to initialize Homegroup printer monitor.  Details: {Error},{Error}
@@ -5383,6 +5404,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully installed homegroup printer,
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully installed homegroup printer,
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully installed homegroup printer,
+5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully installed homegroup printer,
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully installed homegroup printer,
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully installed homegroup printer,
 5023,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Successfully installed Homegroup printer,
@@ -5628,6 +5650,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully removed homegroup printer,
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully removed homegroup printer,
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully removed homegroup printer,
+5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully removed homegroup printer,
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully removed homegroup printer,
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully removed homegroup printer,
 5024,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Successfully removed Homegroup printer,
@@ -5873,6 +5896,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to install homegroup printer. Details: {Error},{Error}
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to install homegroup printer. Details: {Error},{Error}
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to install homegroup printer. Details: {Error},{Error}
+5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to install homegroup printer. Details: {Error},{Error}
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to install homegroup printer. Details: {Error},{Error}
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to install homegroup printer. Details: {Error},{Error}
 5025,0,Error,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to install Homegroup printer. Details: {Error},{Error}
@@ -6118,6 +6142,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Starting printer monitor,
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Starting printer monitor,
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Starting printer monitor,
+5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Starting printer monitor,
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Starting printer monitor,
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Starting printer monitor,
 5026,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Starting printer monitor,
@@ -6363,6 +6388,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Stopping printer monitor,
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Stopping printer monitor,
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Stopping printer monitor,
+5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Stopping printer monitor,
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Stopping printer monitor,
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Stopping printer monitor,
 5027,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Stopping printer monitor,
@@ -6608,6 +6634,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Shared printer message received. Attempting to install.,
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Shared printer message received. Attempting to install.,
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Shared printer message received. Attempting to install.,
+5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Shared printer message received. Attempting to install.,
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Shared printer message received. Attempting to install.,
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Shared printer message received. Attempting to install.,
 5028,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Shared printer message received. Attempting to install.,
@@ -6853,6 +6880,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Shared printer message removed. Attempting to uninstall.,
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Shared printer message removed. Attempting to uninstall.,
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Shared printer message removed. Attempting to uninstall.,
+5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Shared printer message removed. Attempting to uninstall.,
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Shared printer message removed. Attempting to uninstall.,
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Shared printer message removed. Attempting to uninstall.,
 5029,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Shared printer message removed. Attempting to uninstall.,
@@ -7098,6 +7126,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to install printer.  Notifying user.,
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to install printer.  Notifying user.,
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to install printer.  Notifying user.,
+5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to install printer.  Notifying user.,
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to install printer.  Notifying user.,
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to install printer.  Notifying user.,
 5030,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to install printer.  Notifying user.,
@@ -7343,6 +7372,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7588,6 +7618,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Core,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7833,6 +7864,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8078,6 +8110,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_Page,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8323,6 +8356,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8568,6 +8602,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_HomeGroupPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8813,6 +8848,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9058,6 +9094,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_AdvancedPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9303,6 +9340,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9548,6 +9586,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_CreateElevatedObjects,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9793,6 +9832,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10038,6 +10078,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageRetrieve,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10283,6 +10324,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6013,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10528,6 +10570,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6014,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_HomeGroupPageCommit,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10773,6 +10816,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6015,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11018,6 +11062,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6016,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageRetrieve,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11263,6 +11308,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11508,6 +11554,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Settings_AdvancedPageCommit,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11753,6 +11800,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6019,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11998,6 +12046,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6020,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Event,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -12243,6 +12292,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6021,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -12488,6 +12538,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6022,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Event,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -12733,6 +12784,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6023,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -12978,6 +13030,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6024,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Event,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -13223,6 +13276,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6025,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -13468,6 +13522,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6026,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_AvailableToJoin_Balloon,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -13713,6 +13768,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6027,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -13958,6 +14014,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6028,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_PasskeyChangeRequired_Balloon,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -14203,6 +14260,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6029,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -14448,6 +14506,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6030,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Notification_MergeRequired_Balloon,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -14693,6 +14752,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6031,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -14938,6 +14998,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 6032,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_LaunchCreateJoin,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -15183,6 +15244,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7001,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -15428,6 +15490,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7002,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_BeginPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -15673,6 +15736,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7003,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -15918,6 +15982,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7004,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_PasskeyPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -16163,6 +16228,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7005,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -16408,6 +16474,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7006,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_FinishedPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -16653,6 +16720,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7007,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -16898,6 +16966,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7008,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_ConfirmPage,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -17143,6 +17212,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7009,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -17388,6 +17458,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7010,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_PasswordGeneration,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -17633,6 +17704,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7011,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -17878,6 +17950,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7012,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Action_DoCreateJoinChange,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -18123,6 +18196,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7017,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Start,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -18366,6 +18440,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows 10,1511,Pro,1970/01/01,10586.0,,
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows 10,1507,Pro,2015/07/29,10240.0,,
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows 8,8,Pro,1970/01/01,9200.0,,
 7018,0,Information,Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic,Initialization_SharingPage,Stop,HomeGroup,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 11,24H2,Pro,2024/10/2,26100.1742,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
@@ -18609,5 +18684,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1511,Pro,1970/01/01,10586.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 10,1507,Pro,2015/07/29,10240.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
+8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows 8,8,Pro,1970/01/01,9200.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}
 8001,0,Information,Microsoft-Windows-HomeGroup Control Panel/Operational,,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The homegroup state has changed. Old state: {OldState}. New state: {NewState}.,{OldState} | {NewState}

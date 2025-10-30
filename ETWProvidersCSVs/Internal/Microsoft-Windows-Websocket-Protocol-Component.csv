@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows 10,1511,Pro,1970/01/01,10586.0,{TraceMessage},{TraceMessage}
 1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows 10,1507,Pro,2015/07/29,10240.0,{TraceMessage},{TraceMessage}
 1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{TraceMessage},{TraceMessage}
+1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{TraceMessage},{TraceMessage}
 1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows 8,8,Pro,1970/01/01,9200.0,{TraceMessage},{TraceMessage}
 1,0,Error,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Parser,,KW_ALL,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,{TraceMessage},{TraceMessage}
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows 11,24H2,Pro,2024/10/2,26100.1742,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
@@ -483,6 +484,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows 10,1511,Pro,1970/01/01,10586.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows 10,1507,Pro,2015/07/29,10240.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
+2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows 8,8,Pro,1970/01/01,9200.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
 2,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Start,KW_ALL,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Operation of '{OperationType}' type queued with ID '{Id}'.,{OperationType} | {Id}
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows 11,24H2,Pro,2024/10/2,26100.1742,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
@@ -726,6 +728,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows 10,1511,Pro,1970/01/01,10586.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows 10,1507,Pro,2015/07/29,10240.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
+3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows 8,8,Pro,1970/01/01,9200.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
 3,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,,KW_ALL,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Operation '{Id}' is executing action '{ActionType}'.,{Id} | {ActionType}
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows 11,24H2,Pro,2024/10/2,26100.1742,Operation '{Id}' finished.,{Id}
@@ -969,5 +972,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows 10,1511,Pro,1970/01/01,10586.0,Operation '{Id}' finished.,{Id}
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows 10,1507,Pro,2015/07/29,10240.0,Operation '{Id}' finished.,{Id}
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Operation '{Id}' finished.,{Id}
+4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Operation '{Id}' finished.,{Id}
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows 8,8,Pro,1970/01/01,9200.0,Operation '{Id}' finished.,{Id}
 4,0,Information,Microsoft-Windows-Websocket-Protocol-Component/Tracing,Action queue,Stop,KW_ALL,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Operation '{Id}' finished.,{Id}

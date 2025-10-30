@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows 10,1511,Pro,1970/01/01,10586.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows 10,1507,Pro,2015/07/29,10240.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
+1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows 8,8,Pro,1970/01/01,9200.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
 1,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_ProviderDisabled,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,The check provider {CLSID} has been disabled.  HRESULT={HRESULT}.,{CLSID} | {HRESULT}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows 10,1511,Pro,1970/01/01,10586.0,Icon message received: {Message}.,{Message}
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows 10,1507,Pro,2015/07/29,10240.0,Icon message received: {Message}.,{Message}
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Icon message received: {Message}.,{Message}
+2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Icon message received: {Message}.,{Message}
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows 8,8,Pro,1970/01/01,9200.0,Icon message received: {Message}.,{Message}
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Icon message received: {Message}.,{Message}
 2,0,Verbose,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconMessage,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Icon message received: {Message}.,{Message}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1511,Pro,1970/01/01,10586.0,Notification already exists: {CannonicalName}.,{CannonicalName}
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1507,Pro,2015/07/29,10240.0,Notification already exists: {CannonicalName}.,{CannonicalName}
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Notification already exists: {CannonicalName}.,{CannonicalName}
+3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Notification already exists: {CannonicalName}.,{CannonicalName}
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8,8,Pro,1970/01/01,9200.0,Notification already exists: {CannonicalName}.,{CannonicalName}
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Notification already exists: {CannonicalName}.,{CannonicalName}
 3,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Notification already exists: {CannonicalName}.,{CannonicalName}
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows 10,1511,Pro,1970/01/01,10586.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows 10,1507,Pro,2015/07/29,10240.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
+4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows 8,8,Pro,1970/01/01,9200.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
 4,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_UnknownCheck,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An event specifying unknown check {EventID} (version {EventVeresion}) was found in the channel {ChannelName},{EventID} | {EventVeresion} | {ChannelName}
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 10,1511,Pro,1970/01/01,10586.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 10,1507,Pro,2015/07/29,10240.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
+5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 8,8,Pro,1970/01/01,9200.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
 5,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,An event specifying unknown state {StateID} for check with canonical name {CanonicalName} was found,{StateID} | {CanonicalName}
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
+6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
 6,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SetState,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to set state ({StateID}) for check with canonical name {CanonicalName}: HRESULT = {HRESULT}.,{StateID} | {CanonicalName} | {HRESULT}
@@ -1710,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows 10,1511,Pro,1970/01/01,10586.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows 10,1507,Pro,2015/07/29,10240.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
+7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows 8,8,Pro,1970/01/01,9200.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
 7,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SSOInitialization,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Worker thread failure during initialization: HRESULT={HRESULT}.,{HRESULT}
@@ -1955,6 +1962,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
+8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
 8,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to set icon state when adding new notification: HRESULT={HRESULT}.,{HRESULT}
@@ -2200,6 +2208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1511,Pro,1970/01/01,10586.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1507,Pro,2015/07/29,10240.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
+9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8,8,Pro,1970/01/01,9200.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
 9,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Icon processing of new notification failed: HRESULT={HRESULT}.,{HRESULT}
@@ -2445,6 +2454,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1511,Pro,1970/01/01,10586.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 10,1507,Pro,2015/07/29,10240.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
+10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows 8,8,Pro,1970/01/01,9200.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
 10,0,Warning,Microsoft-Windows-HealthCenter/Debug,HealthCenter_IconNotificationCaching,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Icon processing of notification removal failed: HRESULT={HRESULT}.,{HRESULT}
@@ -2690,6 +2700,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows 10,1511,Pro,1970/01/01,10586.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows 10,1507,Pro,2015/07/29,10240.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
+11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows 8,8,Pro,1970/01/01,9200.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 11,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadFromCache,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Cache read for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
@@ -2935,6 +2946,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows 10,1511,Pro,1970/01/01,10586.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows 10,1507,Pro,2015/07/29,10240.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
+12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows 8,8,Pro,1970/01/01,9200.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 12,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_SaveToCache,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Cache written for check provider {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
@@ -3180,6 +3192,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
+13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 13,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to process new crimson event from channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
@@ -3425,6 +3438,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
+14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 14,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to set bookmark for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
@@ -3670,6 +3684,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Error event in channel {ChannelName}.,{ChannelName}
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Error event in channel {ChannelName}.,{ChannelName}
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Error event in channel {ChannelName}.,{ChannelName}
+15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Error event in channel {ChannelName}.,{ChannelName}
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Error event in channel {ChannelName}.,{ChannelName}
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Error event in channel {ChannelName}.,{ChannelName}
 15,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Error event in channel {ChannelName}.,{ChannelName}
@@ -3915,6 +3930,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
+16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 16,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to process an existing event for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
@@ -4160,6 +4176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
+17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
 17,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed failed while reading existing events for channel {ChannelName}: HRESULT={HRESULT}.,{ChannelName} | {HRESULT}
@@ -4405,6 +4422,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
+18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
 18,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_CrimsonProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to resolve {InputString}: HRESULT={HRESULT}.,{InputString} | {HRESULT}
@@ -4650,6 +4668,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
+19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows 8,8,Pro,1970/01/01,9200.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
 19,0,Error,Microsoft-Windows-HealthCenter/Debug,HealthCenter_LoadSettings,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Failed to load settings for check with canonical name {CanonicalName}: HRESULT={HRESULT}.,{CanonicalName} | {HRESULT}
@@ -4895,6 +4914,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
+20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
 20,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Added notification with canonical name {CanonicalName}.,{CanonicalName}
@@ -5140,6 +5160,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 10,1511,Pro,1970/01/01,10586.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 10,1507,Pro,2015/07/29,10240.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
+21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows 8,8,Pro,1970/01/01,9200.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
 21,0,Information,Microsoft-Windows-HealthCenter/Debug,HealthCenter_NotificationProcessing,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Removed notification with canonical name {CanonicalName}.,{CanonicalName}
@@ -5385,6 +5406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 100,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5630,6 +5652,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 101,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StringExpansion,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -5875,6 +5898,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 102,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6120,6 +6144,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 103,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_StateChange,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6365,6 +6390,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 104,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6610,6 +6636,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 105,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_LoadFromCache,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -6855,6 +6882,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 106,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7100,6 +7128,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 107,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_SaveToCache,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7345,6 +7374,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 108,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7590,6 +7620,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 109,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Startup,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -7835,6 +7866,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 110,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8080,6 +8112,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 111,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_Shutdown,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8325,6 +8358,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 112,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8570,6 +8604,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 113,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconBalloon,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -8815,6 +8850,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 114,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9060,6 +9096,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 115,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconToolTip,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9305,6 +9342,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 116,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9550,16 +9588,19 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 117,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconFlyout,Stop,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,WHC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,WHC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,WHC,Windows 8,8,Pro,1970/01/01,9200.0,,
 118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,WHC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
 118,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Start,,Windows 7,SP1,Ultimate,1970/01/01,7601.0,,
 119,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Stop,WHC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+119,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Stop,WHC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 119,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Stop,WHC,Windows 8,8,Pro,1970/01/01,9200.0,,
 119,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Stop,WHC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 119,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconContextMenu,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -9805,6 +9846,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 120,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10050,6 +10092,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 121,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_IconProcessNotification,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10295,6 +10338,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows 8,8,Pro,1970/01/01,9200.0,,
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 122,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Start,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10540,6 +10584,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows 8,8,Pro,1970/01/01,9200.0,,
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 123,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_ProviderInitialized,Stop,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -10785,6 +10830,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows 10,1511,Pro,1970/01/01,10586.0,,
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows 10,1507,Pro,2015/07/29,10240.0,,
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows 8,8,Pro,1970/01/01,9200.0,,
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 124,0,Information,Microsoft-Windows-HealthCenter/Performance,HealthCenter_CPLLaunch,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11030,6 +11076,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows 8,8,Pro,1970/01/01,9200.0,,
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1000,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Start,WHC,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11275,6 +11322,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows 8,8,Pro,1970/01/01,9200.0,,
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1001,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_IconInitialized,Stop,WHC,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -11520,5 +11568,6 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows 8,8,Pro,1970/01/01,9200.0,,
 1002,0,Information,Microsoft-Windows-HealthCenter/Performance,Perftrack_HealthCenter_OpenUsingIconFlyout,Stop,WHC,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,

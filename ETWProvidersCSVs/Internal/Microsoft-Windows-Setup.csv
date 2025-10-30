@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows 10,1511,Pro,1970/01/01,10586.0,Setup phase {SetupPhase} started.,{SetupPhase}
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Setup phase {SetupPhase} started.,{SetupPhase}
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Setup phase {SetupPhase} started.,{SetupPhase}
+1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Setup phase {SetupPhase} started.,{SetupPhase}
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Setup phase {SetupPhase} started.,{SetupPhase}
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Setup phase {SetupPhase} started.,{SetupPhase}
 1001,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Start,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Setup phase {SetupPhase} started.,{SetupPhase}
@@ -485,6 +486,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows 10,1511,Pro,1970/01/01,10586.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows 10,1507,Pro,2015/07/29,10240.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
+1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows 8,8,Pro,1970/01/01,9200.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
 1002,0,Information,Microsoft-Windows-Setup/Analytic,Execute Setup Phase,Stop,Performance,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Setup phase completed with status {ErrorCode}.,{ErrorCode}
@@ -730,6 +732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows 10,1511,Pro,1970/01/01,10586.0,,
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows 10,1507,Pro,2015/07/29,10240.0,,
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows 8,8,Pro,1970/01/01,9200.0,,
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 2001,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Start,Performance Sysprep,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,,
@@ -975,6 +978,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows 10,1511,Pro,1970/01/01,10586.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows 10,1507,Pro,2015/07/29,10240.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
+2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows 8,8,Pro,1970/01/01,9200.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
 2002,0,Information,Microsoft-Windows-Setup/Analytic,Sysprep Specialize,Stop,Performance Sysprep,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Sysprep specialize completed with status {ErrorCode}.,{ErrorCode}
@@ -1220,6 +1224,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2003,0,Information,System,Setup information,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully logged Setup information,
 2003,0,Information,System,Setup information,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully logged Setup information,
 2003,0,Information,System,Setup information,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully logged Setup information,
+2003,0,Information,System,Setup information,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully logged Setup information,
 2003,0,Information,System,Setup information,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully logged Setup information,
 2003,0,Information,System,Setup information,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully logged Setup information,
 2003,0,Information,System,Setup information,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Successfully logged Setup information,
@@ -1465,6 +1470,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2004,0,Information,System,OS information,,,Windows 10,1511,Pro,1970/01/01,10586.0,Successfully logged OS information,
 2004,0,Information,System,OS information,,,Windows 10,1507,Pro,2015/07/29,10240.0,Successfully logged OS information,
 2004,0,Information,System,OS information,,,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Successfully logged OS information,
+2004,0,Information,System,OS information,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Successfully logged OS information,
 2004,0,Information,System,OS information,,,Windows 8,8,Pro,1970/01/01,9200.0,Successfully logged OS information,
 2004,0,Information,System,OS information,,,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Successfully logged OS information,
 2004,0,Information,System,OS information,,,Windows Server 2008R2,SP1,Standard,2011/02/09,7601.0,Successfully logged OS information,

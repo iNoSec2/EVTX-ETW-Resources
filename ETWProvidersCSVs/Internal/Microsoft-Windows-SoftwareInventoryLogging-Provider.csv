@@ -49,6 +49,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1001,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1001,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1001,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -99,6 +100,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1002,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -149,6 +151,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1003,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1003,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -199,6 +202,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1004,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1005,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1005,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1005,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -249,6 +253,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1005,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1005,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1005,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -299,6 +304,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1006,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1006,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -349,6 +355,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1007,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1008,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1008,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1008,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -399,6 +406,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1008,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1008,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1008,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -449,6 +457,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1009,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1009,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -499,6 +508,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1010,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1011,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1011,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1011,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -549,6 +559,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1011,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1011,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1011,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -599,6 +610,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1012,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1012,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -649,6 +661,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1013,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1014,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1014,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1014,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -699,6 +712,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1014,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1014,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1014,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -749,6 +763,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1015,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1015,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -799,6 +814,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1016,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1017,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1017,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1017,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -849,6 +865,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1017,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1017,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1017,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1017,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -899,6 +916,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1018,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1018,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -949,6 +967,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1019,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1020,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1020,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1020,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -999,6 +1018,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1020,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1020,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1020,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1049,6 +1069,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1030,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1030,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1099,6 +1120,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1031,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1032,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1032,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1032,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
@@ -1149,6 +1171,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1032,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1032,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1032,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
+1032,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Enumerate Server error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1199,6 +1222,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1033,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1033,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1249,6 +1273,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1034,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1035,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1035,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1035,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
@@ -1299,6 +1324,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1035,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1035,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1035,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
+1035,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Enumerate QFE error.  Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1349,6 +1375,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1036,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1036,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1399,6 +1426,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1037,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1038,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1038,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1038,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
@@ -1449,6 +1477,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1038,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1038,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1038,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
+1038,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Enumerate Software error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1499,6 +1528,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1039,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1039,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1549,6 +1579,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1040,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1041,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1041,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1041,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
@@ -1599,6 +1630,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1041,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1041,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1041,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
+1041,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Enumerate UAL Access error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1649,6 +1681,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1042,0,Information,Operational,Lifetime,Start,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1042,0,Information,Operational,Lifetime,Start,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,,
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,,
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,,
@@ -1699,6 +1732,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,,
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,,
 1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,,
+1043,0,Information,Operational,Lifetime,Stop,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1044,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1044,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1044,0,Error,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
@@ -1749,6 +1783,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1044,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1044,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1044,0,Error,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
+1044,0,Error,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Get Guest Data error. Error: {error}; Type: {errorType}; Message: {errorMessage},{error} | {errorType} | {errorMessage}
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
@@ -1799,6 +1834,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
 1045,0,Warning,Operational,Lifetime,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
+1045,0,Warning,Operational,Lifetime,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Get Guest Data warning. Failed to get guest FQDN. Guest may not be running. VM Guid: {vmGuid}.,{vmGuid}
 1100,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1100,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1100,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
@@ -1849,6 +1885,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1100,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1100,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1100,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
+1100,0,Information,Debug,DataDecode,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Deserialize guest data started. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1101,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/08/16,20348.887,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1101,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/07/19,20348.825,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1101,0,Information,Debug,DataDecode,,,Windows Server 2022,21H2,Standard,2022/06/21,20348.768,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
@@ -1899,3 +1936,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1101,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2016/11/08,14393.447,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1101,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2017/11/14,14393.1884,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
 1101,0,Information,Debug,DataDecode,,,Windows Server 2016,1607,Standard,2016/10/12,14393.0,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}
+1101,0,Information,Debug,DataDecode,,,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Deserialize guest data stopped. VM Guid: {vmGuid}; File: {tempFileName}.,{vmGuid} | {tempFileName}

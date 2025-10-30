@@ -240,6 +240,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1,1,Information,Analytic,,,Plug & Play events.,Windows 10,1511,Pro,1970/01/01,10586.0,SerCx2 loaded ({ControlDeviceName}).,{ControlDeviceName}
 1,1,Information,Analytic,,,Plug & Play events.,Windows 10,1507,Pro,2015/07/29,10240.0,SerCx2 loaded ({ControlDeviceName}).,{ControlDeviceName}
 1,1,Information,Analytic,,,Plug & Play events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SerCx2 loaded ({ControlDeviceName}).,{ControlDeviceName}
+1,1,Information,Analytic,,,Plug & Play events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SerCx2 loaded ({ControlDeviceName}).,{ControlDeviceName}
 2,1,Error,System,,,Plug & Play events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,SerCx2 failed to load ({Status}).,{Status}
 2,1,Error,System,,,Plug & Play events.,Windows 11,22H2,Pro,2022/12/20,22621.963,SerCx2 failed to load ({Status}).,{Status}
 2,1,Error,System,,,Plug & Play events.,Windows 11,22H2,Pro,2022/11/15,22621.819,SerCx2 failed to load ({Status}).,{Status}
@@ -481,6 +482,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 2,1,Error,System,,,Plug & Play events.,Windows 10,1511,Pro,1970/01/01,10586.0,SerCx2 failed to load ({Status}).,{Status}
 2,1,Error,System,,,Plug & Play events.,Windows 10,1507,Pro,2015/07/29,10240.0,SerCx2 failed to load ({Status}).,{Status}
 2,1,Error,System,,,Plug & Play events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,SerCx2 failed to load ({Status}).,{Status}
+2,1,Error,System,,,Plug & Play events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,SerCx2 failed to load ({Status}).,{Status}
 3,1,Information,Analytic,,,Plug & Play events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 3,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 3,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -722,6 +724,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 3,1,Information,Analytic,,,Plug & Play events.,Windows 10,1511,Pro,1970/01/01,10586.0,,
 3,1,Information,Analytic,,,Plug & Play events.,Windows 10,1507,Pro,2015/07/29,10240.0,,
 3,1,Information,Analytic,,,Plug & Play events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+3,1,Information,Analytic,,,Plug & Play events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -963,6 +966,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 10,1511,Pro,1970/01/01,10586.0,,
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 10,1507,Pro,2015/07/29,10240.0,,
 4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+4,1,Information,Analytic,Rundown events.,Start,Rundown events that list all devices when the provider is enabled.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device rundown ({Device}).,{Device}
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/12/20,22621.963,Device rundown ({Device}).,{Device}
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/11/15,22621.819,Device rundown ({Device}).,{Device}
@@ -1204,6 +1208,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 10,1511,Pro,1970/01/01,10586.0,Device rundown ({Device}).,{Device}
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 10,1507,Pro,2015/07/29,10240.0,Device rundown ({Device}).,{Device}
 5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device rundown ({Device}).,{Device}
+5,1,Information,Analytic,Rundown events.,,Rundown events that list all devices when the provider is enabled.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device rundown ({Device}).,{Device}
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -1445,6 +1450,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 10,1511,Pro,1970/01/01,10586.0,,
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 10,1507,Pro,2015/07/29,10240.0,,
 6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+6,1,Information,Analytic,Rundown events.,Stop,Rundown events that list all devices when the provider is enabled.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 7,1,Information,Analytic,,,Plug & Play events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device created ({Device}).,{Device}
 7,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Device created ({Device}).,{Device}
 7,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Device created ({Device}).,{Device}
@@ -1686,6 +1692,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 7,1,Information,Analytic,,,Plug & Play events.,Windows 10,1511,Pro,1970/01/01,10586.0,Device created ({Device}).,{Device}
 7,1,Information,Analytic,,,Plug & Play events.,Windows 10,1507,Pro,2015/07/29,10240.0,Device created ({Device}).,{Device}
 7,1,Information,Analytic,,,Plug & Play events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device created ({Device}).,{Device}
+7,1,Information,Analytic,,,Plug & Play events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device created ({Device}).,{Device}
 8,1,Information,Analytic,,,Plug & Play events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device destroyed ({Device}).,{Device}
 8,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Device destroyed ({Device}).,{Device}
 8,1,Information,Analytic,,,Plug & Play events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Device destroyed ({Device}).,{Device}
@@ -1927,6 +1934,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 8,1,Information,Analytic,,,Plug & Play events.,Windows 10,1511,Pro,1970/01/01,10586.0,Device destroyed ({Device}).,{Device}
 8,1,Information,Analytic,,,Plug & Play events.,Windows 10,1507,Pro,2015/07/29,10240.0,Device destroyed ({Device}).,{Device}
 8,1,Information,Analytic,,,Plug & Play events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device destroyed ({Device}).,{Device}
+8,1,Information,Analytic,,,Plug & Play events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device destroyed ({Device}).,{Device}
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
@@ -2168,6 +2176,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
+9,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -2409,6 +2418,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+10,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -2650,6 +2660,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+11,1,Error,Analytic,I/O request.,,TransferStateMachine events. Transmit TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Invalid Transition TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
@@ -2891,6 +2902,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
+12,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -3132,6 +3144,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+13,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -3373,6 +3386,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+14,1,Error,Analytic,I/O request.,,TransferStateMachine events. Receive TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Invalid Transition ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Processing {IOCTL}.,{IOCTL}
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Processing {IOCTL}.,{IOCTL}
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Processing {IOCTL}.,{IOCTL}
@@ -3614,6 +3628,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Processing {IOCTL}.,{IOCTL}
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Processing {IOCTL}.,{IOCTL}
 15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Processing {IOCTL}.,{IOCTL}
+15,1,Information,Analytic,IOCTL request.,Start,IOCTL request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Processing {IOCTL}.,{IOCTL}
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
@@ -3855,6 +3870,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
 16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
+16,1,Information,Analytic,IOCTL request.,Stop,IOCTL request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Completed {IOCTL} with {Status}.,{IOCTL} | {Status}
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transmit I/O request for {Length} bytes started.,{Length}
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Transmit I/O request for {Length} bytes started.,{Length}
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Transmit I/O request for {Length} bytes started.,{Length}
@@ -4096,6 +4112,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Transmit I/O request for {Length} bytes started.,{Length}
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Transmit I/O request for {Length} bytes started.,{Length}
 17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transmit I/O request for {Length} bytes started.,{Length}
+17,1,Information,Analytic,I/O request.,Start,I/O request events. Transmit I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transmit I/O request for {Length} bytes started.,{Length}
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transmit I/O request completed ({Status}).,{Status}
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Transmit I/O request completed ({Status}).,{Status}
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Transmit I/O request completed ({Status}).,{Status}
@@ -4337,6 +4354,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Transmit I/O request completed ({Status}).,{Status}
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Transmit I/O request completed ({Status}).,{Status}
 18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transmit I/O request completed ({Status}).,{Status}
+18,1,Information,Analytic,I/O request.,Stop,I/O request events. Transmit I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transmit I/O request completed ({Status}).,{Status}
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 11,22H2,Pro,2022/12/20,22621.963,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 11,22H2,Pro,2022/11/15,22621.819,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
@@ -4578,6 +4596,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 10,1511,Pro,1970/01/01,10586.0,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 10,1507,Pro,2015/07/29,10240.0,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
+19,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Transmit I/O request payloads.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transmit I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Receive I/O request for {Length} bytes started.,{Length}
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Receive I/O request for {Length} bytes started.,{Length}
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Receive I/O request for {Length} bytes started.,{Length}
@@ -4819,6 +4838,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Receive I/O request for {Length} bytes started.,{Length}
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Receive I/O request for {Length} bytes started.,{Length}
 20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Receive I/O request for {Length} bytes started.,{Length}
+20,1,Information,Analytic,I/O request.,Start,I/O request events. Receive I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Receive I/O request for {Length} bytes started.,{Length}
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Receive I/O request completed ({Status}).,{Status}
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Receive I/O request completed ({Status}).,{Status}
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Receive I/O request completed ({Status}).,{Status}
@@ -5060,6 +5080,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Receive I/O request completed ({Status}).,{Status}
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Receive I/O request completed ({Status}).,{Status}
 21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Receive I/O request completed ({Status}).,{Status}
+21,1,Information,Analytic,I/O request.,Stop,I/O request events. Receive I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Receive I/O request completed ({Status}).,{Status}
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 11,22H2,Pro,2022/12/20,22621.963,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 11,22H2,Pro,2022/11/15,22621.819,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
@@ -5301,6 +5322,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 10,1511,Pro,1970/01/01,10586.0,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 10,1507,Pro,2015/07/29,10240.0,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
+22,1,Verbose,Analytic,I/O request.,I/O payload operation.,I/O request payloads. Receive I/O request payloads.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Receive I/O chunk of {Length} bytes using {TransferModeEvent}.,{Length} | {TransferModeEvent}
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
@@ -5542,6 +5564,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
 23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
+23,1,Information,Analytic,I/O request.,,I/O request events. Receive I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Saved {BytesSaved} bytes before exiting D0. Total {TotalBytes} bytes.,{BytesSaved} | {TotalBytes}
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transitioning to system power state {TargetState}.,{TargetState}
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Transitioning to system power state {TargetState}.,{TargetState}
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Transitioning to system power state {TargetState}.,{TargetState}
@@ -5783,6 +5806,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 10,1511,Pro,1970/01/01,10586.0,Transitioning to system power state {TargetState}.,{TargetState}
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 10,1507,Pro,2015/07/29,10240.0,Transitioning to system power state {TargetState}.,{TargetState}
 24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transitioning to system power state {TargetState}.,{TargetState}
+24,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transitioning to system power state {TargetState}.,{TargetState}
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Transitioning to device power state {TargetState}.,{TargetState}
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Transitioning to device power state {TargetState}.,{TargetState}
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Transitioning to device power state {TargetState}.,{TargetState}
@@ -6024,6 +6048,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 10,1511,Pro,1970/01/01,10586.0,Transitioning to device power state {TargetState}.,{TargetState}
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 10,1507,Pro,2015/07/29,10240.0,Transitioning to device power state {TargetState}.,{TargetState}
 25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Transitioning to device power state {TargetState}.,{TargetState}
+25,1,Information,Analytic,Power state transitions.,Start,Power state transition events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Transitioning to device power state {TargetState}.,{TargetState}
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,22H2,Pro,2022/12/20,22621.963,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,22H2,Pro,2022/11/15,22621.819,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
@@ -6265,6 +6290,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 10,1511,Pro,1970/01/01,10586.0,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 10,1507,Pro,2015/07/29,10240.0,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
+26,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,System power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
@@ -6506,6 +6532,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 10,1511,Pro,1970/01/01,10586.0,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 10,1507,Pro,2015/07/29,10240.0,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
+27,1,Information,Analytic,Power state transitions.,Stop,Power state transition events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Device power state transition {TargetState} complete ({Status}).,{TargetState} | {Status}
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,Event {Event}.,{Event}
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 11,22H2,Pro,2022/12/20,22621.963,Event {Event}.,{Event}
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 11,22H2,Pro,2022/11/15,22621.819,Event {Event}.,{Event}
@@ -6747,6 +6774,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 10,1511,Pro,1970/01/01,10586.0,Event {Event}.,{Event}
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 10,1507,Pro,2015/07/29,10240.0,Event {Event}.,{Event}
 28,1,Information,Analytic,I/O request.,,I/O request events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Event {Event}.,{Event}
+28,1,Information,Analytic,I/O request.,,I/O request events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Event {Event}.,{Event}
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
@@ -6988,6 +7016,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
+29,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TransmitSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -7229,6 +7258,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+30,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Transmit TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,TransmitSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
@@ -7470,6 +7500,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
+31,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,ReceiveSM ({TransferSmContext}) Event: {Event},{TransferSmContext} | {Event}
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,24H2,Pro,2024/10/2,26100.1742,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/12/20,22621.963,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 11,22H2,Pro,2022/11/15,22621.819,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
@@ -7711,3 +7742,4 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1511,Pro,1970/01/01,10586.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 10,1507,Pro,2015/07/29,10240.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
 32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows 8.1,8.1,Pro,1970/01/01,9600.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}
+32,1,Information,Analytic,I/O request.,I/O StateMachine operation.,TransferStateMachine events. Receive TransferStateMachine events.,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,ReceiveSM ({TransferSmContext}) Transition: {FromState}[{Event}] -> {ToState},{TransferSmContext} | {FromState} | {Event} | {ToState}

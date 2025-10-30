@@ -8,6 +8,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,The calling process is {FileName},{FileName}
 301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,The calling process is {FileName},{FileName}
 301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,The calling process is {FileName},{FileName}
+301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,The calling process is {FileName},{FileName}
 301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,The calling process is {FileName},{FileName}
 301,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,The calling process is {FileName},{FileName}
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
@@ -251,6 +252,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
+302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 302,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
@@ -494,6 +496,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
+303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 303,0,Warning,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Failed to start system service: {ServiceName} with error: {ErrorCode}.,{ServiceName} | {ErrorCode}
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
@@ -737,6 +740,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
+304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
 304,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Starting recovery of package repository during a {RecoveryType}.,{RecoveryType}
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
@@ -980,6 +984,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
+305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
 305,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Finished recovery of package repository with result code {ErrorCode}.,{ErrorCode}
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
@@ -1223,6 +1228,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
+306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
 306,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Skipping recovery of package {PackageFullName} because it is already installed.,{PackageFullName}
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
@@ -1466,6 +1472,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
+307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
 307,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Recovery has completed for package {PackageFullName} with result code {ErrorCode}.,{PackageFullName} | {ErrorCode}
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -1709,6 +1716,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 308,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
@@ -1952,6 +1960,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
+309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
 309,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Finished staged package recovery with result code {ErrorCode}.,{ErrorCode}
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
@@ -2195,6 +2204,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
+310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
 310,0,Information,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,Skipping recovery of package {PackageFullName} because of error {ErrorCode}.,{PackageFullName} | {ErrorCode}
 311,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to bind to the APPXSVC RPC server with error: {ErrorCode}.,{ErrorCode}
@@ -2438,6 +2448,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 311,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,Failed to bind to the APPXSVC RPC server with error: {ErrorCode}.,{ErrorCode}
 311,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,Failed to bind to the APPXSVC RPC server with error: {ErrorCode}.,{ErrorCode}
 311,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Failed to bind to the APPXSVC RPC server with error: {ErrorCode}.,{ErrorCode}
+311,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Failed to bind to the APPXSVC RPC server with error: {ErrorCode}.,{ErrorCode}
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
@@ -2679,6 +2690,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
+312,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} is corrupted (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
@@ -2920,6 +2932,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
 313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
+313,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Section} | {ProcessId}
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
@@ -3161,6 +3174,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
+314,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} contains conflicting data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
@@ -3402,6 +3416,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
+315,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} contains unexpected data (address={HeaderAddr}; size={Size}; offset={Offset}; section={Section}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {Offset} | {Section} | {ProcessId}
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
@@ -3643,6 +3658,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
 316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
+316,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} failed to load (processid={ProcessId}).,{ErrorCode} | {FileName} | {ProcessId}
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
@@ -3884,6 +3900,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
 317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
+317,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,Package runtime information {FileName} failed to load because exception {ExceptionCode} occurred.,{FileName} | {ExceptionCode}
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
@@ -4125,6 +4142,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
 318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
+318,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Package runtime information {FileName} is missing expected data (address={HeaderAddr}; size={Size}; section={ApplicationUserModelId}; processid={ProcessId}). Reinstall the package to fix this issue.,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ApplicationUserModelId} | {ProcessId}
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,24H2,Pro,2024/10/2,26100.1742,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/12/20,22621.963,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 11,22H2,Pro,2022/11/15,22621.819,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
@@ -4366,6 +4384,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1511,Pro,1970/01/01,10586.0,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 10,1507,Pro,2015/07/29,10240.0,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
 319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows 8.1,8.1,Pro,1970/01/01,9600.0,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
+319,0,Error,Microsoft-Windows-AppXDeployment/Operational,,,DMR,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,{ErrorCode}: Application identity not accessible while loading package runtime information {FileName} (address={HeaderAddr}; size={Size}; processid={ProcessId}).,{ErrorCode} | {FileName} | {HeaderAddr} | {Size} | {ProcessId}
 320,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,Failed to queue removal of package {PackageName} for user {UserSid} with error: {ErrorCode}.,{PackageName} | {UserSid} | {ErrorCode}
 320,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,22H2,Pro,2022/12/20,22621.963,Failed to queue removal of package {PackageName} for user {UserSid} with error: {ErrorCode}.,{PackageName} | {UserSid} | {ErrorCode}
 320,0,Error,Microsoft-Windows-AppXDeployment/Operational,AppXDeployment.Task.Client.Deployment,,AppXDeployment,Windows 11,22H2,Pro,2022/11/15,22621.819,Failed to queue removal of package {PackageName} for user {UserSid} with error: {ErrorCode}.,{PackageName} | {UserSid} | {ErrorCode}
@@ -6426,6 +6445,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1001,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -6669,6 +6689,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1002,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -6912,6 +6933,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1003,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.ServiceStartup,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7155,6 +7177,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1004,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7398,6 +7421,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1005,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.AddPackage,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7641,6 +7665,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1006,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -7884,6 +7909,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1007,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.RemovePackage,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -8127,6 +8153,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1008,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -8370,6 +8397,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1009,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -8613,6 +8641,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1010,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -8856,6 +8885,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1011,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9099,6 +9129,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1012,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9342,6 +9373,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1013,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9585,6 +9617,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1014,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -9828,6 +9861,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1015,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10071,6 +10105,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1016,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10314,6 +10349,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1017,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10557,6 +10593,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1018,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -10800,6 +10837,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1019,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -11043,6 +11081,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1020,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -11286,6 +11325,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1021,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -11529,6 +11569,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1022,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -11772,6 +11813,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1023,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12015,6 +12057,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1024,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12258,6 +12301,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1025,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12501,6 +12545,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1026,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12744,6 +12789,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1027,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -12987,6 +13033,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1028,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13230,6 +13277,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1029,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13473,6 +13521,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1030,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13716,6 +13765,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1031,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -13959,6 +14009,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1032,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14202,6 +14253,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1033,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14445,6 +14497,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1034,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Start,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14688,6 +14741,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows 8,8,Pro,1970/01/01,9200.0,,
 1035,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.EnumAPI,Stop,AppXDeployment,Windows Server 2012,RTM,Standard,2012/08/01,9200.0,,
 1036,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
@@ -14931,6 +14985,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1036,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1036,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1036,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1036,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 11,22H2,Pro,2022/11/15,22621.819,,
@@ -15172,6 +15227,7 @@ Event ID,Event Version,Level,Channel,Task,Opcode,Keyword,Windows,Version,Edition
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1511,Pro,1970/01/01,10586.0,,
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 10,1507,Pro,2015/07/29,10240.0,,
 1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows 8.1,8.1,Pro,1970/01/01,9600.0,,
+1037,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Stop,AppXDeployment,Windows Server 2012R2,Update3,Standard,2014/11/17,9600.0,,
 1038,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,24H2,Pro,2024/10/2,26100.1742,,
 1038,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,22H2,Pro,2022/12/20,22621.963,,
 1038,0,Information,Microsoft-Windows-AppXDeployment/Diagnostic,AppXDeployment.Task.Client.Deployment,Start,AppXDeployment,Windows 11,22H2,Pro,2022/11/15,22621.819,,
